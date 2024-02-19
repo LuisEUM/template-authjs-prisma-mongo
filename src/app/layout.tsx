@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Providers from "@/src/components/providers/Providers";
 import TopNavbar from "@/src/components/navigations/TopNavbar";
-import { inter } from "@/src/lib/utils/utils";
-import ToastContainerWrapper from "@/src/components/share/ToastContainerWrapper";
+import { cn, inter } from "@/src/lib/utils/utils";
+// import ToastContainerWrapper from "@/src/components/share/ToastContainerWrapper";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -17,9 +17,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body>
         <Providers>
-          <main className="h-full flex flex-col min-w-80">
+          <main
+            className={cn(
+              "h-full min-h-screen bg-background flex flex-col min-w-80 font-sans antialiased ",
+              inter.className
+            )}
+          >
             {/* <ToastContainerWrapper /> */}
             <TopNavbar />
             {children}
