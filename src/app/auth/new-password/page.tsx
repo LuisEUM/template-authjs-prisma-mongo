@@ -1,5 +1,5 @@
-import CardWrapper from "@/components/auth/CardWrapper";
-import NewPasswordForm from "@/components/auth/NewPasswordForm";
+import CardWrapper from "@/src/components/auth/CardWrapper";
+import NewPasswordForm from "@/src/components/auth/NewPasswordForm";
 import React from "react";
 
 type Props = {};

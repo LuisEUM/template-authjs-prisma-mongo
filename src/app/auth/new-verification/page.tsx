@@ -1,4 +1,4 @@
-import NewVerificationForm from "@/components/auth/NewVerificationForm";
+import NewVerificationForm from "@/src/components/auth/NewVerificationForm";
 import prisma from "@/src/lib/database";
 import React from "react";
 

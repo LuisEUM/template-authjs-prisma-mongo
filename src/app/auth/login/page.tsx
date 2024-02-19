@@ -1,4 +1,4 @@
-import LoginCard from "@/components/auth/LoginCard";
+import LoginCard from "@/src/components/auth/LoginCard";
 
 type Props = {};
 

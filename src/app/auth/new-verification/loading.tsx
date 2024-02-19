@@ -1,5 +1,5 @@
-import CardWrapper from "@/components/auth/CardWrapper";
-import LoadingSpinner from "@/components/share/LoadingSpinner";
+import CardWrapper from "@/src/components/auth/CardWrapper";
+import LoadingSpinner from "@/src/components/share/LoadingSpinner";
 import React from "react";
 
 type Props = {};

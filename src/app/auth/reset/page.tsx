@@ -1,5 +1,5 @@
-import CardWrapper from "@/components/auth/CardWrapper";
-import ResetPasswordForm from "@/components/auth/ResetPasswordForm";
+import CardWrapper from "@/src/components/auth/CardWrapper";
+import ResetPasswordForm from "@/src/components/auth/ResetPasswordForm";
 import React from "react";
 
 type Props = {};

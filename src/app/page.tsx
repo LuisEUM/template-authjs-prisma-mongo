@@ -1,5 +1,5 @@
-import LogoutButton from "@/components/share/LogoutButton";
-import { Button } from "@/components/ui/button";
+import LogoutButton from "@/src/components/share/LogoutButton";
+import { Button } from "@/src/components/ui/button";
 import { auth, signOut } from "@/src/lib/auth";
 import Image from "next/image";
 

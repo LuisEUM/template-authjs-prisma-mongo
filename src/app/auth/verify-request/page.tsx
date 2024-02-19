@@ -1,4 +1,4 @@
-import CardWrapper from "@/components/auth/CardWrapper";
+import CardWrapper from "@/src/components/auth/CardWrapper";
 import { headers } from "next/headers";
 import React from "react";
 

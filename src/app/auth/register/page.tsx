@@ -1,4 +1,4 @@
-import RegisterCard from "@/components/auth/RegisterCard";
+import RegisterCard from "@/src/components/auth/RegisterCard";
 
 type Props = {};
 

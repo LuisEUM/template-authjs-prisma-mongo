@@ -1,7 +1,7 @@
 import { auth, signOut } from "@/src/lib/auth";
 import prisma from "@/src/lib/database";
-import { Card, CardContent, CardHeader } from "@/components/ui/card";
-import SettingsForm from "@/components/protected/SettingsForm";
+import { Card, CardContent, CardHeader } from "@/src/components/ui/card";
+import SettingsForm from "@/src/components/protected/SettingsForm";
 import { SettingsUser } from "@/next-auth";
 import { redirect } from "next/navigation";
 import { Settings } from "lucide-react";
