@@ -1,6 +1,6 @@
 import * as React from "react";
 import { Button } from "../ui/button";
-import { cn } from "@/lib/utils";
+import { cn } from "@/src/lib/utils";
 import LoadingSpinner from "./LoadingSpinner";
 
 export interface LoadingButtonProps

@@ -1,5 +1,5 @@
-import { auth, signOut } from "@/lib/auth";
-import prisma from "@/lib/database";
+import { auth, signOut } from "@/src/lib/auth";
+import prisma from "@/src/lib/database";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import SettingsForm from "@/components/protected/SettingsForm";
 import { SettingsUser } from "@/next-auth";

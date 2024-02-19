@@ -1,5 +1,5 @@
 import NewVerificationForm from "@/components/auth/NewVerificationForm";
-import prisma from "@/lib/database";
+import prisma from "@/src/lib/database";
 import React from "react";
 
 type Props = {

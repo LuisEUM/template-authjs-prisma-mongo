@@ -6,7 +6,7 @@ import { FcGoogle } from "react-icons/fc";
 import { FaGithub } from "react-icons/fa";
 import { signIn, signOut } from "next-auth/react";
 import { useSearchParams } from "next/navigation";
-import { DEFAULT_LOGIN_REDIRECT } from "@/lib/routes";
+import { DEFAULT_LOGIN_REDIRECT } from "@/src/lib/routes";
 
 type Props = {};
 

@@ -1,4 +1,4 @@
-import { cn, merriweather } from "@/lib/utils";
+import { cn, merriweather } from "@/src/lib/utils";
 import React from "react";
 
 type Props = {
