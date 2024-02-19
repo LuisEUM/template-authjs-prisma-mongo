@@ -12,7 +12,7 @@ type Props = {};
 
 const Social = (props: Props) => {
   const searchParams = useSearchParams();
-  const callbackUrl = searchParams.get("callbackUrl");
+  const callbackUrl = searchParams?.get("callbackUrl");
 
   const handleClick = (provider: "google" | "github") => {
     signIn(provider, {
