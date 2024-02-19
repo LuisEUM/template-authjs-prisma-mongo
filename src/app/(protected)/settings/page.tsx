@@ -1,8 +1,8 @@
 import { auth, signOut } from "@/src/lib/auth";
-import prisma from "@/src/lib/database";
+import prisma from "@/prisma/database";
 import { Card, CardContent, CardHeader } from "@/src/components/ui/card";
 import SettingsForm from "@/src/components/protected/SettingsForm";
-import { SettingsUser } from "@/next-auth";
+import { SettingsUser } from "@/src/next-auth";
 import { redirect } from "next/navigation";
 import { Settings } from "lucide-react";
 
