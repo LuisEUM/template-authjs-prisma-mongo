@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Providers from "@/src/components/providers/Providers";
 import TopNavbar from "@/src/components/navigations/TopNavbar";
-import { inter } from "@/src/lib/utils";
+import { inter } from "@/src/lib/utils/utils";
 import ToastContainerWrapper from "@/src/components/share/ToastContainerWrapper";
 
 export const metadata: Metadata = {

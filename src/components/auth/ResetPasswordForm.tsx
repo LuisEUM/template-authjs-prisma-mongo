@@ -8,8 +8,8 @@ import {
   FormLabel,
   FormMessage,
 } from "@/src/components/ui/form";
-import { reset } from "@/src/lib/server-actions";
-import { ResetSchema } from "@/src/lib/zod-schemas";
+import { reset } from "@/src/lib/actions/server-actions";
+import { ResetSchema } from "@/src/lib/types/zod-schemas";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useState, useTransition } from "react";
 import { useForm } from "react-hook-form";

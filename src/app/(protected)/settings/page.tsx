@@ -1,4 +1,4 @@
-import { auth, signOut } from "@/src/lib/auth";
+import { auth, signOut } from "@/src/lib/actions/auth/auth";
 import prisma from "@/prisma/database";
 import { Card, CardContent, CardHeader } from "@/src/components/ui/card";
 import SettingsForm from "@/src/components/protected/SettingsForm";

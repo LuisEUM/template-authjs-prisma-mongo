@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { Button, buttonVariants } from "../ui/button";
-import { cn } from "@/src/lib/utils";
+import { cn } from "@/src/lib/utils/utils";
 
 type Props = {
   label: string;

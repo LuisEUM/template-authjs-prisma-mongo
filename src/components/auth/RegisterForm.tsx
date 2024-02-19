@@ -18,8 +18,8 @@ import ErrorMessageBox from "../share/MessageErrorBox";
 import SuccessMessageBox from "../share/MessageSuccessBox";
 
 import LoadingButton from "../share/LoadingButton";
-import { RegisterSchema } from "@/src/lib/zod-schemas";
-import { register } from "@/src/lib/server-actions";
+import { RegisterSchema } from "@/src/lib/types/zod-schemas";
+import { register } from "@/src/lib/actions/server-actions";
 
 type Props = {};
 

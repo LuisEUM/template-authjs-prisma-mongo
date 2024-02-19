@@ -2,7 +2,7 @@
 
 import React from "react";
 import { Button } from "../ui/button";
-import { logout } from "@/src/lib/server-actions";
+import { logout } from "@/src/lib/actions/server-actions";
 
 type Props = {};
 

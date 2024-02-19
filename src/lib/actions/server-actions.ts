@@ -3,7 +3,7 @@
 import bcrypt from "bcryptjs";
 import * as z from "zod";
 
-import { auth, signIn, signOut, unstable_update as update } from "./auth";
+import { auth, signIn, signOut, unstable_update as update } from "./auth/auth";
 import {
   CredentialSigninSchema,
   EmailSchema,
@@ -11,20 +11,20 @@ import {
   RegisterSchema,
   ResetSchema,
   SettingsSchema,
-} from "./zod-schemas";
-import prisma from "../../prisma/database";
+} from "../types/zod-schemas";
+import prisma from "../../../prisma/database";
 import {
   generatePasswordResetToken,
   generateTwoFactorToken,
   generateVerificationToken,
-} from "./tokens";
+} from "./auth/tokens";
 import {
   sendPasswordResetEmail,
   sendTwoFactorTokenEmail,
   sendVerificationEmail,
-} from "./mailer";
+} from "./mailer/mailer";
 import { AuthError } from "next-auth";
-import { DEFAULT_LOGIN_REDIRECT } from "./routes";
+import { DEFAULT_LOGIN_REDIRECT } from "../routes/routes";
 
 export const logout = async () => {
   await signOut();

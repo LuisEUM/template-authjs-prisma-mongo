@@ -1,4 +1,4 @@
-import { cn } from "@/src/lib/utils";
+import { cn } from "@/src/lib/utils/utils";
 import { ExtendedUser } from "@/src/next-auth";
 import Link from "next/link";
 import React from "react";

@@ -8,10 +8,10 @@ import GitHubProvider from "next-auth/providers/github";
 
 import GoogleProvider from "next-auth/providers/google";
 import authConfig from "./auth.config";
-import prisma from "../../prisma/database";
+import prisma from "../../../../prisma/database";
 
-import { CredentialSigninSchema } from "./zod-schemas";
-import { html, text } from "./utils";
+import { CredentialSigninSchema } from "../../types/zod-schemas";
+import { html, text } from "../../utils/utils";
 
 export const {
   handlers: { GET, POST },
