@@ -1,5 +1,5 @@
 import { cn } from "@/src/lib/utils";
-import { ExtendedUser } from "@/next-auth";
+import { ExtendedUser } from "@/src/next-auth";
 import Link from "next/link";
 import React from "react";
 import { buttonVariants } from "../ui/button";
