@@ -1,7 +1,7 @@
 "use client";
 
-import { newPassword } from "@/lib/server-actions";
-import { NewPasswordSchema } from "@/lib/zod-schemas";
+import { newPassword } from "@/src/lib/server-actions";
+import { NewPasswordSchema } from "@/src/lib/zod-schemas";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useSearchParams } from "next/navigation";
 import { useState, useTransition } from "react";
@@ -15,7 +15,7 @@ import {
   FormItem,
   FormLabel,
   FormMessage,
-} from "@/components/ui/form";
+} from "@/src/components/ui/form";
 import { Input } from "../ui/input";
 import FormError from "../share/MessageErrorBox";
 import FormSuccess from "../share/MessageSuccessBox";

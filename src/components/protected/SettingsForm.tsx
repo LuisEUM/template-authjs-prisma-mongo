@@ -1,5 +1,5 @@
 "use client";
-import { SettingsSchema } from "@/lib/zod-schemas";
+import { SettingsSchema } from "@/src/lib/zod-schemas";
 import { zodResolver } from "@hookform/resolvers/zod";
 import React, { useState, useTransition } from "react";
 import { useForm } from "react-hook-form";
@@ -12,21 +12,21 @@ import {
   FormItem,
   FormLabel,
   FormMessage,
-} from "@/components/ui/form";
-import { Input } from "@/components/ui/input";
-import FormError from "@/components/share/MessageErrorBox";
-import FormSuccess from "@/components/share/MessageSuccessBox";
+} from "@/src/components/ui/form";
+import { Input } from "@/src/components/ui/input";
+import FormError from "@/src/components/share/MessageErrorBox";
+import FormSuccess from "@/src/components/share/MessageSuccessBox";
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select";
+} from "@/src/components/ui/select";
 import { UserRole } from "@prisma/client";
-import { Switch } from "@/components/ui/switch";
-import { settings } from "@/lib/server-actions";
-import { SettingsUser } from "@/next-auth";
+import { Switch } from "@/src/components/ui/switch";
+import { settings } from "@/src/lib/server-actions";
+import { SettingsUser } from "@/src/next-auth";
 import LoadingButton from "../share/LoadingButton";
 
 type Props = {

@@ -11,15 +11,15 @@ import {
   FormItem,
   FormLabel,
   FormMessage,
-} from "@/components/ui/form";
+} from "@/src/components/ui/form";
 
 import { Input } from "../ui/input";
 import ErrorMessageBox from "../share/MessageErrorBox";
 import SuccessMessageBox from "../share/MessageSuccessBox";
 
 import LoadingButton from "../share/LoadingButton";
-import { EmailSchema } from "@/lib/zod-schemas";
-import { emailLogin } from "@/lib/server-actions";
+import { EmailSchema } from "@/src/lib/zod-schemas";
+import { emailLogin } from "@/src/lib/server-actions";
 
 type Props = {};
 

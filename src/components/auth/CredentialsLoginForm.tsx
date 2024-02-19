@@ -11,7 +11,7 @@ import {
   FormItem,
   FormLabel,
   FormMessage,
-} from "@/components/ui/form";
+} from "@/src/components/ui/form";
 
 import { Input } from "../ui/input";
 import { Button } from "../ui/button";
@@ -19,8 +19,8 @@ import FormError from "../share/MessageErrorBox";
 import FormSuccess from "../share/MessageSuccessBox";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
-import { CredentialSigninSchema } from "@/lib/zod-schemas";
-import { credentialsLogin } from "@/lib/server-actions";
+import { CredentialSigninSchema } from "@/src/lib/zod-schemas";
+import { credentialsLogin } from "@/src/lib/server-actions";
 import LoadingButton from "../share/LoadingButton";
 
 type Props = {};
