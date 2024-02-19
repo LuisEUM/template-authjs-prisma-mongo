@@ -12,7 +12,7 @@ import {
   ResetSchema,
   SettingsSchema,
 } from "./zod-schemas";
-import prisma from "./database";
+import prisma from "../../prisma/database";
 import {
   generatePasswordResetToken,
   generateTwoFactorToken,

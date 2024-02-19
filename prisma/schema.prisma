@@ -12,15 +12,19 @@ datasource db {
 enum UserRole {
   ADMIN
   USER
+  SUPERADMIN
 }
 
 model User {
   id                    String                 @id @default(auto()) @map("_id") @db.ObjectId
   name                  String?
+  lastName              String?
   email                 String?                @unique
   emailVerified         DateTime?
   image                 String?
   password              String?
+  contactNumber         String?
+  terms                 Boolean                @default(true)
   role                  UserRole               @default(USER)
   isTwoFactorEnabled    Boolean                @default(false)
   twoFactorConfirmation TwoFactorConfirmation?
