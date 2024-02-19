@@ -1,0 +1,12 @@
+{
+  "id": "slider1",
+  "order": 1,
+  "type": "slider",
+  "classType": "default",
+  "url": "",
+  "active": true,
+  "available": {
+    "startDateTime": null,
+    "endDateTime": null
+  }
+}

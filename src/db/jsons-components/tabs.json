@@ -1,0 +1,39 @@
+{
+  "id": "tabs1",
+  "order": 1,
+  "type": "tabs",
+  "classType": "default",
+  "content": [
+    {
+      "id": "tab1",
+      "order": 1,
+      "type": "tab",
+      "title": "Tab 1",
+      "classType": "default",
+      "content": [],
+      "active": true,
+      "available": {
+        "startDateTime": null,
+        "endDateTime": null
+      }
+    },
+    {
+      "id": "tab2",
+      "order": 2,
+      "type": "tab",
+      "title": "Tab 2",
+      "classType": "default",
+      "content": [],
+      "active": true,
+      "available": {
+        "startDateTime": null,
+        "endDateTime": null
+      }
+    }
+  ],
+  "active": true,
+  "available": {
+    "startDateTime": null,
+    "endDateTime": null
+  }
+}

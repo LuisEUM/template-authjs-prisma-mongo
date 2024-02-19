@@ -1,0 +1,13 @@
+{
+  "id": "button1",
+  "order": 1,
+  "type": "button",
+  "classType": "default",
+  "title": "Enlace de Descarga",
+  "url": "",
+  "active": true,
+  "available": {
+    "startDateTime": null,
+    "endDateTime": null
+  }
+}

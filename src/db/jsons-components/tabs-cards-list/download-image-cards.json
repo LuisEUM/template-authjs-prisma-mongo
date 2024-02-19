@@ -1,0 +1,32 @@
+{
+  "id": "carteleria1",
+  "order": 1,
+  "type": "tabsCardsList",
+  "childrensType": "downloadImageCards",
+  "title": "Cartelería",
+  "content": [
+    {
+      "id": null,
+      "order": null,
+      "title": "",
+      "copy": "",
+      "url": "#",
+      "category": null,
+      "lang": null,
+      "groupTitle": null
+    },
+    {
+      "title": "",
+      "url": "#"
+    },
+    {
+      "title": "",
+      "url": "#"
+    }
+  ],
+  "active": true,
+  "available": {
+    "startDateTime": null,
+    "endDateTime": null
+  }
+}

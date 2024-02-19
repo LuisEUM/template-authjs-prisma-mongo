@@ -1,0 +1,64 @@
+{
+  "months": [
+    {
+      "id": "january",
+      "title": "Enero",
+      "name": "Enero"
+    },
+    {
+      "id": "february",
+      "title": "Febrero",
+      "name": "Febrero"
+    },
+    {
+      "id": "march",
+      "title": "Marzo",
+      "name": "Marzo"
+    },
+    {
+      "id": "april",
+      "title": "Abril",
+      "name": "Abril"
+    },
+    {
+      "id": "may",
+      "title": "Mayo",
+      "name": "Mayo"
+    },
+    {
+      "id": "june",
+      "title": "Junio",
+      "name": "Junio"
+    },
+    {
+      "id": "july",
+      "title": "Julio",
+      "name": "Julio"
+    },
+    {
+      "id": "august",
+      "title": "Agosto",
+      "name": "Agosto"
+    },
+    {
+      "id": "september",
+      "title": "Septiembre",
+      "name": "Septiembre"
+    },
+    {
+      "id": "october",
+      "title": "Octubre",
+      "name": "Octubre"
+    },
+    {
+      "id": "november",
+      "title": "Noviembre",
+      "name": "Noviembre"
+    },
+    {
+      "id": "december",
+      "title": "Diciembre",
+      "name": "Diciembre"
+    }
+  ]
+}

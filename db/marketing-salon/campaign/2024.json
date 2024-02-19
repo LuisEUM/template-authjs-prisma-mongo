@@ -1,0 +1,3756 @@
+{
+  "january": {
+    "marketingPlan": {
+      "id": "marketingPlan",
+      "name": "Plan de Marketing",
+      "order": 1,
+      "tabs": [
+        {
+          "id": "contextAndOportunities",
+          "title": "Contexto & Oportunidades",
+          "type": "video",
+          "url": "https://player.vimeo.com/video/885659642?h=8e3a9cd755"
+        },
+        {
+          "id": "marketingPlan",
+          "title": "Plan de Marketing",
+          "type": "video",
+          "url": "https://player.vimeo.com/video/885659715?h=13bf3773b8"
+        },
+        {
+          "id": "sellingPlan",
+          "title": "Plan de Ventas",
+          "type": "video",
+          "url": "https://player.vimeo.com/video/885660544?h=e0c33dc072"
+        },
+        {
+          "id": "libertyCard",
+          "title": "Calculadora Liberty Card",
+          "type": "button",
+          "url": "https://docs.google.com/spreadsheets/d/1BVM62EMe5xHN7b8HeDg7tU5NFq-7cmMPDzb4b8GJ8M0/copy"
+        }
+      ],
+      "formButton": {
+        "title": "Enlace al formulario",
+        "active": true,
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScryRtS-vEbcdracD5G5-pjgawveoXG_BSNOZH2HreMSTtzCQ/viewform?usp=sf_link"
+      },
+      "slides": {
+        "url": "https://docs.google.com/presentation/d/e/2PACX-1vTVg50zHoEV4enUi_7og7ieo9P5jpbynKaKkROcjF9cSzZAdxY4ikR17vSvaiu8LJXx1fz9G9KbfS22/embed?start=false&loop=true&delayms=3000",
+        "active": true
+      }
+    },
+    "digitalContent": {
+      "id": "digitalContent",
+      "name": "Redes Sociales",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": [
+          {
+            "name": "Semana-1-Día-1/Post_Semana-1-Día-1",
+            "copy": "Este 2024… ¡Libérate de las REBAJAS! 🎉\n\nTermina la navidad, comienza el 2024 y con él… ¡La época de REBAJAS! 🛍️\n\n¿Qué pensarías si te dijéramos que puedes ahorrar en Peluquería TODO el año y no tener que depender de las REBAJAS para venir más barato al salón? 🤔\n\nLa solución se llama LIBERTY CARDS, es nuestro nuevo servicio exclusivo y te está esperando para que disfrutes, sin límites, de un cabello bonito durante todo el año. 😍\n\nComo siempre. Puedes contactar con nuestro equipo para que resolvamos cualquier duda que tengas. 📞\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #libertycards #ahorro #descuento #servicioexclusivo #sinlimites #bonita #contacto",
+            "url": "https://drive.google.com/uc?id=1qjvvvoVpgz8jumFlXAJJB2QofsEDdVP_&export=download",
+            "order": 1,
+            "groupName": "Semana 1"
+          },
+          {
+            "name": "Semana-1-Día-2/Post_Semana-1-Día-2",
+            "copy": "💇Descubre las tendencias en CORTE para este 2024 ✂️\n\nDamos la bienvenida al nuevo año y compartimos contigo las últimas tendencias en corte que marcarán estilo este 2024. 🌟\n\nEstilo Shixie: Una fusión vanguardista entre el pixie y el shaggy da lugar al corte Shixie. Este look presenta un cabello corto escalonado, con longitud en la nuca y patillas, logrando un efecto texturizado que añade un toque de estilo único. 💫\n\nBob Asimétrico: Un enfoque moderno del clásico bob, incorpora múltiples capas que combinan la elegancia del bob convencional con un toque mullet gracias a un escalón pronunciado. Las capas largas proporcionan una melena de longitud media, versátil y favorecedora. 🌈\n\nLong Bob Degradado: Una versión extendida del bob que incorpora un degradado para añadir textura y volumen. Este estilo se adapta a diversos tipos de rostros, siendo una de las opciones más favorecedoras para diferentes tipos de melena. 🎨\n\nAcompáñanos durante este mes para descubrir más sobre las tendencias más recientes. ¡O comparte tus preguntas en los comentarios! 👇\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #libertycards #ahorro #descuento #servicioexclusivo #sinlimites #Estilo2024 #CortesDePelo #ModaCapilar #ShixieStyle #BobInnovador #DegradadoChic",
+            "url": "https://drive.google.com/uc?id=1py1gndI9qd8IZwMYMJhqF6pgeiFAtCNy&export=download",
+            "order": 2,
+            "groupName": "Semana 1"
+          },
+          {
+            "name": "Semana-1-Día-3/Post_Semana-1-Día-3",
+            "copy": "¿Quieres un cabello liso y sin frizz cuando llegue la primavera? 🌸\n\n¡Enero es el mes ideal para empezar tu tratamiento de keratina! 🧴\n\nEn este mes, el frío❄️ hace que el cabello sea más seco y quebradizo, por lo que la keratina es el tratamiento perfecto para repararlo y darle un aspecto sano y brillante. ✨\n\nAdemás, en enero puedes preguntar en nuestro salón por las condiciones de nuestro servicio. 🤑\n\nAsí que, si estás pensando en hacerte un tratamiento de keratina, ¡no lo dejes para más tarde! ⏰\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #libertycards #ahorro #descuento #servicioexclusivo #sinlimites #keratina #tratamientodekeratina #cabelloliso #cabellobrillante #cabelloreparado #cabellosaludable #enero #rebajas #belleza #peluqueria",
+            "url": "https://drive.google.com/uc?id=1K_-CWMPHScqvV__j3s9yOodCehEpPnOb&export=download",
+            "order": 3,
+            "groupName": "Semana 1"
+          },
+          {
+            "name": "Semana-2-Día-1/Post_Semana-2-Día-1",
+            "copy": "🌈Descubre la libertad de llevar tu color siempre perfecto🌈\n\n¿Si nada te detiene por qué tiene que hacerlo tu cabello💪? Imagina poder disfrutar de un look genial durante todo 2024 con nuestras LIBERTY CARDS de color🎨.\n\nImagina tener tu coloración al día, a lo largo de los 12 meses del 2024, con un gran ahorro y de manera ilimitada🤩.\n\nPorque un cabello bonito no debería tener límites. Consulta con nuestro equipo las condiciones de nuestra LIBERTY CARD🗽 y comienza a disfrutarlo desde YA🏃.\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #colordepelo #coloracion #peluqueria #belleza #libertycards #ahorro #descuento #sinlimites #cabellobonito #2024",
+            "url": "https://drive.google.com/uc?id=1CUfV7E0qQpdvfeKo6tgBPsfR3M04drjG&export=download",
+            "order": 1,
+            "groupName": "Semana 2"
+          },
+          {
+            "name": "Semana-2-Día-2/Post_Semana-2-Día-2",
+            "copy": "Las principales tendencias en color🌈 para 2023 \n\nEl mes de enero es uno de los que más nos gusta🤩. Las principales marcas de peluquería nos enseñan las tendencias en color para este 2024 ⭐ y nuestro equipo las ha resumido para ti👏.\n\nLos rubios claros vuelven con fuerza este 2024 ⭐, como el color platino o el Baby Blonde, muy cercano al primero pero más natural. Si te gustan los tonos más cálidos, el rubio miel 🍯 o el Deep Browns Blonde son dos opciones ideales.\n\nPara las amantes del brunette 🌰, 2024 viene cargado de opciones. Si quieres jugar entre el rubio y los marrones, te presentamos el Brunette Gold 🪙. Si vas a tope con el equipo de las castañas, nuestra recomendación es el Marrón Chocolate 🍫.\n\n¡Buenas noticias para las Ginger 🔴! Los cobrizos y rojos también serán tendencia esta temporada, como el rojo terciopelo o el spiced ginger 🍝. Para las amantes del total black, el color negro azabache es el tono que estáis buscando.\n\n¿Quieres vivir las principales tendencias en tu cabello? Pues llama a nuestro equipo y reserva ya tu cita 📞.\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #rubio #platino #babyblonde #miel #deepbrownsblonde #brunette #brunettegold #marrónchocolate #rojo #terciopelo #spicedginger #negro #azabache",
+            "url": "https://drive.google.com/uc?id=1xxBmREgaaswOjVs-7k6gLXHT7qIBVH0a&export=download",
+            "order": 2,
+            "groupName": "Semana 2"
+          },
+          {
+            "name": "Semana-2-Día-3/Post_Semana-2-Día-3",
+            "copy": "¡Cuidado con tu pelo en invierno!🚨\n\nEl frío❄️ y el calor de las calefacciones🌡️ pueden dañar tu cabello, haciéndolo más seco🏜️, encrespado🌪️ y quebradizo🧔‍♂️.\n\n¿Qué puedes hacer?\n\n🧴Utiliza champús y acondicionadores hidratantes.\n🫒Aplica un sérum o aceite capilar antes de salir de casa.\n🧢Protege tu cabello del sol con un sombrero o pañuelo.\n❄️¡No dejes que el invierno dañe tu pelo!\n\nSi notas que tu cabello está especialmente dañado en invierno, consulta con nuestro equipo ☎️.\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #invierno #cabello #cuidadodelcabello #sequedad #encrespamiento #quebradizo #champú #acondicionador #sérum #aceitecapilar #sombrero #pañuelo",
+            "url": "https://drive.google.com/uc?id=1YXx6UlkGSOqjaRooMh66-1bTWC-6srsh&export=download",
+            "order": 3,
+            "groupName": "Semana 2"
+          },
+          {
+            "name": "Semana-3-Día-1/Post_Semana-3-Día-1",
+            "copy": "Comienza a AHORRAR🏦 en Peluquería con nuestras LIBERTY CARDS corte 💳\n\nDe la misma manera que planificas tus tareas para este arranque del año ¿por qué no planificas tus visitas a nuestro salón😍?\n\nAhora es más fácil y más barato con nuestras LIBERTY CARD corte, para ella y para él 🧑‍🤝‍🧑. Consulta con nuestro equipo y mantén tu corte y estilo perfectos durante más tiempo y por menos de lo que imaginas🤩.\n\nPorque un cabello bonito no debería tener límites🔝, LIBÉRATE de las REBAJAS.\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #libertycards #ahorro #descuento #servicioexclusivo #sinlimites #bonita #contacto",
+            "url": "https://drive.google.com/uc?id=1rYtgm3WSUzySRqI2SfNeAqv8wQoR3tmj&export=download",
+            "order": 1,
+            "groupName": "Semana 3"
+          },
+          {
+            "name": "Semana-3-Día-2/Post_Semana-3-Día-2",
+            "copy": "💎Principales tendencias en ILUMINACIÓN y BALAYAGE para 2023 💎\n\n¿Quieres conocer las principales tendencias en iluminación y balayage para este AÑO? Pues sigue leyendo😳:\n\n🌈 PRISMATIC FUSIÓN: Imagina un caleidoscopio de colores tejido en tu cabello. Esta tendencia de mechas con reflejos multicolores crea un efecto prismático que deslumbrará en el 2024. ¡Tu cabello se transformará en una obra de arte en movimiento con destellos de luz vibrantes!. 🎨✨\n\n🌸 MELTING CREAMY: Las mechas Melting Creamy destacan por su elegancia natural y su efecto de difuminado desde la raíz. Con tonos rubios suaves o colores naturales, esta técnica aporta luminosidad y profundidad al cabello, representando la sutileza y el refinamiento en cada hebra. 💫\n\n🌀 CURLIGHTS: Eleva tus rizos al siguiente nivel con las increíbles 'Curlights' en el 2024. Diseñadas para enmarcar el rostro y suavizar las facciones, estas mechas cálidas añaden luminosidad y movimiento a tus rizos, convirtiéndose en el mejor secreto para realzar la belleza natural de tus bucles. ✨\n\n¿Ya tienes tu favorita? Déjanos tu opinión en comentarios👇:\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #libertycards #PrismaticFusión #CabelloColorido #MeltingCreamy #NaturalElegance #Curlights #RizosRadiantes",
+            "url": "https://drive.google.com/uc?id=1bLbNuC_6SvuMQEBcQVO-O0gDQFvWZKdO&export=download",
+            "order": 2,
+            "groupName": "Semana 3"
+          },
+          {
+            "name": "Semana-3-Día-3/Post_Semana-3-Día-3",
+            "copy": "¿Quieres que tu color de pelo dure más tiempo? ✨\n\nSigue estos consejos para prolongar tu coloración en casa🏠:\n\n🧴Utiliza champús y acondicionadores específicos para cabello teñido.\n🫧Aplica una mascarilla hidratante al menos dos veces por semana.\n🌡️Protege tu cabello del calor con un protector térmico.\n🚿Evita lavar tu cabello todos los días.\n💧Acláralo con agua fría.\n\nY recuerda que, con nuestra LIBERTY CARD, tener el color perfecto todo el año, ahora es posible🤩. Si tienes dudas sobre tu cabello, déjalas en comentarios o consúltanos. 📞\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #libertycards #colordepelo #cabelloteñido #consejos #cuidadodelcabello #2024 #cabelloperfecto #cabellosano #cabellosbrillantes",
+            "url": "https://drive.google.com/uc?id=1VmimHeNaMvTPIn3mV3eTdYSUZpJog-lS&export=download",
+            "order": 3,
+            "groupName": "Semana 3"
+          },
+          {
+            "name": "Semana-4-Día-1/Post_Semana-4-Día-1",
+            "copy": "¿Todavía no le has dicho adiós a las REBAJAS?\n\n¿Qué pensarías si te dijéramos que puedes ahorrar en Peluquería TODO el año y no tener que depender de las REBAJAS para venir más barato al salón? 🤔\n\nLa solución se llama LIBERTY CARDS, es nuestro nuevo servicio exclusivo y te está esperando para que disfrutes, sin límites, de un cabello bonito durante todo el año. 😍\n\nComo siempre. Puedes contactar con nuestro equipo para que resolvamos cualquier duda que tengas. 📞\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #libertycards #ahorro #descuento #servicioexclusivo #sinlimites #bonita #contacto",
+            "url": "https://drive.google.com/uc?id=1KuAATdJ-gqhTMathWj38TZAobkiigGyy&export=download",
+            "order": 1,
+            "groupName": "Semana 4"
+          },
+          {
+            "name": "Semana-4-Día-2/Post_Semana-4-Día-2",
+            "copy": "¡Comienza el año con estilo! ✨\n\n¿Ya tienes planes para tus eventos de 2024? 🥂\n\nTe presentamos las principales tendencias en peinados y stylings para este año:\n\nColetas bajas con complemento: Son un clásico que nunca pasa de moda 💃. Puedes añadirle un pasador, una cinta o un broche para darle un toque personal.\n\nPeinados wet 💧: Son ideales para ocasiones especiales. Consigue un efecto pulido y brillante con la ayuda de un gel o cera de peinado.\n\nMoños altos: Son elegantes y sofisticados. Perfectos para realzar tu cuello y rostro 👑.\n\nOndas con flequillo: Son un look natural y favorecedor. Consigue un efecto desenfadado con la ayuda de un difusor 🌊.\n\n¿Cuál es tu favorito? 😍\n\nConsulta con nuestro equipo☎️ y crea tu look 2024.\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #libertycards #peinados2024 #tendencias2024 #stylings2024 #coletas #wetlook #moños #ondas #flequillo",
+            "url": "https://drive.google.com/uc?id=1UT8_ETz7ZMgPJYPkuIacws9XmOovi7dL&export=download",
+            "order": 2,
+            "groupName": "Semana 4"
+          },
+          {
+            "name": "Semana-4-Día-3/Post_Semana-4-Día-3",
+            "copy": "Por qué los TRATAMIENTOS🫧 van a ser tu mejor aliado en 2023\n\n¿Quieres que tu cabello luzca mejor que nunca? ✨\n\nLos tratamientos capilares son la solución perfecta para mejorar la salud y el aspecto de tu cabello. En 2024, serán más importantes que nunca.\n\n¿Por qué?\n\nLa vida moderna, el estrés y la mala alimentación pueden afectar a tu cabello😷.\n\nLos tratamientos capilares aportan proteínas, vitaminas, aceites y aminoácidos que tu cabello necesita para estar sano y fuerte💪.\nLos tratamientos capilares pueden ayudar a reducir el frizz, el exceso de grasa, la caspa y otros problemas del cabello 👋, mientras que proporcionan una mayor protección al cabello.\n\n¿Quieres saber más?\n\nConsulta con nuestro equipo y te ayudaremos a encontrar el tratamiento capilar que mejor se adapta a tus necesidades.\n\n¡Llama ahora! ☎️\n\n#libérate #peluqueria #belleza #cabello #rebajas #2024 #libertycards #tratamientoscapilares #cabello #cuidadodelcabello #2024",
+            "url": "https://drive.google.com/uc?id=1XGah07U0LqwVI185FhKNcFOVRoXpQXnL&export=download",
+            "order": 3,
+            "groupName": "Semana 4"
+          }
+        ],
+        "ca": []
+      },
+      "actionPosts": {
+        "es": [
+          {
+            "name": "Post/A24011080_01-01.jpg",
+            "url": "https://drive.google.com/uc?id=1t590exZY7SOxjOl0ZguyoCSpOiPZtkO9&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-02.jpg",
+            "url": "https://drive.google.com/uc?id=1fa8g__rTsx4G-spmk1nRNDlaC982hj6S&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-03.jpg",
+            "url": "https://drive.google.com/uc?id=1Wfk5S0usp8eBBYry6ThgL30wWNmL96NA&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-04.jpg",
+            "url": "https://drive.google.com/uc?id=1JnWjl2kgJ44TzE-dXoCiQKrBdTIHRLWl&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-05.jpg",
+            "url": "https://drive.google.com/uc?id=1mpr3LPpcx8nhF72bKXFI1vXx6EU-UqE9&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-06.jpg",
+            "url": "https://drive.google.com/uc?id=1q3IbYsfmIAQHSX5ImJ3WDdP2k1wPf3fH&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-07.jpg",
+            "url": "https://drive.google.com/uc?id=1WXQLXMvJFEa5ce2znO9gBtyKG6Sd3tb0&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-08.jpg",
+            "url": "https://drive.google.com/uc?id=1SzJ7nlPJCNSw18RFSSCf9D4zusZO3VZP&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-09.jpg",
+            "url": "https://drive.google.com/uc?id=1aw1OllqZJZW5YOY71s3ZFuE59K3GYHFH&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-10.jpg",
+            "url": "https://drive.google.com/uc?id=1kkueHVkrkFh3N5mjY-ANKYed0CIpD6hS&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-11.jpg",
+            "url": "https://drive.google.com/uc?id=1enLDL9HsYvOT2OZVP0Kgva15vt2I_FW0&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-12.jpg",
+            "url": "https://drive.google.com/uc?id=1Y-tn-H-x1FjLcOnBnwIp7GGtdfT_8bCu&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-13.jpg",
+            "url": "https://drive.google.com/uc?id=137HbMNvRkT9een8ncj3BfvWkbn05_I8h&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-14.jpg",
+            "url": "https://drive.google.com/uc?id=1xFQPOBM62koQEfJ3BCub-R4MBMlZsodN&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-15.jpg",
+            "url": "https://drive.google.com/uc?id=1dSRJMykS0giEz1JJ5Yg5l6GMECcMepk8&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-16.jpg",
+            "url": "https://drive.google.com/uc?id=1JBM-fJ4KOYPymJSUqtMJXv9dHXJrEFk3&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-17.jpg",
+            "url": "https://drive.google.com/uc?id=1VsGqEcGMuuvKncWfDjyq3dLQdJxVCNHm&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-18.jpg",
+            "url": "https://drive.google.com/uc?id=1RqEsfePv-8vjZTbwIJJfpASFnyRxOyei&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-19.jpg",
+            "url": "https://drive.google.com/uc?id=14q8bMBFS-61jNLzhGBLi_n5Kpf0g51xg&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-20.jpg",
+            "url": "https://drive.google.com/uc?id=1lqocJzpHa2wYPzcvwFI0LLOhXQjHEPvJ&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-21.jpg",
+            "url": "https://drive.google.com/uc?id=1m4e3dikjLdtKsyhScU2fjC2n0E0zG9fg&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-22.jpg",
+            "url": "https://drive.google.com/uc?id=1P3llyrpY1RedUlT2lVggRZj4PFKmEVs-&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-23.jpg",
+            "url": "https://drive.google.com/uc?id=1k3h_uANZbtK6F4TiyTmzEqYhb57ggT01&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-24.jpg",
+            "url": "https://drive.google.com/uc?id=1WSTcIP9jToFnRNMNXqsBYwMxOFcXqz3V&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-25.jpg",
+            "url": "https://drive.google.com/uc?id=12kGcS80EkQiap1LJEvVm93xqOC103HHV&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-26.jpg",
+            "url": "https://drive.google.com/uc?id=10LYQ14QEOK34YbBpnzXAV2rDAXf6sleN&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-27.jpg",
+            "url": "https://drive.google.com/uc?id=1O0P8H0EtTMwe50Y17oNM0iLZ9kk7Dn9F&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-28.jpg",
+            "url": "https://drive.google.com/uc?id=1_5tfR82D3sFryqYZbNwQ1PnZaRXXFSMs&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-29.jpg",
+            "url": "https://drive.google.com/uc?id=1E3VbBZZqBho_SuTCY9qzSOjwPM80l7nk&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-30.jpg",
+            "url": "https://drive.google.com/uc?id=1Zca4CzaIprQ6YJDgRi0yhkmr5dG-msH5&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-31.jpg",
+            "url": "https://drive.google.com/uc?id=1G4TP5mXQLpxlWthWXG1g0YG6oFfbNlP0&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-32.jpg",
+            "url": "https://drive.google.com/uc?id=18mBLnD9NQtBr6d7_3ZbJdB7z9-ZjJlf8&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-33.jpg",
+            "url": "https://drive.google.com/uc?id=19ri-Y9kvQZhwuuKbKD62k808o81JA73m&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-34.jpg",
+            "url": "https://drive.google.com/uc?id=1oHXxaDmiAhw_m33Yq_8a5Ix4N0J8YrQV&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-35.jpg",
+            "url": "https://drive.google.com/uc?id=1tX8T4fDdT8S1p3G9HZXDV-sqF7kT2Rp8&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-36.jpg",
+            "url": "https://drive.google.com/uc?id=1cMN4NHgDTlku-VYAE7uUeyI-9eZyJup5&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-37.jpg",
+            "url": "https://drive.google.com/uc?id=1Y6Kxbbq2xoXVCgT7uHk2qsoO8Gg7IVBG&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-38.jpg",
+            "url": "https://drive.google.com/uc?id=1CvxIY3ZpzrqwvCjhwfJ70pQyniBJy-It&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-39.jpg",
+            "url": "https://drive.google.com/uc?id=1O3lomq6zEVqU91-0TxKOW2a-K2JQRp1N&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-40.jpg",
+            "url": "https://drive.google.com/uc?id=1lZRdzjshoEgfO64rnj7mhiwQVygxTws-&export=download"
+          },
+          {
+            "name": "Post/A24011080_01-41.jpg",
+            "url": "https://drive.google.com/uc?id=1aIUa-GHJz2rLZNaG9QK0ri7lN_YUW4wC&export=download"
+          }
+        ],
+        "ca": [
+          {
+            "name": "Post/A24011080_02-01.jpg",
+            "url": "https://drive.google.com/uc?id=1WU3boW2dyMxp5rwwTCAQZLa3_1c-WZa2&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-02.jpg",
+            "url": "https://drive.google.com/uc?id=11JIxH3gJ-xZXeT5P-OdK2-2EX-S52rd7&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-03.jpg",
+            "url": "https://drive.google.com/uc?id=1L3w2NmpWAdl7DYHuTifJ7V1FJRMByBe0&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-04.jpg",
+            "url": "https://drive.google.com/uc?id=1IX49Kzr2-peSuaCWH4yUQlc0lVLDkgOr&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-05.jpg",
+            "url": "https://drive.google.com/uc?id=1Cg8fIW9UGAFRRXzjO2tjWuc6IOEM7-Cj&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-06.jpg",
+            "url": "https://drive.google.com/uc?id=1-MewB7UEdRpdjPLlN0ysbFRXrRHWIhEb&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-07.jpg",
+            "url": "https://drive.google.com/uc?id=1HVdNkwPDa8wAbv3wak_rrF_hIXv8ElA2&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-08.jpg",
+            "url": "https://drive.google.com/uc?id=1c6cOgkvCHUy7SCdeU1fOZsiLno4bJeXU&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-09.jpg",
+            "url": "https://drive.google.com/uc?id=129lT686ckJkGgHiE3pOGVwPNs2VhVlSz&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-10.jpg",
+            "url": "https://drive.google.com/uc?id=16XmBB_Gc42t2SAsEzjD7Ph8WYpPfsna1&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-11.jpg",
+            "url": "https://drive.google.com/uc?id=1mvA-aAuzo0dvsEv9INXDHA-7ZfV9e23g&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-12.jpg",
+            "url": "https://drive.google.com/uc?id=11BJ2PWlPwlqEpyjjJkRWHtj_7Q0SwlXW&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-13.jpg",
+            "url": "https://drive.google.com/uc?id=1OOvhJD0GaVipPC25zmerQvHYCP4jxmyQ&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-14.jpg",
+            "url": "https://drive.google.com/uc?id=1TLKhfGdgBljNDEh4X4RE7gK91xdXg0aQ&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-15.jpg",
+            "url": "https://drive.google.com/uc?id=1cc_2Qmhzbjio8ESIXtfuwLOK45JSwolu&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-16.jpg",
+            "url": "https://drive.google.com/uc?id=1dbjpXXZFVUd6FtH_NyGk-DZkNXLC4t1A&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-17.jpg",
+            "url": "https://drive.google.com/uc?id=1D_m4Y6kK-C0kKS9uv27_n_HMbm_hw4tp&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-18.jpg",
+            "url": "https://drive.google.com/uc?id=1kFaY2W3XidC8Lg0KO-m3T4coqHbCOEu0&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-19.jpg",
+            "url": "https://drive.google.com/uc?id=10iIzKLH5MJvC_0C-TdB5CEyMexf2F7kH&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-20.jpg",
+            "url": "https://drive.google.com/uc?id=1hQaDKkN0-gD8PxRQOnc2gj4H5Saq94xq&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-21.jpg",
+            "url": "https://drive.google.com/uc?id=1HHdZn2na1fOOf--ijo8hpSmmo7Maye3b&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-22.jpg",
+            "url": "https://drive.google.com/uc?id=1cPylKl6ksJ40AtgSlI0fZKgJhhUTLDJX&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-23.jpg",
+            "url": "https://drive.google.com/uc?id=1gY3-P6R6J3ZLiVLyVcwzBMfw_S0tPodR&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-24.jpg",
+            "url": "https://drive.google.com/uc?id=1FoAJIr9RpSWkw97JIEuVV5LkbQJOXc4C&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-25.jpg",
+            "url": "https://drive.google.com/uc?id=1885lUpC1FfaU-w_hXZGwA8gqSPrcsiPH&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-26.jpg",
+            "url": "https://drive.google.com/uc?id=18nFfUueOWQqLt3H5rrairjHMGquqkGJV&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-27.jpg",
+            "url": "https://drive.google.com/uc?id=16AAeKusiUbqJnFxoZ2sjNKfdkaH2r0xY&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-28.jpg",
+            "url": "https://drive.google.com/uc?id=1unySAIH0-Rvm_5dtgcFYn33uD1bGX99i&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-29.jpg",
+            "url": "https://drive.google.com/uc?id=16ewUzXgkgZFiSoqelLI6esryu-9qK8fp&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-30.jpg",
+            "url": "https://drive.google.com/uc?id=1fZyH2JXEo-KeLYx1Y3r2JG9zqTofkw4x&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-31.jpg",
+            "url": "https://drive.google.com/uc?id=15cYAxqmYLGrF_wBUdfs0m17h1ltq58iy&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-32.jpg",
+            "url": "https://drive.google.com/uc?id=1aA1Ff6UO99v_lRYvK2-_upyNYaWdrRee&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-33.jpg",
+            "url": "https://drive.google.com/uc?id=16TXLnUxA-gpg205ENK_oHe1zi5W0QtFT&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-34.jpg",
+            "url": "https://drive.google.com/uc?id=1pPasIhFMWMOAZxtWeB0I82Ls_oXNLOsP&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-35.jpg",
+            "url": "https://drive.google.com/uc?id=1xEhNR3qKOaoaGff9rXga_xrfxdyiGF5Q&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-36.jpg",
+            "url": "https://drive.google.com/uc?id=1Jo0Npuyb176POUO0A0gE7BfoVjAgdk1v&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-37.jpg",
+            "url": "https://drive.google.com/uc?id=1Hjq8KwHyqe1gWBU6aLBPnJsi2m7oF5rx&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-38.jpg",
+            "url": "https://drive.google.com/uc?id=1Hhvd3FZPv5oadURkSwRLZwlxPC925cZX&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-39.jpg",
+            "url": "https://drive.google.com/uc?id=1tuqE35Szq0BMGQPKa-cQPcdC4a1NE6Di&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-40.jpg",
+            "url": "https://drive.google.com/uc?id=19pRvuFnCt04C_9E_hLjr30k5gtK-7hMw&export=download"
+          },
+          {
+            "name": "Post/A24011080_02-41.jpg",
+            "url": "https://drive.google.com/uc?id=15Zgau0964TOgaJ_HlHPptoafLgmZ6TrR&export=download"
+          }
+        ]
+      },
+      "actionStories": {
+        "es": [
+          {
+            "name": "Story/A24011920_01-01.jpg",
+            "url": "https://drive.google.com/uc?id=11AgaYagTim81q9sEw7rw9CD9jp-VFi2l&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-02.jpg",
+            "url": "https://drive.google.com/uc?id=1-oRRURs0BtQNj9FzqbpY_InbIbJD1b5i&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-03.jpg",
+            "url": "https://drive.google.com/uc?id=1oI5-fimd6OUXpDJAvoDijaHTBHsM0T1t&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-04.jpg",
+            "url": "https://drive.google.com/uc?id=1nHTCtCZn9jpM9mbrVNmBCZUI9DGgUF6L&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-05.jpg",
+            "url": "https://drive.google.com/uc?id=1i1qD5B1hInW-VCLBozOm-XSZe6VNrHIB&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-06.jpg",
+            "url": "https://drive.google.com/uc?id=1RP-Y7-hr4H8EffLRlfdzHKpzq-xJwV9-&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-07.jpg",
+            "url": "https://drive.google.com/uc?id=19iXMJTRywWwu5T7KxEJ903uG1ADevfLI&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-08.jpg",
+            "url": "https://drive.google.com/uc?id=1OAkdkrc3EIfJMUtPDnMireJbbHX9WYpT&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-09.jpg",
+            "url": "https://drive.google.com/uc?id=1E_3rN985_AwAU2rmSpUfLiT6ktmZVYQL&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-10.jpg",
+            "url": "https://drive.google.com/uc?id=1j4e19V2pMwCQT46LIOjeY5ZgEg5ccpUJ&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-11.jpg",
+            "url": "https://drive.google.com/uc?id=1nC7RfoN5MNcflPAFOgJxTH3oh6J2zHaN&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-12.jpg",
+            "url": "https://drive.google.com/uc?id=1-aOMQG6_mEjYXgMjt0j-0gJzTC-AoEuA&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-13.jpg",
+            "url": "https://drive.google.com/uc?id=1Lykez0KxDOfF_o2FiLFey_CGo2J4YG3E&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-14.jpg",
+            "url": "https://drive.google.com/uc?id=1jQMEqNu3ruentEV9kvj9StOtsYQ84Q5X&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-15.jpg",
+            "url": "https://drive.google.com/uc?id=1GxehiBKjnJ7QMePjVC5jBjx49bw-V3Hw&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-16.jpg",
+            "url": "https://drive.google.com/uc?id=19oe9_yEMp53EW_eUJdQ434jHQijdu6lA&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-17.jpg",
+            "url": "https://drive.google.com/uc?id=1LPRebghKTBIqKAKNPZQRzE60XAvlEYYS&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-18.jpg",
+            "url": "https://drive.google.com/uc?id=1iYPw0xpG6Jce7-B392yOtw5_5MWVWrIt&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-19.jpg",
+            "url": "https://drive.google.com/uc?id=1QOdyws-lJw0zeGr17QvdH64q8EJSIYoQ&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-20.jpg",
+            "url": "https://drive.google.com/uc?id=15NZkHM1awZe_zu1HosPLyn206gJ4OhSP&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-21.jpg",
+            "url": "https://drive.google.com/uc?id=1QUC6hjTr0M0U8j7jZ2Gt_e35ipLr4cff&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-22.jpg",
+            "url": "https://drive.google.com/uc?id=1YAxDc9Pi2jkUQ410rPZf40wo2Qxdn3Vb&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-23.jpg",
+            "url": "https://drive.google.com/uc?id=1vvuL8s_TRm4gzG0VI1rPbSjCam1As0kP&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-24.jpg",
+            "url": "https://drive.google.com/uc?id=1m7WhRpyXVChj1dSRx_pebz9Vu13p-FTV&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-25.jpg",
+            "url": "https://drive.google.com/uc?id=1oYtf-lQ3ZSsLP6OjvhABJ52j-PKOt2zY&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-26.jpg",
+            "url": "https://drive.google.com/uc?id=1p7kSCIhg2rBzSFTzXnXLOKkexlo5wBqk&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-27.jpg",
+            "url": "https://drive.google.com/uc?id=1FPerv9c7nfizpRGlpOYYly1OMgmnVzjj&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-28.jpg",
+            "url": "https://drive.google.com/uc?id=1HJ4fYgQX5Gqs1bTjSL525vCaRtJDITLu&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-29.jpg",
+            "url": "https://drive.google.com/uc?id=1_alSnAfBdmb4IVIiLKlukPnTjkFM7Frf&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-30.jpg",
+            "url": "https://drive.google.com/uc?id=1Dx_v_xKwd_huGZCZJFw73Jo3IMjUVwVz&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-31.jpg",
+            "url": "https://drive.google.com/uc?id=1PJD3VEuz1CPQRg-kLxt7yQqTM3x7ChOa&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-32.jpg",
+            "url": "https://drive.google.com/uc?id=1dj3TdLjDm7v2ed-4C9hnQNvfgmWXTl6b&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-33.jpg",
+            "url": "https://drive.google.com/uc?id=1Cbh_MfVX8y1IEt4giuJ769JDLr-8YgM2&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-34.jpg",
+            "url": "https://drive.google.com/uc?id=1RQEu74yoLne97rbb7q-XSnysxKyhtLPc&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-35.jpg",
+            "url": "https://drive.google.com/uc?id=1pWL1GcaOCzVDUyBKHryz-v3YeLF66rmZ&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-36.jpg",
+            "url": "https://drive.google.com/uc?id=1IBF12zmoNj4sd5tRX7LnQIyHkDSOKpaY&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-37.jpg",
+            "url": "https://drive.google.com/uc?id=1tvasVSWVwuDlL5mH16ENI7UIF5dEXQhz&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-38.jpg",
+            "url": "https://drive.google.com/uc?id=1nOwR3k9bGQo5QpwLNI9x6szBJED_ZlJ3&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-39.jpg",
+            "url": "https://drive.google.com/uc?id=1-6nGQsEWmw4qSRWlObUNvuGzWaTdlo4F&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-40.jpg",
+            "url": "https://drive.google.com/uc?id=1122SiAfKPybBjBGRzDv0kUFeD-1Nk1s-&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-41.jpg",
+            "url": "https://drive.google.com/uc?id=1jvjZgyeY-El4Btu1ym5fow0vFYr2PmkS&export=download"
+          },
+          {
+            "name": "Story/A24011920_01-42.jpg",
+            "url": "https://drive.google.com/uc?id=1F9mBCW6UBROm5mZ1Hfw_7CLxAB6MbGf9&export=download"
+          }
+        ],
+        "ca": [
+          {
+            "name": "Story/A24011920_02-01.jpg",
+            "url": "https://drive.google.com/uc?id=1DJMlmAirNEvzfsWNSOqwM_99GSkWvn3B&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-02.jpg",
+            "url": "https://drive.google.com/uc?id=1l1u5QuKoy8bjTR2jbQnl4syp2SnAvtFF&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-03.jpg",
+            "url": "https://drive.google.com/uc?id=1W9R9J4_mSmtCdIkWNOYjZjLV1f1ehhBz&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-04.jpg",
+            "url": "https://drive.google.com/uc?id=1pjtcdEDP_sqVjda6t2Bavdy8dIgp11y9&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-05.jpg",
+            "url": "https://drive.google.com/uc?id=1Kt1sc0tYIBpHdgHF6Djs_B2gwkhsBssn&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-06.jpg",
+            "url": "https://drive.google.com/uc?id=1Ck7fpTQrhlCxunMtZrIn7X7gPwAVfZgH&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-07.jpg",
+            "url": "https://drive.google.com/uc?id=1d74_L2DhfS91u313QXu3ryagVEk7PZNm&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-08.jpg",
+            "url": "https://drive.google.com/uc?id=1fYAaGI3yoXtK3nni_YIeN2tMgAFRl5Re&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-09.jpg",
+            "url": "https://drive.google.com/uc?id=1gHzBuyaIcE-XbcQEnl8PyOoNhONbBT6h&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-10.jpg",
+            "url": "https://drive.google.com/uc?id=1AlqepzFK_d1fH4WSNrG6GZOvIlaS2OsR&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-11.jpg",
+            "url": "https://drive.google.com/uc?id=1DvFqG7CKa7UeKQPuiDUHwCEFV6K9inYp&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-12.jpg",
+            "url": "https://drive.google.com/uc?id=1nHsf-_XPs-SoJ8Xn9vmI5ChWbYUYoaKO&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-13.jpg",
+            "url": "https://drive.google.com/uc?id=1059YzDxhLcETBtksRsjDB8_EI_Go7Rrk&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-14.jpg",
+            "url": "https://drive.google.com/uc?id=1J1-ytaYAtkVT_TGlu8h4lKLOJ-80w1Pf&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-15.jpg",
+            "url": "https://drive.google.com/uc?id=1AqXCCmrEfDMPK7GVIRkDAB-LaNOd1it0&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-16.jpg",
+            "url": "https://drive.google.com/uc?id=1kyJ7-gU3AQwiR4DjJ3TPHFHIEppIKrgn&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-17.jpg",
+            "url": "https://drive.google.com/uc?id=1VBwz0vic6J9SN3_nnCQu3d5CkNsPDDPg&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-18.jpg",
+            "url": "https://drive.google.com/uc?id=1inTfVKTZB59323d8B6mTkRDedoygvv7_&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-19.jpg",
+            "url": "https://drive.google.com/uc?id=1GzxTCbQvhtwiMyC74YBwEnL7YjgrNF-o&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-20.jpg",
+            "url": "https://drive.google.com/uc?id=1UwIsZSZrX3qEnvB9SjJKPivLHr6HkQfy&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-21.jpg",
+            "url": "https://drive.google.com/uc?id=1NMnErEsYVBRwsCZxDlRVP-zCQPSO6h6l&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-22.jpg",
+            "url": "https://drive.google.com/uc?id=1JWPUwzWpaZGef6Q4LCqMY-UAy5qahLZ5&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-23.jpg",
+            "url": "https://drive.google.com/uc?id=1-SyVL_bGqz_nwgIyqDXfli1ZDfZoTc1N&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-24.jpg",
+            "url": "https://drive.google.com/uc?id=1GSnpOhrupC5E6PT0--uR0baYEvg99_8R&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-25.jpg",
+            "url": "https://drive.google.com/uc?id=1pH2uvGxcPdPHqW1otHEKKDTkgA86TL8e&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-26.jpg",
+            "url": "https://drive.google.com/uc?id=1R92JdmkeySpXoZyRu8e7hmovGSU6L9ry&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-27.jpg",
+            "url": "https://drive.google.com/uc?id=1g9iihUM_QpxLdiwSQGfXOycHNLRxpf3N&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-28.jpg",
+            "url": "https://drive.google.com/uc?id=1h3G3DekXhg-uBnprIKnghb0rpKRrTCn0&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-29.jpg",
+            "url": "https://drive.google.com/uc?id=1up2hO2vINEFAXljEvGUuF9m7qvVZQFjY&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-30.jpg",
+            "url": "https://drive.google.com/uc?id=1zXYA6_JeEuPbpxqKZIpdBbXsuzvSl4gQ&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-31.jpg",
+            "url": "https://drive.google.com/uc?id=1jqJL9ptGDbuj6_Cz1nwFnIPmCC7bX__a&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-32.jpg",
+            "url": "https://drive.google.com/uc?id=1EbgZpuJlLYK9LgPsAQaoL44XSKVD72-r&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-33.jpg",
+            "url": "https://drive.google.com/uc?id=1jRk0jRo10ObQ-LhddlBtaNYi6T0wvI8n&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-34.jpg",
+            "url": "https://drive.google.com/uc?id=1ZQUj-YTHi2uLo5tvwnjUJLoXSfPuaw4R&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-35.jpg",
+            "url": "https://drive.google.com/uc?id=1zKNjDupbH6xWDsvxZRjlj1n0k_ifx-l_&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-36.jpg",
+            "url": "https://drive.google.com/uc?id=18INYhs4R6sWZd7n6wxMhlbfrjRekzD1l&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-37.jpg",
+            "url": "https://drive.google.com/uc?id=1xChmgJ0KHGZGjkU1wi5BCWxYUpAZy31E&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-38.jpg",
+            "url": "https://drive.google.com/uc?id=14RFG9jNPzHgTqc7i9lSqaY7ozK4tagaC&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-39.jpg",
+            "url": "https://drive.google.com/uc?id=1jXUppwN_4zDBoYgKk37hfLFGi7I9aZpu&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-40.jpg",
+            "url": "https://drive.google.com/uc?id=1A-u76TxyopCv1LevJWQVO_cwiOnvye4k&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-41.jpg",
+            "url": "https://drive.google.com/uc?id=1W0ewwT0eUPG43doBGz8Srd09Hl_j-xTu&export=download"
+          },
+          {
+            "name": "Story/A24011920_02-42.jpg",
+            "url": "https://drive.google.com/uc?id=1fQoloCSl_IEMa0GJ4z0FWkqIZkS2A-53&export=download"
+          }
+        ]
+      },
+      "valueStories": {
+        "es": [
+          {
+            "name": "1/ESTE-AÑO-LIBÉRATE-DE-LAS-REBAJAS_S1-1",
+            "url": "https://drive.google.com/uc?id=1fDHR7rgmF12L8rG_Zvq4d0jICS2_nh3f&export=download",
+            "order": 0,
+            "groupName": "ESTE AÑO LIBÉRATE DE LAS REBAJAS"
+          },
+          {
+            "name": "1/ESTE-AÑO-LIBÉRATE-DE-LAS-REBAJAS_S1-2",
+            "url": "https://drive.google.com/uc?id=1H_R6tTE_Bl1tHFrK19XBklELyxq-C8Hw&export=download",
+            "order": 1,
+            "groupName": "ESTE AÑO LIBÉRATE DE LAS REBAJAS"
+          },
+          {
+            "name": "1/ESTE-AÑO-LIBÉRATE-DE-LAS-REBAJAS_S1-3",
+            "url": "https://drive.google.com/uc?id=13U2QHU4YclViO0emdjZga04Js_ml39y1&export=download",
+            "order": 2,
+            "groupName": "ESTE AÑO LIBÉRATE DE LAS REBAJAS"
+          },
+          {
+            "name": "1/ESTE-AÑO-LIBÉRATE-DE-LAS-REBAJAS_S1-4",
+            "url": "https://drive.google.com/uc?id=1zuBe3ebN3HSvMbR-jgTIwIHBzloREDL2&export=download",
+            "order": 3,
+            "groupName": "ESTE AÑO LIBÉRATE DE LAS REBAJAS"
+          },
+          {
+            "name": "2/TENDENCIAS-DE-CORTE-2024_S2-1",
+            "url": "https://drive.google.com/uc?id=1W4klQZQTPu5yh6wPBEhIfDXfi01JcNlB&export=download",
+            "order": 0,
+            "groupName": "TENDENCIAS DE CORTE 2024"
+          },
+          {
+            "name": "2/TENDENCIAS-DE-CORTE-2024_S2-2",
+            "url": "https://drive.google.com/uc?id=1lL6pjO3HQMu8Ui0VXSSL96K5U7XydOdp&export=download",
+            "order": 1,
+            "groupName": "TENDENCIAS DE CORTE 2024"
+          },
+          {
+            "name": "2/TENDENCIAS-DE-CORTE-2024_S2-3",
+            "url": "https://drive.google.com/uc?id=1_a7VnLRC59AXIzK6HYwE03BumF0i-G9T&export=download",
+            "order": 2,
+            "groupName": "TENDENCIAS DE CORTE 2024"
+          },
+          {
+            "name": "2/TENDENCIAS-DE-CORTE-2024_S2-4",
+            "url": "https://drive.google.com/uc?id=1LIGwi1vXkXPuca1GLfzTx8SMSNXrByNa&export=download",
+            "order": 3,
+            "groupName": "TENDENCIAS DE CORTE 2024"
+          },
+          {
+            "name": "3/TENDENCIAS-DE-LUZ-Y-CORTE-2024_S3-1",
+            "url": "https://drive.google.com/uc?id=1VJLTfFdMRo-lO_faPwjpkIOzKUg-thci&export=download",
+            "order": 0,
+            "groupName": "Tendencias de Luz y Corte 2024"
+          },
+          {
+            "name": "3/TENDENCIAS-DE-LUZ-Y-CORTE-2024_S3-2",
+            "url": "https://drive.google.com/uc?id=1rmIJtBW04XHSeL2xQUtdt6iI0rqoWa1-&export=download",
+            "order": 1,
+            "groupName": "Tendencias de Luz y Corte 2024"
+          },
+          {
+            "name": "3/TENDENCIAS-DE-LUZ-Y-CORTE-2024_S3-3",
+            "url": "https://drive.google.com/uc?id=1F23kvKMXvbl2B9a5-hYOA_ZKtB954gLg&export=download",
+            "order": 2,
+            "groupName": "Tendencias de Luz y Corte 2024"
+          },
+          {
+            "name": "3/TENDENCIAS-DE-LUZ-Y-CORTE-2024_S3-4",
+            "url": "https://drive.google.com/uc?id=1Q1x9ceTQmvS1jLuTq3cTj2mcrxWIPXT6&export=download",
+            "order": 3,
+            "groupName": "Tendencias de Luz y Corte 2024"
+          },
+          {
+            "name": "4/TENDEDENCIAS-EN-STYLING-2024_S4-1",
+            "url": "https://drive.google.com/uc?id=1czSw9Nw5Zdzd0cDjKJW0UslZRsSMLBRs&export=download",
+            "order": 0,
+            "groupName": "Tendencias en Styling 2024"
+          },
+          {
+            "name": "4/TENDEDENCIAS-EN-STYLING-2024_S4-2",
+            "url": "https://drive.google.com/uc?id=199FN5sfxwEFNBbmjAGDgU9TtcPe-vLtf&export=download",
+            "order": 1,
+            "groupName": "Tendencias en Styling 2024"
+          },
+          {
+            "name": "4/TENDEDENCIAS-EN-STYLING-2024_S4-3",
+            "url": "https://drive.google.com/uc?id=1H-tE4eDv3fgbOdRWM3KHv96M4to629CT&export=download",
+            "order": 2,
+            "groupName": "Tendencias en Styling 2024"
+          },
+          {
+            "name": "4/TENDEDENCIAS-EN-STYLING-2024_S4-4",
+            "url": "https://drive.google.com/uc?id=1iGrpqjHTn8FQ1MglGhWHEND9ERgCNNt1&export=download",
+            "order": 3,
+            "groupName": "Tendencias en Styling 2024"
+          },
+
+          {
+            "name": "5/TIPS-DE-COLOR-EN-CASA_S5-1",
+            "url": "https://drive.google.com/uc?id=148iYJZy7KO2RcOqqwZ91jKAhqFyODRyY&export=download",
+            "order": 0,
+            "groupName": "Tips de Color en Casa"
+          },
+          {
+            "name": "5/TIPS-DE-COLOR-EN-CASA_S5-2",
+            "url": "https://drive.google.com/uc?id=1wzT6RaKx7a4TOH_k3ttwaDYwpwBNdvMk&export=download",
+            "order": 1,
+            "groupName": "Tips de Color en Casa"
+          },
+          {
+            "name": "5/TIPS-DE-COLOR-EN-CASA_S5-3",
+            "url": "https://drive.google.com/uc?id=1X39jeqGm3um5SMbCLng-OQgUulUBWNhV&export=download",
+            "order": 2,
+            "groupName": "Tips de Color en Casa"
+          },
+          {
+            "name": "5/TIPS-DE-COLOR-EN-CASA_S5-4",
+            "url": "https://drive.google.com/uc?id=12ju_rmdcJFZWjeBVULlLBTFmQWFAiNC8&export=download",
+            "order": 3,
+            "groupName": "Tips de Color en Casa"
+          },
+          {
+            "name": "6/NECESITA-TU-CABELLO-UN-TRATAMIENTO_S6-1",
+            "url": "https://drive.google.com/uc?id=1A3ehHqcandG183a66nPfMba-DYcU7G3O&export=download",
+            "order": 0,
+            "groupName": "¿Necesita tu cabebello un tratamiento?"
+          },
+          {
+            "name": "6/NECESITA-TU-CABELLO-UN-TRATAMIENTO_S6-2",
+            "url": "https://drive.google.com/uc?id=1QWwBAjZ62MTtQXcbdi3weCTIEmvUm55H&export=download",
+            "order": 1,
+            "groupName": "¿Necesita tu cabebello un tratamiento?"
+          },
+          {
+            "name": "6/NECESITA-TU-CABELLO-UN-TRATAMIENTO_S6-3",
+            "url": "https://drive.google.com/uc?id=19MubCCTBPvseux5mOf9x9faKF7z4ha2Z&export=download",
+            "order": 2,
+            "groupName": "¿Necesita tu cabebello un tratamiento?"
+          },
+          {
+            "name": "6/NECESITA-TU-CABELLO-UN-TRATAMIENTO_S6-4",
+            "url": "https://drive.google.com/uc?id=12pUJrG57pcglU5QJWggkZh9BBnnjS13y&export=download",
+            "order": 3,
+            "groupName": "¿Necesita tu cabebello un tratamiento?"
+          }
+        ],
+        "ca": []
+      },
+      "videos": {
+        "es": [
+          {
+            "name": "Video/ESP_Vertical.mp4",
+            "url": "https://drive.google.com/uc?id=1mdMohygvzlymYkJ8SYog5XTXnPv2RnWy&export=download"
+          },
+          {
+            "name": "Video/ESP_Horizontal.mp4",
+            "url": "https://drive.google.com/uc?id=1b2F6zTjcDmey6h87cYj7p6MezfukX_LN&export=download"
+          },
+
+          {
+            "name": "Preview/ESP_Vertical.png",
+            "url": "https://drive.google.com/uc?id=1-LdYqqANJvXRL9cZQypJ3SESTbImVh3M&export=download"
+          },
+          {
+            "name": "Preview/ESP_Horizontal.png",
+            "url": "https://drive.google.com/uc?id=1CChfSckLVrJHXLr-1hoHcHU1XwPNYzV9&export=download"
+          }
+        ],
+        "ca": [
+          {
+            "name": "Video/CAT_Vertical.mp4",
+            "url": "https://drive.google.com/uc?id=1sIln47jnkfyDHboRbsE-nyfLYdRhRhtE&export=download"
+          },
+          {
+            "name": "Video/CAT_Horizontal.mp4",
+            "url": "https://drive.google.com/uc?id=1in1fb3Ju2nnhr3nlt7-DIvYSYXap1DKR&export=download"
+          },
+          {
+            "name": "Preview/CAT_Horizontal.png",
+            "url": "https://drive.google.com/uc?id=1eANkwDG_Am-XUDXOVTUAq-R2CjeiU3qR&export=download"
+          },
+          {
+            "name": "Preview/CAT_Vertical.png",
+            "url": "https://drive.google.com/uc?id=1xGXRa9F9-1M0CRr2X-V8mJBMkU-25r2W&export=download"
+          }
+        ]
+      },
+      "smsAndWhatsApp": {
+        "es": [
+          {
+            "name": "SMS-&-WhatsApp/SMS-&-WhatsApp_Mensaje-1",
+            "copy": "Este 2024… ¡Libérate de las REBAJAS! 🎉\n\nTermina la navidad, comienza el 2024 y con él… ¡La época de REBAJAS! 🛍️\n\n¿Qué pensarías si te dijéramos que puedes ahorrar en Peluquería TODO el año y no tener que depender de las REBAJAS para venir más barato al salón? 🤔\n\nLa solución se llama LIBERTY CARDS, es nuestro nuevo servicio exclusivo y te está esperando para que disfrutes, sin límites, de un cabello bonito durante todo el año. 😍\n\nComo siempre. Puedes contactar con nuestro equipo para que resolvamos cualquier duda que tengas. 📞",
+            "url": "https://drive.google.com/uc?id=1IZVVZWT46ZrXkFu1a4nYxRJfwkpGsxq5&export=download",
+            "order": 1,
+            "groupName": ""
+          },
+          {
+            "name": "SMS-&-WhatsApp/SMS-&-WhatsApp_Mensaje-2",
+            "copy": "¡Lucha contra el Blue Monday con nuestras ofertas exclusivas!🤩\n\n¿Sabías que el tercer lunes de enero se considera el día más triste del año? 😭\n\nEste año, te ayudamos a combatirlo: Del 15 al 20 de enero 🗓️ combate con nuestras ofertas exclusivas:.\n\nPorque la tristeza es sólo un punto de vista. LIBÉRATE del Blue Monday ¡Haz tu reserva ahora! ⏳",
+            "url": "https://drive.google.com/uc?id=1IZVVZWT46ZrXkFu1a4nYxRJfwkpGsxq5&export=download",
+            "order": 2,
+            "groupName": ""
+          },
+          {
+            "name": "SMS-&-WhatsApp/SMS-&-WhatsApp_Mensaje-3",
+            "copy": "¿Todavía no le has dicho adiós a las REBAJAS?\n\n¿Qué pensarías si te dijéramos que puedes ahorrar en Peluquería TODO el año y no tener que depender de las REBAJAS para venir más barato al salón? 🤔\n\nLa solución se llama LIBERTY CARDS, es nuestro nuevo servicio exclusivo y te está esperando para que disfrutes, sin límites, de un cabello bonito durante todo el año. 😍\n\nComo siempre. Puedes contactar con nuestro equipo para que resolvamos cualquier duda que tengas. 📞",
+            "url": "https://drive.google.com/uc?id=1IZVVZWT46ZrXkFu1a4nYxRJfwkpGsxq5&export=download",
+            "order": 3,
+            "groupName": ""
+          }
+        ],
+        "ca": []
+      }
+    },
+    "physicalContent": {
+      "id": "physicalContent",
+      "name": "Cartelería",
+      "order": 2,
+      "posters": {
+        "es": [
+          {
+            "name": "A4/A240104_01-01.pdf",
+            "url": "https://drive.google.com/file/d/18pAMJY6Zl88_festkccw5mMZuCjvMND1/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-02.pdf",
+            "url": "https://drive.google.com/file/d/1KoqmtUxtCer1wAl__mAcm8k1zaaP9r1G/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-03.pdf",
+            "url": "https://drive.google.com/file/d/1rF4IeuXwzaQkYCAHcLqj-X-OmSG6zJIo/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-04.pdf",
+            "url": "https://drive.google.com/file/d/1ivZL0cO0rvUM7cEiJQpMqjr4XAbqPUDu/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-05.pdf",
+            "url": "https://drive.google.com/file/d/1pjXPa340F_g-FG4q8D_8w9WPjzPmqeb1/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-06.pdf",
+            "url": "https://drive.google.com/file/d/1rAzxPC3s3aCxhJRIa8NUTdpDYHGgsFVl/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-07.pdf",
+            "url": "https://drive.google.com/file/d/1zby07ONbkRsfOK7Xf046MVvFfQjojrla/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-08.pdf",
+            "url": "https://drive.google.com/file/d/1j2x-mTMMXpZDg5jWjCRp_7daVyIPfhBH/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-09.pdf",
+            "url": "https://drive.google.com/file/d/11bYLdHrTKLMd6LTGT9PDAaqznrUqjYDd/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-10.pdf",
+            "url": "https://drive.google.com/file/d/1eVO3KnLW_OUpxRKxZMhl2lC26dSTMOWT/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-11.pdf",
+            "url": "https://drive.google.com/file/d/120iuL50vuaxLP8pvhnZjpJEwv0iMGbsh/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-12.pdf",
+            "url": "https://drive.google.com/file/d/1cq4DjPmc9JwF6xCwKJ7CltyvAwsfLPuW/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-13.pdf",
+            "url": "https://drive.google.com/file/d/1GSX2OGLfVx-5CbH_mzh6szbOMDBJrxXG/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-14.pdf",
+            "url": "https://drive.google.com/file/d/1GO7iejnDtQ0BwgVPITPIDIWp-NOjo-Hi/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-15.pdf",
+            "url": "https://drive.google.com/file/d/1TsB3uHTQmyy6iPTF0DpwDHJIJQggN0gd/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-16.pdf",
+            "url": "https://drive.google.com/file/d/1qcHkObgkN46H9415HaAKcndTFWKPFhZ6/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-17.pdf",
+            "url": "https://drive.google.com/file/d/1YWDZshc4pV8x0fFAMjlUHPVq7krY_lkm/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-18.pdf",
+            "url": "https://drive.google.com/file/d/15BDNCERqierx1Jglzsd0MiR51WUTusBn/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-19.pdf",
+            "url": "https://drive.google.com/file/d/1gkwvCKwKPY-8_Q0zfSesmTuNC4uB9wrN/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-20.pdf",
+            "url": "https://drive.google.com/file/d/1CKvB-xkAmY6-XlnPfEymH7_L_YWaPblJ/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-21.pdf",
+            "url": "https://drive.google.com/file/d/1yNaeObzx9UTXIQi7_H-sK9NR02nXmMYM/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-22.pdf",
+            "url": "https://drive.google.com/file/d/16m3h19ZAgSLlheSKHu7FPLZVGKep7Iqk/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-23.pdf",
+            "url": "https://drive.google.com/file/d/1MEGB8IwWGVvaPxP4Zl-leHR76jrFvpdB/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-24.pdf",
+            "url": "https://drive.google.com/file/d/1-Y1YRKMeEX6Rm205BBT6sSufBXVyxvjc/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-25.pdf",
+            "url": "https://drive.google.com/file/d/18NJkKHcLE1Nt7vEXEz2JfTUzc8R6GUku/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-26.pdf",
+            "url": "https://drive.google.com/file/d/1XlaLbevMQeLBsUAXcMis-pWatZXjUkmI/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-27.pdf",
+            "url": "https://drive.google.com/file/d/1n95moubMErZ_h_q1hsNeqknm5o7aDHvF/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-28.pdf",
+            "url": "https://drive.google.com/file/d/1PasJSSzoCTehWgvLM98x0SC8H8ARbDG3/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-29.pdf",
+            "url": "https://drive.google.com/file/d/1kMtsWs-pkBehE-pLOXiyj-GGdRdT3zjQ/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-30.pdf",
+            "url": "https://drive.google.com/file/d/1muPskp_7jw84JbIADgBBydmcWao1R0_Z/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-31.pdf",
+            "url": "https://drive.google.com/file/d/1eWsONN4UC9Ap_t5OAns4YgwXSina93jx/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-32.pdf",
+            "url": "https://drive.google.com/file/d/1bPRLn08xocIi4KNcfxbx6aNYjMoNvj8_/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-33.pdf",
+            "url": "https://drive.google.com/file/d/1kUpkt_E2BAXopmlIU0h8wX3BIiMCyuLW/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-34.pdf",
+            "url": "https://drive.google.com/file/d/1VYe4kSl2rO5H695AdaEgxAlfSOKNpxDh/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-35.pdf",
+            "url": "https://drive.google.com/file/d/1bcjSSMM4mPNYOkc6kqqpwfzFcfhVxhEa/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-36.pdf",
+            "url": "https://drive.google.com/file/d/1a7-gAcIoEStLzQIVMsX7nLeb7hFV-ASg/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-37.pdf",
+            "url": "https://drive.google.com/file/d/1iysjmjB3Di35k6fNWyoCQLPmXk3YMYFR/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-38.pdf",
+            "url": "https://drive.google.com/file/d/18zI4LayDUFoDvSVVl1s2zVGeC8ts42YK/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-39.pdf",
+            "url": "https://drive.google.com/file/d/1qOPTGuCdLCQlWjSr7C0gy_uahZyHBt8l/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-40.pdf",
+            "url": "https://drive.google.com/file/d/1rvUBmXJnycQHLzQp7MI0Y58D1QQih2fa/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_01-41.pdf",
+            "url": "https://drive.google.com/file/d/1wWBQ4ghOoRIhmqQgE8Y1QemzXOZe6gui/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-01.pdf",
+            "url": "https://drive.google.com/file/d/15bN3yy849T5fGAmRpbg7RXns6jX5TnIk/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-02.pdf",
+            "url": "https://drive.google.com/file/d/1lNWdD9ELxbIm4finqbOj6kzvLETkHVNN/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-03.pdf",
+            "url": "https://drive.google.com/file/d/1Ptsk6tVW4vI8s9OQ2MS6NL27m0q8eidI/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-04.pdf",
+            "url": "https://drive.google.com/file/d/1OxPO9rwEUduvj8ERawZ6x0jotL82199x/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-05.pdf",
+            "url": "https://drive.google.com/file/d/1n-e71hq09JleyeGRp8_9p98KHnz3c0Ie/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-06.pdf",
+            "url": "https://drive.google.com/file/d/1dIk6QzihPhZNOQnS8u0V733Xj_rw4O8Z/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-07.pdf",
+            "url": "https://drive.google.com/file/d/1ooMTDXMwlPkpLD-za_IDUL2fRdX8o4vf/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-08.pdf",
+            "url": "https://drive.google.com/file/d/1MdDPIEHlkccel33Yr3-LLpqypi0-0RqK/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-09.pdf",
+            "url": "https://drive.google.com/file/d/15IdGZGv7JcR4UIaAJmllg0GLJvg2tIT-/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-10.pdf",
+            "url": "https://drive.google.com/file/d/1Fis1d_F63Y1IZBrGxrdOyDIM4iB1PQl4/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-11.pdf",
+            "url": "https://drive.google.com/file/d/1QAG2YnAdW7p602YCOv09Hs4Iaxik9OTb/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-12.pdf",
+            "url": "https://drive.google.com/file/d/1_2O9C5xKYe6Oz5Y4YeqQar2nAIORUPZm/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-13.pdf",
+            "url": "https://drive.google.com/file/d/1QnEN0uSN8voO-sqBu8dJMIkfjCXiRKV5/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-14.pdf",
+            "url": "https://drive.google.com/file/d/1MLlI4uH0zXQha3iOeVRjIFf57ZtVDOCu/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-15.pdf",
+            "url": "https://drive.google.com/file/d/1qZq9ldrYL6IK_cv60PtiSVyYA0F08uAT/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-16.pdf",
+            "url": "https://drive.google.com/file/d/1ldA5Xk1EMD9hz2kKr7P-Fh-R_ku-H1oV/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-17.pdf",
+            "url": "https://drive.google.com/file/d/1pChO_SN_b8ghjjqxtYt7KxA-IiCWntcc/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-18.pdf",
+            "url": "https://drive.google.com/file/d/1E5Ots-TJkj1QWaldwtzia-haAnMQUYiR/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-19.pdf",
+            "url": "https://drive.google.com/file/d/1znmRolZHIf7O3yMrG3KG0w-bQwHqGpEK/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-20.pdf",
+            "url": "https://drive.google.com/file/d/1vyORuBCD3MmuHYUSj4qHMQ6-hZ2rnfDX/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-21.pdf",
+            "url": "https://drive.google.com/file/d/1NAmWHzICEczMkRWA7nuPu14TLd7yDUHn/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-22.pdf",
+            "url": "https://drive.google.com/file/d/1fAjSMywqm_XNWXD2MbsnXcu3cDYhRZNB/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-23.pdf",
+            "url": "https://drive.google.com/file/d/13Z7T8Y8tBuAVZaTrYbhkR0W6NJv-1tK4/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-24.pdf",
+            "url": "https://drive.google.com/file/d/1PB7bmkyhNCeHmo0pyBHp70g4oF0DeDi2/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-25.pdf",
+            "url": "https://drive.google.com/file/d/1VueiFvr6kNjanhnNZzkSChPC1I8N5byP/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-26.pdf",
+            "url": "https://drive.google.com/file/d/1JJ0fFJ2koGovdBvKFCjwWDMZi-0zw82O/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-27.pdf",
+            "url": "https://drive.google.com/file/d/1xuEE_Fuei1O6Pi4y_sp634QNaTPlMmNa/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-28.pdf",
+            "url": "https://drive.google.com/file/d/193KmezGg3u2szwu6xPVlNJXd6WRs8VEh/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-29.pdf",
+            "url": "https://drive.google.com/file/d/1PujwrnCKqxi7GecV7OuNjHfFxvuBAj6L/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-30.pdf",
+            "url": "https://drive.google.com/file/d/1wPXiQfjfDoKSwUFzQ5UO_sNkdijF5gPi/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-31.pdf",
+            "url": "https://drive.google.com/file/d/13dFfl7oO_AV-G88qsbOWh-ep2NzxQuqi/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-32.pdf",
+            "url": "https://drive.google.com/file/d/1i_IqwuC6Z7Sc0Hr3WnmOdzy0rCcrpRse/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-33.pdf",
+            "url": "https://drive.google.com/file/d/1HnXVtV0NjmjwRn80TUoG47zW9nC6KeeO/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-34.pdf",
+            "url": "https://drive.google.com/file/d/1vTaIZi2i8V0l2-NMqS4I6Mt1d2M-g1JB/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-35.pdf",
+            "url": "https://drive.google.com/file/d/1BvZKmaaYaCWIwGCw1xMUk0tYPjBBf2gN/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-36.pdf",
+            "url": "https://drive.google.com/file/d/1_yqwF34v-LGmqYA_f8h56pWhWCg5NXaO/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-37.pdf",
+            "url": "https://drive.google.com/file/d/1vOOjFL5X0LCyD0he54As2eUUB_b34pW7/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-38.pdf",
+            "url": "https://drive.google.com/file/d/1Axs_RwVRYSfz-bAdPP_6qpQjXiE8WpLs/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-39.pdf",
+            "url": "https://drive.google.com/file/d/142x0W_dhBxmkFOP2X6QrtJVgT_cwOphy/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-40.pdf",
+            "url": "https://drive.google.com/file/d/1IH73JJeQiVwd1vjr3UoKIZeUZbbH7vlR/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_01-41.pdf",
+            "url": "https://drive.google.com/file/d/14a9fm9kjrS6cYOuD1FWiY58PHDINx0cu/view?usp=drivesdk"
+          },
+          {
+            "name": "Alup50/A240150_01-01.pdf",
+            "url": "https://drive.google.com/file/d/10LaT3WZ-TVC3V7CEG79ADrd70Ccg-8fY/view?usp=drivesdk"
+          },
+          {
+            "name": "Alup50/A240150_01-02.pdf",
+            "url": "https://drive.google.com/file/d/1N3MGNXSsoYzl-iPV5AhufojkYIJtSoPe/view?usp=drivesdk"
+          },
+          {
+            "name": "Alup80/A240180_01-01.pdf",
+            "url": "https://drive.google.com/file/d/1iIKzLeJDoI-tiiuj8LGtISxkxv9xgKUE/view?usp=drivesdk"
+          },
+          {
+            "name": "Alup80/A240180_01-02.pdf",
+            "url": "https://drive.google.com/file/d/10JREcS3a9KfgST8hKowy_OUbT71Zmffr/view?usp=drivesdk"
+          }
+        ],
+        "ca": [
+          {
+            "name": "A4/A240104_02-01.pdf",
+            "url": "https://drive.google.com/file/d/1OtU19SiV4SsAbHtfPsHVACMMvMvJBYWl/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-02.pdf",
+            "url": "https://drive.google.com/file/d/1zMBvsYj1i4s1qYmV0ahv2ny0XZ9d0Xc7/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-03.pdf",
+            "url": "https://drive.google.com/file/d/1XAI5iF61_JZFmjznv7DG96GjVlTrzY15/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-04.pdf",
+            "url": "https://drive.google.com/file/d/10djDJJNoaZwAh2skhSq853gHzvt9qQix/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-05.pdf",
+            "url": "https://drive.google.com/file/d/15_H8voHFQhqicWrKRFZfI4ffE7ox34ZW/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-06.pdf",
+            "url": "https://drive.google.com/file/d/1p4skYsYoTFZAnyceRU4aocIYDEcr4xQ2/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-07.pdf",
+            "url": "https://drive.google.com/file/d/1LerJgYtrzTX3zvfL6UYtAeCl0wpirk5N/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-08.pdf",
+            "url": "https://drive.google.com/file/d/1fnYMOfEEEXHTfZ9SBZqeDxRhNR0sDaJ_/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-09.pdf",
+            "url": "https://drive.google.com/file/d/1nekHHd7L-nM6_fPN_DKk_owvj5mI0eWs/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-10.pdf",
+            "url": "https://drive.google.com/file/d/1W9mlsXyYy1G-ibK5f0fz-ZFtaC64WLdp/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-11.pdf",
+            "url": "https://drive.google.com/file/d/1i7iWAeGVR23eARKjqBzgpEhXabiCudyt/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-12.pdf",
+            "url": "https://drive.google.com/file/d/11or9PIWrxaYiM_vkkOI4sNFY1PrnERyY/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-13.pdf",
+            "url": "https://drive.google.com/file/d/1eFZyFqGRqv4lsTr4QtPEIhu2NMSbX553/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-14.pdf",
+            "url": "https://drive.google.com/file/d/1ylma70g8umev2grysbPOIGMRFs1R61MP/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-15.pdf",
+            "url": "https://drive.google.com/file/d/1-1h9YyF86akx6_NTPcp17dQMt1wrkqrQ/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-16.pdf",
+            "url": "https://drive.google.com/file/d/1__3T4OQP7f6GgWGiAf1Ami9ub3M4_y0p/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-17.pdf",
+            "url": "https://drive.google.com/file/d/10LBfiCNiClwz6dIVLXJCmRlyOFxdzwTf/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-18.pdf",
+            "url": "https://drive.google.com/file/d/180TRnYo6onwCKL2rW1bSBMst9aJc4Hv8/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-19.pdf",
+            "url": "https://drive.google.com/file/d/14hJp_KIhq6YQztC-K7T-QRcfYJrvwLmb/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-20.pdf",
+            "url": "https://drive.google.com/file/d/1HPC3geNOontj4_zOKeL5GERWPO0FhqgC/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-21.pdf",
+            "url": "https://drive.google.com/file/d/1Jza3USRDQOxwYY5jmW-J9XT2Ka8wzo5r/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-22.pdf",
+            "url": "https://drive.google.com/file/d/1bpHppbD_jah5Sr06b79cO-kGL7NOFu3p/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-23.pdf",
+            "url": "https://drive.google.com/file/d/1hzJCNFVfHEtzF_0D2Qlj1asW9zwrL1RK/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-24.pdf",
+            "url": "https://drive.google.com/file/d/1ubgWIQ-G372CM5H9CbhfOwDa31I318ur/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-25.pdf",
+            "url": "https://drive.google.com/file/d/1P-HWlN6HJxtLc2Rhj8nBUX6TJQEY6-5H/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-26.pdf",
+            "url": "https://drive.google.com/file/d/1zEjGdO1ew8TGXRoGx-dUeXUgAsFl1q33/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-27.pdf",
+            "url": "https://drive.google.com/file/d/1T_7UuQEVcjcqNVNsoXrO0VKnTWu5uF4D/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-28.pdf",
+            "url": "https://drive.google.com/file/d/1cEatePS0tXfCZt6K5Oi5HSgDOV8wp-FX/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-29.pdf",
+            "url": "https://drive.google.com/file/d/13wnbm8Fm9T-Da5g7yd_R-8YXQYTsQU6u/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-30.pdf",
+            "url": "https://drive.google.com/file/d/1lXpYP9GlVw5kGnEWNJ-cVmSzWWzdQoqs/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-31.pdf",
+            "url": "https://drive.google.com/file/d/1OLK5R05-NQAUvNMEymPx0gqgvLSEb5rU/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-32.pdf",
+            "url": "https://drive.google.com/file/d/1ldPVKKEe2KTMkQr3A3RMoWFm4r_tC5ll/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-33.pdf",
+            "url": "https://drive.google.com/file/d/10NF-dbi4r6dFPupAtHNcpsNlLL-UsLN3/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-34.pdf",
+            "url": "https://drive.google.com/file/d/1mxZoz7jyyK0liWHyvgti4KwEC8zY2l1e/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-35.pdf",
+            "url": "https://drive.google.com/file/d/1w4AIP7yrZDpyIre_nSHEGBk8RXKRcdOO/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-36.pdf",
+            "url": "https://drive.google.com/file/d/1DEBY_n4mGwNMs-IBSIgpVNPaGJdIFJqN/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-37.pdf",
+            "url": "https://drive.google.com/file/d/1_h1rmMWpg6PTlG05sqLe4u-FpJ_X-mkm/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-38.pdf",
+            "url": "https://drive.google.com/file/d/1zCYUdzrVMhQKtz4r3YbyFG2AezoJmEMs/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-39.pdf",
+            "url": "https://drive.google.com/file/d/1AgL6ZjdGsi1oBMDH6eOboLG87pEM3X7b/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-40.pdf",
+            "url": "https://drive.google.com/file/d/1SqXxrllPx6HCGeY1wkC2t-UkJN4y4VNl/view?usp=drivesdk"
+          },
+          {
+            "name": "A4/A240104_02-41.pdf",
+            "url": "https://drive.google.com/file/d/1caJjKmdg37onlp04PMxqx3pdoSJBJR1z/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-01.pdf",
+            "url": "https://drive.google.com/file/d/1LuhU_K4oz77DlFaWITSk_LlPI43poBIu/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-02.pdf",
+            "url": "https://drive.google.com/file/d/1ZY6MS7z3nEKY8qAKQaBPfS-TwzzegtrR/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-03.pdf",
+            "url": "https://drive.google.com/file/d/1QMc1Tc7TvsiS5W7M7n_jFrvuEoaZ_Hi1/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-04.pdf",
+            "url": "https://drive.google.com/file/d/13c1XUUdX7uhJHKSQ1t7b0Yn5KNxZu2il/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-05.pdf",
+            "url": "https://drive.google.com/file/d/1USibQF9axgLwx_CJalJc2_y_w1FWuxSX/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-06.pdf",
+            "url": "https://drive.google.com/file/d/1HObn6rDZKQLbCvNq5xkHiZenmUHErqNO/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-07.pdf",
+            "url": "https://drive.google.com/file/d/1ixU88wQB2fDKhq0aGFcsqjXmkIqGTEMj/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-08.pdf",
+            "url": "https://drive.google.com/file/d/1Ai8lNbC-Cb_fetR41ZNnKXtLMCLO0_JZ/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-09.pdf",
+            "url": "https://drive.google.com/file/d/1bhmQNfdaYsEfQplCqWYWM9qyZzM1Lvcl/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-10.pdf",
+            "url": "https://drive.google.com/file/d/1oK_aQpBeCB4-SR6EH3cWTUjL3EBz7e8c/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-11.pdf",
+            "url": "https://drive.google.com/file/d/1x9qD7TuA2sLaYaxW0fZL6JxVwqLE7iEo/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-12.pdf",
+            "url": "https://drive.google.com/file/d/1olALUbNKG_vbx3UckHg9ef9hCziamVcE/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-13.pdf",
+            "url": "https://drive.google.com/file/d/1QpzL6FziK9YiBggef8b925dHg3TErwDW/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-14.pdf",
+            "url": "https://drive.google.com/file/d/1tdnqRxUE5_Vsk-LhgaIbXwAArSVEc0Kk/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-15.pdf",
+            "url": "https://drive.google.com/file/d/16z4rNq-mJ_8OKB9Fw5iEUC9FwPaS45TH/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-16.pdf",
+            "url": "https://drive.google.com/file/d/1eUUoycyyzGaUs7MA61gTFDw-WeW1XoFx/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-17.pdf",
+            "url": "https://drive.google.com/file/d/17-ve9ZVpf5m8163rljZ5t_oUjMWZIeIh/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-18.pdf",
+            "url": "https://drive.google.com/file/d/1aMt9xDGnHt70sR3U9IPSHvaW-GoEKLP7/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-19.pdf",
+            "url": "https://drive.google.com/file/d/1uwo0RCIT22cannRWvgy00dIlDJzGvPXj/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-20.pdf",
+            "url": "https://drive.google.com/file/d/1X7QKLzZildmDR2kOOCWMsDsWXl9U1kdr/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-21.pdf",
+            "url": "https://drive.google.com/file/d/1N_q3JAMYdgM6v7SAgKFI0auHDVI7OZEe/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-22.pdf",
+            "url": "https://drive.google.com/file/d/14JlnAnRGf2SCh8D1cb-BLC-c14yGsaHf/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-23.pdf",
+            "url": "https://drive.google.com/file/d/13KLkMKn4RQbTps-hGlQ4JrE8cmQZx7ze/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-24.pdf",
+            "url": "https://drive.google.com/file/d/1AvJveNPiSdHCGV_ZRKh_pjY1CPvKzUdH/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-25.pdf",
+            "url": "https://drive.google.com/file/d/1EpOTy-sA4sPuClN9sO6q-88bJ1CT09k9/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-26.pdf",
+            "url": "https://drive.google.com/file/d/1tuWNDhYG4qb7YfYYmZI55As-EH4VXNgx/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-27.pdf",
+            "url": "https://drive.google.com/file/d/1IpC9iJnBCdM044W-4ex6nZM8J4QkaVG7/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-28.pdf",
+            "url": "https://drive.google.com/file/d/17iXjtbfqwK9gfkITWrQQcBAu6LS4ppGv/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-29.pdf",
+            "url": "https://drive.google.com/file/d/1IsltjFMamDBGckQMYkNd5Pgifk8ZcdWx/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-30.pdf",
+            "url": "https://drive.google.com/file/d/102oMUMKs1Ioi1ouSq4L5nFC9D_42q_rT/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-31.pdf",
+            "url": "https://drive.google.com/file/d/1BMpbyql7TLxOIb5Jr8op53Wxgur7SC9j/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-32.pdf",
+            "url": "https://drive.google.com/file/d/1ORhfvq6-cR1_uJ93AmnLaNRUxrLaEIyX/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-33.pdf",
+            "url": "https://drive.google.com/file/d/1g8LUWPW1uyVbogj4bAoBngZOFQtZW9gH/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-34.pdf",
+            "url": "https://drive.google.com/file/d/1R6QKMpyaOX5WfBSC0YYJX0PBq0Q6w2qX/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-35.pdf",
+            "url": "https://drive.google.com/file/d/1xPrhpdALY_wfJzXobIaFrVVmQL5AQcwz/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-36.pdf",
+            "url": "https://drive.google.com/file/d/1YVSkUCxQZ_yrH_ZKyN5A6CMrK7F_BUm1/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-37.pdf",
+            "url": "https://drive.google.com/file/d/1pzMU80hNnWaXcPIxR4Iyh5PXMFF0M7Sm/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-38.pdf",
+            "url": "https://drive.google.com/file/d/1GthKuWkeo2AjqdQigiT98QX_FjgcSW5w/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-39.pdf",
+            "url": "https://drive.google.com/file/d/1s8rBeAcZppLPlG84P6EOTdkG469C6jPy/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-40.pdf",
+            "url": "https://drive.google.com/file/d/1sMdgBt7eQrSytQfjOk44WaaXbeHMVOax/view?usp=drivesdk"
+          },
+          {
+            "name": "A5/A240105_02-41.pdf",
+            "url": "https://drive.google.com/file/d/1s1mkQ0EHfj0U1hT7hYWALPF-Wpa7s01Y/view?usp=drivesdk"
+          },
+          {
+            "name": "Alup50/A240150_02-01.pdf",
+            "url": "https://drive.google.com/file/d/1jlNMLL1S7TR60vvTAmDK4t_VQJgaYjnr/view?usp=drivesdk"
+          },
+          {
+            "name": "Alup50/A240150_02-02.pdf",
+            "url": "https://drive.google.com/file/d/1l026Mms_tr0QOrVB_cYOZavQW9EHnUn-/view?usp=drivesdk"
+          },
+          {
+            "name": "Alup80/A240180_02-01.pdf",
+            "url": "https://drive.google.com/file/d/1Jnj2jR8qohC0cNZGEIIb3AnKcZJIXX-g/view?usp=drivesdk"
+          },
+          {
+            "name": "Alup80/A240180_02-02.pdf",
+            "url": "https://drive.google.com/file/d/152OjSMhxqsrNcncMnRgeS9ufSPUCwqjY/view?usp=drivesdk"
+          }
+        ]
+      },
+      "stoppers": {
+        "es": [
+          {
+            "name": "Stopper/A240100_01-01.pdf",
+            "url": "https://drive.google.com/file/d/1wHCY-Z-VlzyXpSBWdLn3X3L9lGF5YLua/view?usp=drivesdk"
+          },
+          {
+            "name": "Preview/A240100_01-01.pdf",
+            "url": "https://drive.google.com/uc?id=1t31ND_COANohM39NWlBYfsdf505we0Hd&export=download"
+          }
+        ],
+        "ca": [
+          {
+            "name": "Stopper/A240100_02-01.pdf",
+            "url": "https://drive.google.com/file/d/1PYKK7R6U20lTM_rKihgyo7Rl9bA_Z0Nu/view?usp=drivesdk"
+          },
+          {
+            "name": "Preview/A240100_02-01.pdf",
+            "url": "https://drive.google.com/uc?id=1_N-R_lJHxQDd3CZ22EiOVSWTlXG3FIN0&export=download"
+          }
+        ]
+      },
+      "tests": {
+        "es": [
+          {
+            "name": "Preview/Test_01-01.pdf",
+            "url": "https://drive.google.com/uc?id=1HrnrrLmUsfx9CPjCqGN55Kabp6lt0t2g&export=download"
+          },
+          {
+            "name": "Test-Clientes/Test_01-01.pdf",
+            "url": "https://drive.google.com/uc?id=1HrnrrLmUsfx9CPjCqGN55Kabp6lt0t2g&export=download"
+          },
+          {
+            "name": "Test-Peluqueros/Test_01-01.pdf",
+            "url": "https://drive.google.com/uc?id=1K8j83vrrqsTlE6-_ApXNqQz0qVK2lvsD&export=download"
+          }
+        ],
+        "ca": [
+          {
+            "name": "Preview/Test_02-01.pdf",
+            "url": "https://drive.google.com/uc?id=1Uqz2VA_jWdpJ-mB5HfZlf52QPFkQhBRL&export=download"
+          },
+          {
+            "name": "Test-Peluqueros/Test_02-01.pdf",
+            "url": "https://drive.google.com/uc?id=1Uqz2VA_jWdpJ-mB5HfZlf52QPFkQhBRL&export=download"
+          },
+          {
+            "name": "Test-Clientes/Test_02-01.pdf",
+            "url": "https://drive.google.com/uc?id=182bgdnGtor5roOlQCaNlC5P9Mvpa5fhF&export=download"
+          }
+        ]
+      },
+      "cards": {
+        "es": [
+          {
+            "name": "Liberty_Color/Tarjeta_Liberty-Color.pdf",
+            "url": "https://drive.google.com/uc?id=1-lmTknmPxuUJHYxVQorgsBLEaQ9WJacl&export=download"
+          },
+          {
+            "name": "Liberty_Corte-3/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=1C5T4aBUl9cmLKXiOG1HsAIUNjYm02SG6&export=download"
+          },
+          {
+            "name": "Liberty_Corte-4/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=19mQrCc0rzX_0HBSj1c-cnp499iTD9ECT&export=download"
+          },
+          {
+            "name": "Liberty_Corte-5/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=1Kr-6mNIvwlGIVU_Q2tT_my6aCMR4Fdxp&export=download"
+          },
+          {
+            "name": "Liberty_Corte-6/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=1u0SCqfpz6jRnrpKHWvgKDTNnzy1wchsJ&export=download"
+          },
+          {
+            "name": "Liberty_Corte-10/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=1Y_VskB5VxI-vKjkyd3OjI5FAZyF5SqqJ&export=download"
+          },
+          {
+            "name": "Liberty_Corte-12/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=1532JZwAYHNxGpJ-CmbkD-e8ZEERc9TCS&export=download"
+          },
+          {
+            "name": "Preview/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/190nJ9_r-Vfw7gjuMVnhYPmZJM9_T39-G/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_3x2/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/190nJ9_r-Vfw7gjuMVnhYPmZJM9_T39-G/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_3x2/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/1OOxylJALSY-GJa1EbBICfkkeyJwfk1VB/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_3x2/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/1NIW9bgHv_yyArMXzDm-q00kBWXnaaTND/view?usp=drivesdk"
+          },
+          {
+            "name": "Preview/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/190nJ9_r-Vfw7gjuMVnhYPmZJM9_T39-G/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_3x2/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/19CfaksKa-HF7eRW3L__HM4q4ru6jaGFo/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_3x2/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/1phe69EoaA2EZTVDBQQytwJYfENw-LeLx/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_3x2/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/1EiO9PQyZsW-Z7cg1fffKWA3LTUA-qUEU/view?usp=drivesdk"
+          },
+          {
+            "name": "Preview/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/190nJ9_r-Vfw7gjuMVnhYPmZJM9_T39-G/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_3x2/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/10PjuwHWRERJYGHv8VRcu4jPR64suiUc-/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_3x2/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/1v2LbblQVJUyQ-UDr1V4ZJOkWoGEiBco2/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_3x2/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/1fozIw27Ia9adMflwyehZhc8ka6jBsEBY/view?usp=drivesdk"
+          },
+          {
+            "name": "Preview/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/190nJ9_r-Vfw7gjuMVnhYPmZJM9_T39-G/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_3x2/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1OigcUTJ2Ovkk2OVOjAxY8Oe89hB58so4/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_3x2/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1ZHfi31u3oryitRUHyc9BOwjiOErbGlf8/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_3x2/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1zG_rtP1Y8t17LvjDQytz-lrjEfyRl9tM/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_4x3/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/1Z8iu7BNr5zEigDQ1kdtR4ZKhzpjFXJQw/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_4x3/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/1OmXgK214AK51_O2Bqs8cAQwJ9vzsSHYh/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_4x3/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/1jg1oQe0bSDu2WRwYHB85OMaU2LUQJDrW/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_4x3/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/1kQv1xs9HuThLzHcVoXK5V8XceL8J5mQl/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_4x3/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/1vbF8EvhwYzckcEOOtd6c_mAusa7rKlPw/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_4x3/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/1gIXzist6dm-cek2MbSiLK7HQ3ng7Gto5/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_4x3/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/1faKIXCY7KaiHopstdqKQt_sU3wuxsA8J/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_4x3/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/1pWf6OtJYsIx8_eI4eVxGMMMUt2etmZnq/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_4x3/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/1R13xGHKziM-KWU2jGahuEieX_Z6DS5fX/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_4x3/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/12GAaK0FTagVeJdet4SwjNF8Ca5M8zlj-/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_4x3/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1RCNWpj9dPUVU0dzVTuOhRMkOWQStCzd3/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_4x3/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1FWhkQEz1PYg34tSTAedTkLMUnqgm1nJF/view?usp=drivesdk"
+          }
+        ],
+        "ca": [
+          {
+            "name": "Liberty_Color/Tarjeta_Liberty-Color.pdf",
+            "url": "https://drive.google.com/uc?id=121s_cMSYPQD3BNjnt4_rm-at9m5lDcMZ&export=download"
+          },
+          {
+            "name": "Liberty_Corte-3/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=17-QuNMbMAQLG2f9rMwXhecNYkWfY_q72&export=download"
+          },
+          {
+            "name": "Liberty_Corte-4/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=16-r4BOQidXJVRhiN3vKIBqcpOquMAQBd&export=download"
+          },
+          {
+            "name": "Liberty_Corte-5/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=1naS_W98vkbwIlrPozTbotV1xU89N0ZrW&export=download"
+          },
+          {
+            "name": "Liberty_Corte-6/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=1opP7f7Qg66umA6_6i8cpkJ-3Z-2adJvp&export=download"
+          },
+          {
+            "name": "Liberty_Corte-10/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=1sImAG5pFHcJYTlHtLX1DabokUTihM3et&export=download"
+          },
+          {
+            "name": "Liberty_Corte-12/Tarjeta_Liberty-Corte.pdf",
+            "url": "https://drive.google.com/uc?id=1QLsoo4VxaZ9MtHhF3LBAsTcWXM9htkBk&export=download"
+          },
+          {
+            "name": "Preview/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/1fE2s-fRYRTRSbHMA8mGDtOdmi_7jal4P/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_3x2/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/1fE2s-fRYRTRSbHMA8mGDtOdmi_7jal4P/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_3x2/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/1nfbSmiYvU4ELZcqQlZQoTD3MIF6mXHSv/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_3x2/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/1UMUOcaEdzNR6wmSAkiR9WmZ0uCOEVdf3/view?usp=drivesdk"
+          },
+          {
+            "name": "Preview/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/1fE2s-fRYRTRSbHMA8mGDtOdmi_7jal4P/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_3x2/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/1W5QoM8tR5I_GmcUIGWV5d2E_4kIFl0Ip/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_3x2/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/1Sx_17WUjjSk9s9SDW2oQRxRcG87dQpwA/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_3x2/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/1pMHOG0n31YYtgnmlMDsJ-yJnXrnuVfWr/view?usp=drivesdk"
+          },
+          {
+            "name": "Preview/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/1fE2s-fRYRTRSbHMA8mGDtOdmi_7jal4P/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_3x2/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/1T0z0OP3twvtGUNwDICU0mKxFfI9TDkGI/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_3x2/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/1RxzAbBdNfrQc5-Un-A2ueGfvE0EWC2b3/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_3x2/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/1fu6JT_ll1sm4PzewOv5bzuoJg1bmd99L/view?usp=drivesdk"
+          },
+          {
+            "name": "Preview/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1fE2s-fRYRTRSbHMA8mGDtOdmi_7jal4P/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_3x2/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1vn9MrRGTPo5PzjGul8sTHtttRirp_D44/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_3x2/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1ObnpLOlXx5Pfasue30cvIegeAEMWW7B_/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_3x2/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1v8RoMrGthIAXX0A0iSpAG8eGnb3feZvI/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_4x3/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/17PIdYdItVSz4sU1--qdURpcRd6gYVI3g/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_4x3/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/1O3GY_CKeOaNc5PSAqSXR4bVnawpPUhG3/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_4x3/Tarjeta_Alisado-Orgánico.pdf",
+            "url": "https://drive.google.com/file/d/1v65uPuqIWchv03sttJQMBQ4J2p5cwOxQ/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_4x3/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/11dlPl3KAFgXakkEOKBm-CX4fvuxMtaPost/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_4x3/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/1WgxXdODeb5Ps21u01NrbwuFHXNq4lC7m/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_4x3/Tarjeta_Enzimoterapia.pdf",
+            "url": "https://drive.google.com/file/d/1bbeAZas10UAXjUtjk4f3WXfd5j-RsBuf/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_4x3/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/1tIF4g_Eyfeq5uLBCuJ_05mhGHLlZe_yF/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_4x3/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/1zfcMRNhLkmqVb0jVuXA51nIaPPG3B06G/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_4x3/Tarjeta_Keratina.pdf",
+            "url": "https://drive.google.com/file/d/187-RPlLj2oDiRyGzC1HqcBpsLS3DudAx/view?usp=drivesdk"
+          },
+          {
+            "name": "Normal_4x3/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1w8ecNY60Y32puADWBS3GJdz2GI9bRCnQ/view?usp=drivesdk"
+          },
+          {
+            "name": "Ligth_4x3/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1vUWvHlV2kSMPQBxNFnHJ6Hb-d3j8v-mq/view?usp=drivesdk"
+          },
+          {
+            "name": "Premium_4x3/Tarjeta_Taninoplastia.pdf",
+            "url": "https://drive.google.com/file/d/1f_sqqAyIXUZk7dayYJRJvClJIK9Fv-IH/view?usp=drivesdk"
+          }
+        ]
+      }
+    },
+    "repeats": {
+      "id": "repeats",
+      "name": "Repeticiones",
+      "order": 4,
+      "tabs": [
+        {
+          "id": "implementationSession",
+          "title": "Sesiones de Implementación",
+          "type": "video",
+          "videos": [
+            {
+              "id": "implementationSessionRobertJesus",
+              "title": "Sesión con Robert & Jesús",
+              "url": "https://player.vimeo.com/video/901446976?h=716e21575a"
+            }
+          ]
+        },
+        {
+          "id": "launchSession",
+          "title": "Sesiones de Lanzamiento",
+          "type": "video",
+          "videos": [
+            {
+              "id": "launchSessionLorena",
+              "title": "Sesión con Lorena",
+              "url": "https://player.vimeo.com/video/901925395?h=50ed5b0075"
+            },
+            {
+              "id": "launchSessionPedro",
+              "title": "Sesión con Pedro",
+              "url": "https://player.vimeo.com/video/901926087?h=6e2c04e313"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "february": {
+    "marketingPlan": {
+      "id": "marketingPlan",
+      "name": "Plan de Marketing",
+      "order": 1,
+      "tabs": [
+        {
+          "id": "contextAndOportunities",
+          "title": "Contexto & Oportunidades",
+          "type": "video",
+          "url": "https://player.vimeo.com/video/900704002?h=557436604d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+          "id": "marketingPlan",
+          "title": "Plan de Marketing",
+          "type": "video",
+          "url": "https://player.vimeo.com/video/900704082?h=7cbd2ba7c5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+          "id": "sellingPlan",
+          "title": "Plan de Ventas",
+          "type": "video",
+          "url": "https://player.vimeo.com/video/900704358?h=76a2fb9e0b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        }
+      ],
+      "formButton": {
+        "title": "Enlace al formulario",
+        "active": true,
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScf_buxttGu-SRFHOEZij0D1ZkAhfJJSORqkh6JocEVQTPdYw/viewform?usp=sf_link"
+      },
+      "slides": {
+        "url": "https://docs.google.com/presentation/d/e/2PACX-1vQcp0XzRN1bGt-zgQbJbwdGj9UEdhudqCRr_S2BI1OfA1Sl8N2uwA8W4qSZVI5U_oJwamgW2i-PEMgt/embed?start=false&loop=false&delayms=3000",
+        "active": true
+      }
+    },
+    "physicalContent": {
+      "id": "physicalContent",
+      "name": "Cartelería",
+      "order": 2,
+      "posters": {
+        "es": [
+          {
+            "name": "Alup80/A240280_01-01.pdf",
+            "url": "https://drive.google.com/uc?id=1Mg-ww89BvKaLps2hWG1QuJctXB306w6y&export=download"
+          },
+          {
+            "name": "Alup80/A240280_01-02.pdf",
+            "url": "https://drive.google.com/uc?id=1G3T3QSDbo04cjqt6sxbGNvgjBi9TOtY4&export=download"
+          },
+          {
+            "name": "Alup80/A240280_01-03.pdf",
+            "url": "https://drive.google.com/uc?id=1mnchDPa7Ung2tMdp1vJgo6wRf9lJ_mv3&export=download"
+          },
+          {
+            "name": "Alup80/A240280_01-04.pdf",
+            "url": "https://drive.google.com/uc?id=1y-gHfbqqj67G81uZGZjVPMcJY3vuvMk3&export=download"
+          },
+          {
+            "name": "Alup80/A240280_01-05.pdf",
+            "url": "https://drive.google.com/uc?id=1XwqMS8xzk-C7vaqqYXTdr1s8uwdFIz03&export=download"
+          },
+          {
+            "name": "Alup80/A240280_01-06.pdf",
+            "url": "https://drive.google.com/uc?id=1J8KVKmkB8FyQNlJ2EfM_2rOBwMShSc7y&export=download"
+          },
+          {
+            "name": "Alup50/A240250_01-01.pdf",
+            "url": "https://drive.google.com/uc?id=1F_Nq-AjA1rIyZLHNEkG1HNgO6g2aqXaX&export=download"
+          },
+          {
+            "name": "Alup50/A240250_01-02.pdf",
+            "url": "https://drive.google.com/uc?id=1_atL4zJmvKpzAZ17kJeDj3OhlaWWdehn&export=download"
+          },
+          {
+            "name": "Alup50/A240250_01-03.pdf",
+            "url": "https://drive.google.com/uc?id=1tIMLBpw5oV4Vg0agol44WSNQjl2yRUnq&export=download"
+          },
+          {
+            "name": "Alup50/A240250_01-04.pdf",
+            "url": "https://drive.google.com/uc?id=1I9MnJ2yvhi8hNncPzNAfWA7uQLfS7HTg&export=download"
+          },
+          {
+            "name": "Alup50/A240250_01-05.pdf",
+            "url": "https://drive.google.com/uc?id=1HG853ydeYXKwLtzlzRX5TnTKWCcyY2mJ&export=download"
+          },
+          {
+            "name": "Alup50/A240250_01-06.pdf",
+            "url": "https://drive.google.com/uc?id=10vdmGjoATR-Aee2ZtEg0Ni9QRnj5QUU6&export=download"
+          },
+          {
+            "name": "A4/A240204_01-01.pdf",
+            "url": "https://drive.google.com/uc?id=1dU8B2YbarNI0DHaFLG6OPP67eiiJoSxm&export=download"
+          },
+          {
+            "name": "A4/A240204_01-02.pdf",
+            "url": "https://drive.google.com/uc?id=1Dd65ndRq4HdF84_m9o-UTebijFk7IwqV&export=download"
+          },
+          {
+            "name": "A4/A240204_01-03.pdf",
+            "url": "https://drive.google.com/uc?id=1BLZk-OpVcKuQiuucdeS3IUuH6E8OPKTe&export=download"
+          },
+          {
+            "name": "A4/A240204_01-04.pdf",
+            "url": "https://drive.google.com/uc?id=1xrtrInLgz5oIqpT1CKN925OrhAb6r4GP&export=download"
+          },
+          {
+            "name": "A4/A240204_01-05.pdf",
+            "url": "https://drive.google.com/uc?id=1sXkPcDUC9bz_3bfVoXEg0J0EuXNMiSos&export=download"
+          },
+          {
+            "name": "A4/A240204_01-06.pdf",
+            "url": "https://drive.google.com/uc?id=13Rf9ohS4DnOvbmcZAxlCIeEx6_Vxu80z&export=download"
+          },
+          {
+            "name": "A4/A240204_01-07.pdf",
+            "url": "https://drive.google.com/uc?id=1WNj3d-cz49p2V6pGl3CSNOPl8sfUd8Mr&export=download"
+          },
+          {
+            "name": "A4/A240204_01-08.pdf",
+            "url": "https://drive.google.com/uc?id=18HjSthkMEb2tGz_mE-ymxxAMaVk53-P7&export=download"
+          },
+          {
+            "name": "A4/A240204_01-09.pdf",
+            "url": "https://drive.google.com/uc?id=1UgbLqDpsMBrcIWiL2gck3h4OBCiPymEb&export=download"
+          },
+          {
+            "name": "A4/A240204_01-10.pdf",
+            "url": "https://drive.google.com/uc?id=1tGqEdDNymtZQVRxpx75xJz6Mg1O-8sC_&export=download"
+          },
+          {
+            "name": "A4/A240204_01-11.pdf",
+            "url": "https://drive.google.com/uc?id=179P1fVy279GCOVvq0QIYC9WPTiO0zhXu&export=download"
+          },
+          {
+            "name": "A4/A240204_01-12.pdf",
+            "url": "https://drive.google.com/uc?id=1NyGQLujxHz-ewwfoDUQMoAc2Te-UDokV&export=download"
+          },
+          {
+            "name": "A4/A240204_01-13.pdf",
+            "url": "https://drive.google.com/uc?id=16OXsQ3M391ZyZPRfpNOdLnHK9-A6P1O7&export=download"
+          },
+          {
+            "name": "A4/A240204_01-14.pdf",
+            "url": "https://drive.google.com/uc?id=14QWo7CHg-HgJtejxO8_N2C67yO62RlVZ&export=download"
+          },
+          {
+            "name": "A5/A240205_01-01.pdf",
+            "url": "https://drive.google.com/uc?id=1a2MnjzwABcx70cb45SI15MAya1D9zfW4&export=download"
+          },
+          {
+            "name": "A5/A240205_01-02.pdf",
+            "url": "https://drive.google.com/uc?id=1AT3qAMAIdNZmLnGPBAPKIIMQjJOhkGe7&export=download"
+          },
+          {
+            "name": "A5/A240205_01-03.pdf",
+            "url": "https://drive.google.com/uc?id=1oCZBXglZ9KC37qBIJuBfETgp2eBgox23&export=download"
+          },
+          {
+            "name": "A5/A240205_01-04.pdf",
+            "url": "https://drive.google.com/uc?id=1AWKOzeEzwcmlY_8GYLWOdH1PKBlvS73Z&export=download"
+          },
+          {
+            "name": "A5/A240205_01-05.pdf",
+            "url": "https://drive.google.com/uc?id=1Czm4k3O_Ut_NVKDzwrlLZVflew5DvkYE&export=download"
+          },
+          {
+            "name": "A5/A240205_01-06.pdf",
+            "url": "https://drive.google.com/uc?id=16USmAfj02j5f7LI074UYGHnPINWXiZOa&export=download"
+          },
+          {
+            "name": "A5/A240205_01-07.pdf",
+            "url": "https://drive.google.com/uc?id=1JCOz91LV6BIUmNjcehCsk1syCCpUxr08&export=download"
+          },
+          {
+            "name": "A5/A240205_01-08.pdf",
+            "url": "https://drive.google.com/uc?id=1fD-quAGZcugmmG76Vfpr_thJShQpUzmE&export=download"
+          },
+          {
+            "name": "A5/A240205_01-09.pdf",
+            "url": "https://drive.google.com/uc?id=1Da-wTwrzJxCwcxdGRZ6QPH31mqQJ1I1u&export=download"
+          },
+          {
+            "name": "A5/A240205_01-10.pdf",
+            "url": "https://drive.google.com/uc?id=1BhaiAKtrO-p5ixhc5bwsfZfJOMNZ_GFn&export=download"
+          },
+          {
+            "name": "A5/A240205_01-11.pdf",
+            "url": "https://drive.google.com/uc?id=1dMkXmjgKHojcy8fW-6CDT6-aTfD482wY&export=download"
+          },
+          {
+            "name": "A5/A240205_01-12.pdf",
+            "url": "https://drive.google.com/uc?id=1g6uQNiZ-L-xZd9WTfrvqYm1HmvkJJWTg&export=download"
+          },
+          {
+            "name": "A5/A240205_01-13.pdf",
+            "url": "https://drive.google.com/uc?id=1OmvxnBDgM6XmqQW4N0ZjjEiVyt0c12Us&export=download"
+          }
+        ],
+        "ca": [
+          {
+            "name": "Alup80/A240280_02-01.pdf",
+            "url": "https://drive.google.com/uc?id=1wUic2KGodUgZ5DIiC9qIQC6QG0Qh1YTl&export=download"
+          },
+          {
+            "name": "Alup80/A240280_02-02.pdf",
+            "url": "https://drive.google.com/uc?id=1-ygJlmU-nkUsWDvOH1H9nw_zZr0NbA1x&export=download"
+          },
+          {
+            "name": "Alup80/A240280_02-03.pdf",
+            "url": "https://drive.google.com/uc?id=1BbGV0cZsMcdIVPcpxGoM1qMCvYqnSO98&export=download"
+          },
+          {
+            "name": "Alup80/A240280_02-04.pdf",
+            "url": "https://drive.google.com/uc?id=1qn7962CI2dziRl6xdKyEA-QhtLZUJGUG&export=download"
+          },
+          {
+            "name": "Alup80/A240280_02-05.pdf",
+            "url": "https://drive.google.com/uc?id=1ExVoEGaa286qR2kitVLPJla3Y91-7Irf&export=download"
+          },
+          {
+            "name": "Alup80/A240280_02-06.pdf",
+            "url": "https://drive.google.com/uc?id=12McRYOxUHybktPOEKYjDodD1GUklN9_U&export=download"
+          },
+          {
+            "name": "Alup50/A240250_02-01.pdf",
+            "url": "https://drive.google.com/uc?id=1Nmc6KvSGFNoU2dGuYSFFW289SMY3UlDE&export=download"
+          },
+          {
+            "name": "Alup50/A240250_02-02.pdf",
+            "url": "https://drive.google.com/uc?id=1gw0xJWFPqdkuAEw_OSQGsdTkCax7Wh4H&export=download"
+          },
+          {
+            "name": "Alup50/A240250_02-03.pdf",
+            "url": "https://drive.google.com/uc?id=1dpgxa1mvcNENPKfgVG3jeitFOoxYM52U&export=download"
+          },
+          {
+            "name": "Alup50/A240250_02-04.pdf",
+            "url": "https://drive.google.com/uc?id=1ZGPx19SHhbRygAotgcLnbamQiQilzigX&export=download"
+          },
+          {
+            "name": "Alup50/A240250_02-05.pdf",
+            "url": "https://drive.google.com/uc?id=14wa4tZfPEBduRTmgo7iJ2zHIX6SCetwo&export=download"
+          },
+          {
+            "name": "Alup50/A240250_02-06.pdf",
+            "url": "https://drive.google.com/uc?id=1IB33FbvghXaSkL_pQ0o2bAMvauzGxDVy&export=download"
+          },
+          {
+            "name": "A4/A240204_02-01.pdf",
+            "url": "https://drive.google.com/uc?id=1fruZZv1S2VAnLKybJb9pD4VBK6L0ojzO&export=download"
+          },
+          {
+            "name": "A4/A240204_02-02.pdf",
+            "url": "https://drive.google.com/uc?id=1xesYOh1W-xdDGYiG-HcRXJQaobuhRV1m&export=download"
+          },
+          {
+            "name": "A4/A240204_02-03.pdf",
+            "url": "https://drive.google.com/uc?id=1cgeW6SNjqh3uMzrE_pHmEQHjSVfNVCiU&export=download"
+          },
+          {
+            "name": "A4/A240204_02-04.pdf",
+            "url": "https://drive.google.com/uc?id=1vtQqbg_9NPUw-watgh0jE22A2Wl2BwoO&export=download"
+          },
+          {
+            "name": "A4/A240204_02-05.pdf",
+            "url": "https://drive.google.com/uc?id=1xJp-sTliXdQvfgm-MhAeMUYG96kT4k-c&export=download"
+          },
+          {
+            "name": "A4/A240204_02-06.pdf",
+            "url": "https://drive.google.com/uc?id=1BySFcRqL9CMutllKg0Zd-HlQqQGtnpLm&export=download"
+          },
+          {
+            "name": "A4/A240204_02-07.pdf",
+            "url": "https://drive.google.com/uc?id=1QElVTzC4KusgdyizA5ojuJ2azJspa7Gf&export=download"
+          },
+          {
+            "name": "A4/A240204_02-08.pdf",
+            "url": "https://drive.google.com/uc?id=1lMX-8MRbOY8aEWUrcomjUAFqGFdLoNvC&export=download"
+          },
+          {
+            "name": "A4/A240204_02-09.pdf",
+            "url": "https://drive.google.com/uc?id=12lk29lEgMtNDL6yy-iAUj2R4VgkqH8St&export=download"
+          },
+          {
+            "name": "A4/A240204_02-10.pdf",
+            "url": "https://drive.google.com/uc?id=1zGgrJG4HemQmOQTfumLgBqFvu13YcwOc&export=download"
+          },
+          {
+            "name": "A4/A240204_02-11.pdf",
+            "url": "https://drive.google.com/uc?id=1zt3Q8ksfMgj2u-wBGb2vG-evB29q7Vx8&export=download"
+          },
+          {
+            "name": "A4/A240204_02-12.pdf",
+            "url": "https://drive.google.com/uc?id=1VpPDYb2GMd997HmyAd3DzckMRRj5HqYP&export=download"
+          },
+          {
+            "name": "A4/A240204_02-13.pdf",
+            "url": "https://drive.google.com/uc?id=1zCURSwGqhZm-ps8ZjJfUM7o801iHjnoV&export=download"
+          },
+          {
+            "name": "A4/A240204_02-14.pdf",
+            "url": "https://drive.google.com/uc?id=1pInyEWeEBnn_RgRc3HwdVI8TSiJ_h2aI&export=download"
+          },
+          {
+            "name": "A5/A240205_02-01.pdf",
+            "url": "https://drive.google.com/uc?id=1qmyPhBgobX2GT7W3hkdUa7SL0K592_6F&export=download"
+          },
+          {
+            "name": "A5/A240205_02-02.pdf",
+            "url": "https://drive.google.com/uc?id=1Wr3vx6xtg4KCYU5R5PcqNV0b2HwxZkPp&export=download"
+          },
+          {
+            "name": "A5/A240205_02-03.pdf",
+            "url": "https://drive.google.com/uc?id=1AekxKk8CfHI3cKWhAiRBFnMqriszJ-md&export=download"
+          },
+          {
+            "name": "A5/A240205_02-04.pdf",
+            "url": "https://drive.google.com/uc?id=1rtZ-M47h3g47vsBXWwbEFAjeRSll4THp&export=download"
+          },
+          {
+            "name": "A5/A240205_02-05.pdf",
+            "url": "https://drive.google.com/uc?id=1AvCXZ99tpQLQ6HJfi0u_G1vDkPku7Rno&export=download"
+          },
+          {
+            "name": "A5/A240205_02-06.pdf",
+            "url": "https://drive.google.com/uc?id=1SdyxZJbBV6HR94ctB_BYmLr7j0INYcdI&export=download"
+          },
+          {
+            "name": "A5/A240205_02-07.pdf",
+            "url": "https://drive.google.com/uc?id=1Jjg_oGm4iChDwLfEZy9CHzebqMV5ZW5o&export=download"
+          },
+          {
+            "name": "A5/A240205_02-08.pdf",
+            "url": "https://drive.google.com/uc?id=1RVSracKBIY0eeKwKly6zM5hmSgIwiVMI&export=download"
+          },
+          {
+            "name": "A5/A240205_02-09.pdf",
+            "url": "https://drive.google.com/uc?id=1vNeRh3ue6ZYhJh5eiDsA4jijdjQsQgWu&export=download"
+          },
+          {
+            "name": "A5/A240205_02-10.pdf",
+            "url": "https://drive.google.com/uc?id=10fOeEiKRGhsCN2Q_JSdoO6fsZ5Gqzn3p&export=download"
+          },
+          {
+            "name": "A5/A240205_02-11.pdf",
+            "url": "https://drive.google.com/uc?id=1HCcp58hflS80dRAXJRbZiuJ60SAc_Jea&export=download"
+          },
+          {
+            "name": "A5/A240205_02-12.pdf",
+            "url": "https://drive.google.com/uc?id=1ounlYbeDt8kukdXdzWWOjzU8r9Gt5RGO&export=download"
+          },
+          {
+            "name": "A5/A240205_02-13.pdf",
+            "url": "https://drive.google.com/uc?id=1ud1QcYLhncooHis0EV_L_ADnckoUJnZk&export=download"
+          }
+        ]
+      },
+      "stoppers": {
+        "es": [
+          {
+            "name": "Stopper/A240200_01.pdf",
+            "url": ":https://drive.google.com/uc?id=1Y5DjDDC-DZT88UwPclWhVJpKCkxRBQ44&export=download"
+          },
+          {
+            "name": "Preview/A240200_01.jpg",
+            "url": ":https://drive.google.com/uc?id=1T8o1QJTUdu9D1-JZ2KRE4-nqqg6mIfcO&export=download"
+          }
+        ],
+        "ca": [
+          {
+            "name": "Preview/A240200_02.jpg",
+            "url": ":https://drive.google.com/uc?id=1eGIOo1JSfPsi_eSdVY1yMI9bv3QpXqKP&export=download"
+          },
+          {
+            "name": "Stopper/A240200_02.pdf",
+            "url": ":https://drive.google.com/uc?id=1xBiEK1KCzLNRpTNOpwg9RFxv_YqDffVx&export=download"
+          }
+        ]
+      },
+      "tests": {
+        "es": [
+          {
+            "name": "Test-Clientes/Test-Clientes_01-01.pdf  ",
+            "url": "https://drive.google.com/uc?id=1x6kwcsLC3MVi3nQlE4xe_doR8SPU5N_l&export=download"
+          },
+          {
+            "name": "Test-Peluqueros/Test-Peluqueros_01-01.pdf",
+            "url": "https://drive.google.com/uc?id=1ZzhinjqyYIS6jxn5uG7vmRSf_6aAATJs&export=download"
+          }
+        ],
+        "ca": [
+          {
+            "name": "Test-Clientes/Test-Clientes_02-01.pdf  ",
+            "url": "https://drive.google.com/uc?id=13lkMQNU-hW3rnchhcq2Twi2kCll3Zo2b&export=download"
+          },
+          {
+            "name": "Test-Peluqueros/Test-Peluqueros_02-01.pdf",
+            "url": "https://drive.google.com/uc?id=1Oy8k5KWJf_sn9nNsN0lC2HjINdMYaxIw&export=download"
+          }
+        ]
+      },
+      "cards": {
+        "es": [
+          {
+            "name": "Tarjeta/LIBERTY-COLOR_01-01.pdf",
+            "url": "https://drive.google.com/uc?id=1Yt6JYxEohE7-_WLtQvrFw2wmcQ76_z3-&export=download",
+            "groupName": "Liberty Color"
+          },
+          {
+            "name": "Preview/LIBERTY-COLOR_01-01.pdf",
+            "url": "https://drive.google.com/uc?id=1RAv4yIO3j3gE4irSYKNRhb9RyyRJ_-03&export=download",
+            "groupName": "Liberty Color"
+          },
+          {
+            "name": "tarjetas/Tarjeta-san-valentin_01-04.pdf",
+            "url": "https://drive.google.com/uc?id=1hK2H0VfIaJvmSJyoJ8p86C7rxnmIb4DA&export=download",
+            "groupName": "San Valentín"
+          },
+          {
+            "name": "tarjetas/Tarjeta-san-valentin_01-05.pdf",
+            "url": "https://drive.google.com/uc?id=1mCbCquqvBVSaFb4mQXL9i1C8o-axZdQk&export=download",
+            "groupName": "San Valentín"
+          },
+          {
+            "name": "Preview/Tarjeta-san-valentin_01-04.pdf",
+            "url": "https://drive.google.com/uc?id=16RQykuLRw6FdZSG33lV2Qfl--XGFsS-7&export=download",
+            "groupName": "San Valentín"
+          },
+          {
+            "name": "Preview/Tarjeta-san-valentin_01-05.pdf",
+            "url": "https://drive.google.com/uc?id=1Pd9vYVrJ3DFdc8xSDXTt45biOr3W7fTB&export=download",
+            "groupName": "San Valentín"
+          }
+        ],
+        "ca": [
+          {
+            "name": "Tarjeta/LIBERTY-COLOR_02-01.pdf",
+            "url": "https://drive.google.com/uc?id=1U2M5F1xnk4LuSQ2MzwOwVYuvXUakRSUZ&export=download",
+            "groupName": "Liberty Color"
+          },
+          {
+            "name": "Preview/LIBERTY-COLOR_02-01.pdf",
+            "url": "https://drive.google.com/uc?id=1dT7a7t58ayoMnJ03qDqE9cVlLrIMEX9p&export=download",
+            "groupName": "Liberty Color"
+          },
+          {
+            "name": "tarjetas/Tarjeta-san-valentin_02-04.pdf",
+            "url": "https://drive.google.com/uc?id=1VaDS5PEfDdTp6jSHTJ4ch_1j-mMIJkEm&export=download",
+            "groupName": "San Valentín"
+          },
+          {
+            "name": "tarjetas/Tarjeta-san-valentin_02-05.pdf",
+            "url": "https://drive.google.com/uc?id=1owhYN6nhQQj53XWdJEHCq2pvZvmI3vQy&export=download",
+            "groupName": "San Valentín"
+          },
+          {
+            "name": "Preview/Tarjeta-san-valentin_02-04.pdf",
+            "url": "https://drive.google.com/uc?id=1l4GOGGL0Y9YdFFRF5ItFfsq_VTeNkYaG&export=download",
+            "groupName": "San Valentín"
+          },
+          {
+            "name": "Preview/Tarjeta-san-valentin_02-05.pdf",
+            "url": "https://drive.google.com/uc?id=1Pd9vYVrJ3DFdc8xSDXTt45biOr3W7fTB&export=download",
+            "groupName": "San Valentín"
+          }
+        ]
+      }
+    },
+    "digitalContent": {
+      "id": "digitalContent",
+      "name": "Redes Sociales",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": [
+          {
+            "name": "Semana-1-día-1/Post_Semana-1-día-1.png",
+            "groupName": "Semana 1",
+            "order": 1,
+            "copy": "Febrero trae novedades🔭 para tus LibertyCards🗽\n\nCada vez está más cerca la nueva temporada y queremos que llegues con un cabello espectacular. 🤩 Por eso, nuestras Libertycard traen novedades:\n\nCompra tu LibertyCard de Color Ilimitado y llévate, GRATIS, dos tratamientos CRYSTAL CARE para potenciar el brillo de tu cabello hasta primavera.\n\n¡¡Presentamos la nueva LibertyCard!! Con la nueva tarjeta mantén tus balayage perfectas durante todo el 2024.\n\nCon LibertyCard, olvídate de las REBAJAS el resto del año. Como siempre, puedes contactar con nuestro equipo para que resolvamos cualquier duda que tengas📞.",
+            "url": "https://drive.google.com/uc?id=1u0xaod4-UtOgl4-VlEi2vbO2dw93t2Hl&export=download"
+          },
+          {
+            "name": "Semana-1-día-2/Post_Semana-1-día-2.png",
+            "groupName": "Semana 1",
+            "order": 2,
+            "copy": "XXL, la tendencia que viene pisando fuerte en 2024 💇\n\n¿Estás pensando en un cambio de look? Si quieres apostar por una tendencia que está arrasando en 2024, las melenas XXL vuelven con fuerza. ✨\n\nLos cortes XXL, como su propio nombre indica, se caracterizan por su largo, que puede llegar hasta la cintura o incluso más allá. Se trata de una tendencia que aporta un toque de sofisticación y elegancia a cualquier look. 😍\n\nAdemás, los cortes XXL son muy versátiles y pueden adaptarse a cualquier tipo de rostro y pelo. Si tienes el pelo liso, puedes optar por un corte recto o con capas para darle movimiento. 🌊 Si tienes el pelo rizado, puedes apostar por un corte con ondas naturales para resaltar tu textura. ➰\n\nSi estás buscando un cambio de look que sea a la vez elegante y moderno, el corte XXL es la opción perfecta para ti. 🤩 Pide cita y consejo en nuestro salón y nuestro equipo de estilistas te ayudará a encontrar el corte que mejor se adapte a ti. 🤝\n\n¿Quieres saber más sobre los cortes XXL? ¡Contacta con nosotros y te informaremos! 📲\n\n#corteXXL #tendencias2024 #pelolargo #pelosano #peluqueria",
+            "url": "https://drive.google.com/uc?id=1S-QAv7Wo6kBR9v6geOwfOEmERvp9_Pya&export=download"
+          },
+          {
+            "name": "Semana-1-día-3/Post_Semana-1-día-3.png",
+            "groupName": "Semana 1",
+            "order": 3,
+            "copy": "¿Tu pelo curly sufre en invierno? ¡Sigue estos consejos!\n\n¿Tienes el pelo curly y notas que se estropea más en invierno? No te preocupes, no estás sola. El frío, la humedad y los cambios de temperatura pueden dañar los rizos, haciéndolos más propensos al encrespamiento y a la rotura.❄️💨\n\nPor eso, es importante seguir una serie de consejos para proteger tu pelo curly del frío:\n\nHidratación, hidratación, hidratación. El pelo rizado necesita más hidratación que el pelo liso, así que es importante utilizar productos hidratantes con regularidad.🧴💧\n\nEvita el encrespamiento. El encrespamiento es uno de los problemas más comunes del pelo curly en invierno. Para evitarlo, utiliza un producto antifrizz antes de salir de casa.🚪🧢\n\nProtege tu pelo del frío. Cuando salgas a la calle, envuelve tu pelo en un pañuelo de seda o en un gorro de lana. Esto ayudará a protegerlo de la humedad y del frío.🧣❄️\n\nSiguiendo estos consejos, podrás mantener tu pelo curly sano y bonito durante todo el invierno. ¿Quieres saber más sobre cómo cuidar tu pelo curly? ¡Contacta con nosotros y te informaremos! ☎️💆‍♀️\n\n#pelorizado #pelocurly #pelonatural #cuidadodelcabello #invierno",
+            "url": "https://drive.google.com/uc?id=1l_QwIcNPMjzbOXZqa3DeZxoyZh_5OuS2&export=download"
+          },
+          {
+            "name": "Semana-2-día-1/Post_Semana-2-día-1.png",
+            "groupName": "Semana 2",
+            "order": 1,
+            "copy": "🌈Descubre la nueva LibertyCard BALAYAGE🌈\n\n¿Eres fan del balayage? ¿Te encanta lucir un cabello con reflejos naturales y luminosos? Entonces, no te puedes perder nuestra nueva LibertyCard BALAYAGE.\n\nCon esta tarjeta, podrás disfrutar de tus efectos balayage, babylights o similares, durante todo lo que queda de 2024. ¡Y por mucho menos de lo que te cuesta habitualmente!\n\n¿Cómo funciona? Es muy sencillo. Solo tienes que acercarte a nuestro salón o llamar a nuestro teléfono 📞 y contactar con nuestro equipo.Te informaremos de todos los detalles y te ayudaremos a elegir la LibertyCard que mejor se adapte a tus necesidades.\n\n¿A qué esperas? ¡Pide tu LibertyCard BALAYAGE y luce un cabello perfecto todo el año! 😍\n\n#balayage #libertycard #peluqueria #promoción #descuento",
+            "url": "https://drive.google.com/uc?id=1g_rH4jAg09zDo9VvtMy_kJmLlcnURMcR&export=download"
+          },
+          {
+            "name": "Semana-2-día-2/Post_Semana-2-día-2.png",
+            "groupName": "Semana 2",
+            "order": 2,
+            "copy": "En San Valentín: regala belleza y ¡sorprende! 💌\n\n¿Estás buscando un regalo original para tu pareja este San Valentín? ¿Quieres sorprenderla de verdad? ¡Regálale belleza!\n\nMuchas veces es difícil encontrar un regalo que realmente haga ilusión. Por eso, regalar belleza puede ser la mejor sorpresa para el Día de los Enamorados.\n\nCon un regalo de belleza, le demostrarás que eres original y que te preocupas por su bienestar. Podrá disfrutar de un regalo diferente y personalizado, que le ayudará a sentirse más guapa y segura de sí misma.\n\nEn nuestra peluquería, tenemos todo lo que necesitas para regalar belleza a tu pareja:\n\nCortes de pelo\nColoración y Balayage\nTratamientos de belleza\nProductos de cuidado del cabello\n\nPregunta a nuestro equipo por todas las opciones que tenemos y crea un regalo a su medida. Porque demostrar que te preocupas por la persona que amas, es el mejor regalo que puedes hacerle.\n\n¡Pide cita ahora y regala belleza a tu pareja! 💌\n\n#sanvalentin #regalos #belleza #peluqueria #pareja #amor",
+            "url": "https://drive.google.com/uc?id=1_hqjG9W94j47WAN18-VKIq6Kta6TJARV&export=download"
+          },
+          {
+            "name": "Semana-2-día-3/Post_Semana-2-día-3.png",
+            "groupName": "Semana 2",
+            "order": 3,
+            "copy": "Los tonos rojizos que arrasan este 2024 🔥\n\n¿Quieres dar un toque de color a tu cabello este 2024? Si eres fan de los tonos rojizos, estás de suerte, porque esta temporada están más de moda que nunca.\n\nAquí tienes algunos de los principales tonos rojizos que van a arrasar este año:\n\n1. Cowboy Cooper: un cobrizo mezclado con un chocolate oscuro que resulta en un color más suave y que ilumina muchísimo la piel. 🍫\n2. Spiced Ginger: Este tono de pelirrojo es ideal para cabellos castaños porque le aporta un brillo y tono cobrizo muy intenso. 🔥\n3. Rojo Velvet: Con el frío, la tendencia dicta que el pelirrojo varíe a un tono más oscuro. Por eso, durante el primer cuarto de año las melenas rojas con un cobrizo mucho más fuerte e intenso van a ser la moda. 🌟\n\nSi estás pensando en cambiar de look, los tonos rojizos son una excelente opción. ¡Te harán brillar este 2024! ¿Quieres saber más sobre los tonos rojizos? ¡Contacta con nosotros y te informaremos! 💇‍♀️💇‍♂️\n\n#tonorrojo #peluqueria #moda2024 #tendencias",
+            "url": "https://drive.google.com/uc?id=1pT-8bJ-Ouh6xobxPTAhAAjDB8idtC95T&export=download"
+          },
+          {
+            "name": "Semana-3-día-1/Post_Semana-3-día-1.png",
+            "groupName": "Semana 3",
+            "order": 1,
+            "copy": "¡Gasta menos y mantén tu cabello perfecto! 💰\n\n¿Quieres que tu cabello luzca siempre perfecto, sin tener que invertir mucho más dinero? ¡Tenemos la solución perfecta para ti!\n\nEn nuestro salón tenemos una oferta limitada  con descuentos de hasta el X% en todos nuestros productos profesionales de haircare y styling.\n\nEstos productos están formulados con ingredientes de alta calidad que ayudarán a mantener tu cabello sano, brillante y con un aspecto fabuloso.\n\nAdemás, nuestro equipo de profesionales te asesorará para que elijas los productos que mejor se adapten a tus necesidades.\n\n¿Cuáles son tus productos favoritos? Déjalos en comentarios.\n\n#rebajas #peluqueria #cuidadodelcabello #belleza",
+            "url": "https://drive.google.com/uc?id=1_V7G_jFFR2U69MlCD4ORVXqQ5iQ6SE2_&export=download"
+          },
+          {
+            "name": "Semana-3-día-2/Post_Semana-3-día-2.png",
+            "groupName": "Semana 3",
+            "order": 2,
+            "copy": "Las variantes más trendy de las balayage en 2024\n\nSi estás buscando la tendencia definitiva en balayage para este 2024, te presentamos tres variantes que ya están causando furor en los salones de todo el mundo.\n\nWoodlights: una técnica especial para cabellos oscuros, que combina tonos dorados y avellana. Juega con el contouring en las zonas frontales para iluminar el rostro.\n\nMelting: La técnica Melting vuelve con fuerza este 2024. Estos trabajos juegan con la fusión de colores de manera difuminada y progresiva que consiguen una iluminación más natural.\n\nMousy Hair: Una evolución de las clásicas babylights que simula el brillo de la melena, con menos contrastes que la técnica original. Ideal para brunettes.\n\n¿Qué te han parecido las nuevas tendencias? Estas son sólo algunas de las ideas que nos tiene preparado el #2024 ¿Con cuál te quedas? Déjanos tus impresiones en Comentarios.",
+            "url": "https://drive.google.com/uc?id=17JIdj3Ndf7dDVFehVG-DMzzsxxp4DVrv&export=download"
+          },
+          {
+            "name": "Semana-3-día-3/Post_Semana-3-día-3.png",
+            "groupName": "Semana 3",
+            "order": 3,
+            "copy": "❄️Llena de complementos tu cabello, este 2024❄️\n\n¿Estás buscando un look diferente para este año? Añade complementos a tu hair look y disfruta de las principales tendencias para los próximos meses.\n\nUno de los que más nos gusta es la boina parisina, ofrece un toque romántico espectacular y es ideal para combinarla con melenas sueltas y peinados de ondas.\n\nPara las amantes de las marcas, los pins de las grandes firmas para el cabello se han hecho un hueco entre las celebrities y la gente ligada a la moda más vanguardista.\n\n¡Cambia el lugar de tu pañuelo favorito! Trasládalo del cuello y conviértelo en un pasador súper trendy para tus coletas y recogidos.\n\n¿Echas de menos algún complemento en la lista? 🤔",
+            "url": "https://drive.google.com/uc?id=1HnDodXxd_YhmPOT8OUDl6mVxywVMnvqZ&export=download"
+          },
+          {
+            "name": "Semana-4-día-1/Post_Semana-4-día-1.png",
+            "groupName": "Semana 4",
+            "order": 1,
+            "copy": "¡¡¡Últimos días para nuestras LibertyCards!!!\n\nSi todavía no has tenido tiempo para pasarte a la revolución de los servicios de Peluquería de 2024 ¡¡Todavía estás a tiempo!!\n\nCompra tu LibertyCard de Color Ilimitado y llévate, GRATIS, dos tratamientos CRYSTAL CARE para potenciar el brillo de tu cabello hasta primavera.\n\n¡¡Presentamos la nueva LibertyCard!! Con la nueva tarjeta mantén tus balayage perfectas durante todo el 2024.\n\nCon LibertyCard, olvídate de las REBAJAS el resto del año. Como siempre, puedes contactar con nuestro equipo para que resolvamos cualquier duda que tengas📞.",
+            "url": "https://drive.google.com/uc?id=1efWjy83h1v1KJEjGZT1Mt6jKPoK33Lea&export=download"
+          },
+          {
+            "name": "Semana-4-día-2/Post_Semana-4-día-2.png",
+            "groupName": "Semana 4",
+            "order": 2,
+            "copy": "¿Quieres un look de cabello que se acople a tus facciones? El visagismo es la técnica que lo hace posible. Analizando las proporciones de tu rostro, la forma de tu cráneo, tus facciones, tu tono de piel y el color de tus ojos, nuestro equipo elige el corte de pelo y el color de cabello que más te favorecen.\n\nSi quieres saber los aspectos que tenemos en cuenta, aquí van los principales:\n\n- Las diferentes formas de rostro y facciones.\n- Los gustos y preferencias de la persona.\n- Los colores primarios de la piel y los ojos.\n\n¡Si tienes más preguntas sobre esta técnica de Peluquería y Belleza, no dudes en consultarnos con nuestros profesionales!\n\n#visagismo #peluqueria #cabello #look #favorecer #rostro #facciones #tonodepiel #colordeojos #cortedepelo #colordepelo #cambiodelook #belleza #estilo #seguridad #confianza",
+            "url": "https://drive.google.com/uc?id=1Xm_q8owbJ25WdxLKhbKG6W6Vf7m0WQ14&export=download"
+          },
+          {
+            "name": "Semana-4-día-3/Post_Semana-4-día-3.png",
+            "groupName": "Semana 4",
+            "order": 3,
+            "copy": "Te adelantamos las principales TENDENCIAS para la #primavera2024🌷\n\nEl invierno llega a su fin y seguro que estás deseando descubrir todas las tendencias que nos tiene preparadas la nueva temporada🤩. Por eso, hoy, te adelantamos las principales novedades en peluquería para la próxima primavera: \n\n✂️Bob con capas: El corte bob capeado seguirá siendo la estrella en 2024, su versatilidad para lucir espectacular tanto en cabellos lisos como ondulados es difícil de vencer. \n\n✨Colores rojizos: ¡Ojo con los colores rojizos! porque vana a ser tendencia durante la primera mitad del año. Como siempre, buscando colores más vivos conforme llegue el buen tiempo. \n\n🌊Peinados de ondas: los peinados con ondas volverán a ser protagonistas en los eventos de primavera, eso sí, siempre buscando acabados más naturales y con movimiento. \n\n¿Y tú? ¿tienes ganas de nueva temporada? Deja tu comentario👇:",
+            "url": "https://drive.google.com/uc?id=11GtplQ46tnhhB-en24kJ0PV1Gd4WukGQ&export=download"
+          }
+        ]
+      },
+      "actionPosts": {
+        "es": [
+          {
+            "name": "Post/A24021080_01-01.jpg",
+            "url": "https://drive.google.com/uc?id=1HcK_oGrigG_mbcujkbbkqdLq7VwEpqgP&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-02.jpg",
+            "url": "https://drive.google.com/uc?id=1sMyrr4991zQNAcQCIUzSqg9b3VJYHzhf&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-03.jpg",
+            "url": "https://drive.google.com/uc?id=1njGmX4NjTd2LOXx6wHCm7txnjbzSlenp&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-04.jpg",
+            "url": "https://drive.google.com/uc?id=1_sNc8_EbIp9SvBNrF066p6DAgojnmuns&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-05.jpg",
+            "url": "https://drive.google.com/uc?id=1au8p0qlXQb5hOr52-4S2KEOcyHi-0vJn&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-06.jpg",
+            "url": "https://drive.google.com/uc?id=1xioLNYJ309v902Ucge3uo3O2gwuQ4xC0&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-07.jpg",
+            "url": "https://drive.google.com/uc?id=1Dj7WG3su3gUhG9gMA6pDuSKg6GLuHv8L&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-08.jpg",
+            "url": "https://drive.google.com/uc?id=1Z3UnqvK03zXMssFQOryne3qH1Q0kIHs-&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-09.jpg",
+            "url": "https://drive.google.com/uc?id=1_N7CVqaLEs4qw3rpRWouEpcicNJ55l2i&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-10.jpg",
+            "url": "https://drive.google.com/uc?id=1IZiqF93r2fnN-kNrZ0G8GyBY1-RBTIAc&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-11.jpg",
+            "url": "https://drive.google.com/uc?id=1n4TlqOxq0f70XMAnmPF-Gqn_jABmc0ct&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-12.jpg",
+            "url": "https://drive.google.com/uc?id=1hR4q3SCaiGnvnLMU1F53iXgyubfMksCa&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-13.jpg",
+            "url": "https://drive.google.com/uc?id=1g3yOuq0jVnawReESwrxoHgtfu_BL9aXs&export=download"
+          },
+          {
+            "name": "Post/A24021080_01-14.jpg",
+            "url": "https://drive.google.com/uc?id=1cl42rZ9PNTctAZ_MBddnO2kgV-JI4JJ7&export=download"
+          }
+        ],
+        "ca": [
+          {
+            "name": "Post/A24021080_02-01.jpg",
+            "url": "https://drive.google.com/uc?id=1xx2B312S7c_VA20NAIbgygEsXxqN_h8p&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-02.jpg",
+            "url": "https://drive.google.com/uc?id=1S_xHAao2f9SrHaMGLkn8Bbnn0OkmlPhP&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-03.jpg",
+            "url": "https://drive.google.com/uc?id=1ALKMQ0GMcsfZxgum_K3wwZ4qiJXEgaCo&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-04.jpg",
+            "url": "https://drive.google.com/uc?id=12IDjNCxM71-zhXLclJjXnCTf6K_gfkkX&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-05.jpg",
+            "url": "https://drive.google.com/uc?id=11541lErNgnaSYx1fnOx2ww7zfqzuH1xw&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-06.jpg",
+            "url": "https://drive.google.com/uc?id=18BycO4HX1C3nWyKZt1Atp1kBu5Jp5o0b&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-07.jpg",
+            "url": "https://drive.google.com/uc?id=1JVWGRdQol0k14TFmEpESLXgd_kdrDOg8&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-08.jpg",
+            "url": "https://drive.google.com/uc?id=1gyam03Bz5PHoOoU6Z3A8f6GRj-NBl3bm&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-09.jpg",
+            "url": "https://drive.google.com/uc?id=104K8EqdciGo3s6WpDAmQj8cwF4mCOOlz&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-10.jpg",
+            "url": "https://drive.google.com/uc?id=1A3orXCYgIeHavFQG1wqlndif60RF99rP&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-11.jpg",
+            "url": "https://drive.google.com/uc?id=1RWlG7i317RRnbl_mpvrbJFk4cJj3PlT_&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-12.jpg",
+            "url": "https://drive.google.com/uc?id=1qKhi9Wp7BGGlCg1zSKFH3uhV1L3K1Vxx&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-13.jpg",
+            "url": "https://drive.google.com/uc?id=1_oamXHATQWrPeLP6vcDZt_xopweNqE2e&export=download"
+          },
+          {
+            "name": "Post/A24021080_02-14.jpg",
+            "url": "https://drive.google.com/uc?id=1NuJulHsSj_YvrQdaOzamiZW1S4kXm_vp&export=download"
+          }
+        ]
+      },
+      "actionStories": {
+        "es": [],
+        "ca": []
+      },
+      "valueStories": {
+        "es": [
+          {
+            "name": "Cortes-XXL-1/Cortes-XXL_S1-1.jpg",
+            "groupName": "Cortes XXL",
+            "url": "https://drive.google.com/uc?id=1UyhEO7e6uQel4rJ8PDmeO4rIok35lfDW&export=download",
+            "order": 1
+          },
+          {
+            "name": "Cortes-XXL-2/Cortes-XXL_S1-2.jpg",
+            "groupName": "Cortes XXL",
+            "url": "https://drive.google.com/uc?id=1ByvbH66eAGFbBNHK1EIf878oMYwQUkIE&export=download",
+            "order": 2
+          },
+          {
+            "name": "Cortes-XXL-3/Cortes-XXL_S1-3.jpg",
+            "groupName": "Cortes XXL",
+            "url": "https://drive.google.com/uc?id=1bQYPm7sPbRAacUTiDsg1QO5TFnL2NEHw&export=download",
+            "order": 3
+          },
+          {
+            "name": "Cortes-XXL-4/Cortes-XXL_S1-4.jpg",
+            "groupName": "Cortes XXL",
+            "url": "https://drive.google.com/uc?id=15LjhH94mjeQxEyNzkJ-YYbBY9oFKSW3e&export=download",
+            "order": 4
+          },
+          {
+            "name": "Regala-belleza-1/Regala-belleza_S2-1.jpg",
+            "groupName": "Regala Belleza",
+            "url": "https://drive.google.com/uc?id=1DkWupwTe8NKcLy2oRyQqgV3lpDbhhdzs&export=download",
+            "order": 1
+          },
+          {
+            "name": "Regala-belleza-2/Regala-belleza_S2-2.jpg",
+            "groupName": "Regala Belleza",
+            "url": "https://drive.google.com/uc?id=140pR_gzX8A5d5RAsxekJkHDhRhrnHKqc&export=download",
+            "order": 2
+          },
+          {
+            "name": "Regala-belleza-3/Regala-belleza_S2-3.jpg",
+            "url": "https://drive.google.com/uc?id=1hUeyYQhDrnE3Ze8yjYC7F5Wim4YbzlHX&export=download",
+            "groupName": "Regala Belleza",
+            "order": 3
+          },
+          {
+            "name": "Regala-belleza-4/Regala-belleza_S2-4.jpg",
+            "groupName": "Regala Belleza",
+            "url": "https://drive.google.com/uc?id=1ygEikVez84v8HfdvKdjmoXeJMH42aPkH&export=download",
+            "order": 4
+          },
+          {
+            "name": "Complementos-1/Complementos_S3-1.jpg",
+            "groupName": "Complementos",
+            "url": "https://drive.google.com/uc?id=1vM0NTolYdtMkKWf5jv0-FwqqV1gSyks7&export=download",
+            "order": 1
+          },
+          {
+            "name": "Complementos-2/Complementos_S3-2.jpg",
+            "groupName": "Complementos",
+            "url": "https://drive.google.com/uc?id=1VkviDJG5XB1VGJ5S_tSL761bx-08Pmkq&export=download",
+            "order": 2
+          },
+          {
+            "name": "Complementos-3/Complementos_S3-3.jpg",
+            "groupName": "Complementos",
+            "url": "https://drive.google.com/uc?id=10NFG0hwJ2_845DcjXHWLxlRYWQHyQ3CY&export=download",
+            "order": 3
+          },
+          {
+            "name": "Complementos-4/Complementos_S3-4.jpg",
+            "groupName": "Complementos",
+            "url": "https://drive.google.com/uc?id=1epXEbwCNQfjn2prM0X0IOU0iEhdU6cJi&export=download",
+            "order": 4
+          },
+          {
+            "name": "Rojizos-1/Rojizos_S4-1.jpg",
+            "groupName": "Rojizos",
+            "url": "https://drive.google.com/uc?id=1qn_jBOePPD9NzU4zb6__M_lSPjar_hUq&export=download",
+            "order": 1
+          },
+          {
+            "name": "Rojizos-2/Rojizos_S4-2.jpg",
+            "groupName": "Rojizos",
+            "url": "https://drive.google.com/uc?id=1ylX0vt2i76R8r-eSBsHSWTSvtiY0v0pL&export=download",
+            "order": 2
+          },
+          {
+            "name": "Rojizos-3/Rojizos_S4-3.jpg",
+            "groupName": "Rojizos",
+            "url": "https://drive.google.com/uc?id=10QrZ7rOwDEKuE0lDeczFez2tL99iCSSa&export=download",
+            "order": 3
+          },
+          {
+            "name": "Rojizos-4/Rojizos_S4-4.jpg",
+            "groupName": "Rojizos",
+            "url": "https://drive.google.com/uc?id=1w9KIUd9KkjoSXHQKUyS8ODQPgLUGIJoe&export=download",
+            "order": 4
+          },
+          {
+            "name": "Balayages-1/Balayages_S5-1.jpg",
+            "groupName": "Balayages",
+            "url": "https://drive.google.com/uc?id=1gYYX_FBJlWWeNj_2Jo3AaTiP-EZoMJNG&export=download",
+            "order": 1
+          },
+          {
+            "name": "Balayages-2/Balayages_S5-2.jpg",
+            "groupName": "Balayages",
+            "url": "https://drive.google.com/uc?id=19r_B_5pUwA3MewPz4XKb6KQycwQHI5uf&export=download",
+            "order": 2
+          },
+          {
+            "name": "Balayages-3/Balayages_S5-3.jpg",
+            "groupName": "Balayages",
+            "url": "https://drive.google.com/uc?id=1OPgH52oE8TAQUhjAEDn-p1SWBwg6Knsu&export=download",
+            "order": 3
+          },
+          {
+            "name": "Balayages-4/Balayages_S5-4.jpg",
+            "groupName": "Balayages",
+            "url": "https://drive.google.com/uc?id=1Co9sQafcyp0VDEnE13m4X7gmR0cvdYjN&export=download",
+            "order": 4
+          },
+          {
+            "name": "Proxima-temporada-1/Proxima-temporada_S6-1.jpg",
+            "groupName": "Próxima Temporada",
+            "url": "https://drive.google.com/uc?id=1V6It0C4m4vqq464GpRSz3S6ieZS5sl5l&export=download",
+            "order": 1
+          },
+          {
+            "name": "Proxima-temporada-2/Proxima-temporada_S6-2.jpg",
+            "groupName": "Próxima Temporada",
+            "url": "https://drive.google.com/uc?id=10VrRI2hZZxAxgHctsFTE5jr8VySbcNGj&export=download",
+            "order": 2
+          },
+          {
+            "name": "Proxima-temporada-3/Proxima-temporada_S6-3.jpg",
+            "groupName": "Próxima Temporada",
+            "url": "https://drive.google.com/uc?id=17D99ALLva5OSR9ycFBqWXNiEa9JyFZok&export=download",
+            "order": 3
+          },
+          {
+            "name": "Proxima-temporada-4/Proxima-temporada_S6-4.jpg",
+            "groupName": "Próxima Temporada",
+            "url": "https://drive.google.com/uc?id=1yEGWnHlKZ2Bh2_fIy1Sni6kN8wGybHLO&export=download",
+            "order": 4
+          }
+        ],
+        "ca": []
+      },
+      "videos": {
+        "es": [
+          {
+            "name": "video/ESP_Vertical.mp4",
+            "url": "https://drive.google.com/uc?id=1cuQHkZ1YQzxaQmI-QQx38_XHdkF0o-YQ&export=download"
+          },
+          {
+            "name": "video/ESP_Horizontal.mp4",
+            "url": "https://drive.google.com/uc?id=1zgCtUBKgwR_egqTtD5N7MdIJsNyr2CEY&export=download"
+          },
+          {
+            "name": "preview/ESP_Vertical.png",
+            "url": "https://drive.google.com/uc?id=1Jdc-cCyysbW4YFyhXHeixR48Vv0gByif&export=download"
+          },
+          {
+            "name": "preview/ESP_Horizontal.png",
+            "url": "https://drive.google.com/uc?id=1RAGWI1bbnRKDLRxH1d6K7VrpHQVBLSGF&export=download"
+          }
+        ],
+        "ca": [
+          {
+            "name": "video/CAT_Vertical.mp4",
+            "url": "https://drive.google.com/uc?id=1U8yNlE2wTeBYvXuZ2uAnakDPZdzJuT4v&export=download"
+          },
+          {
+            "name": "video/CAT_Horizontal.mp4",
+            "url": "https://drive.google.com/uc?id=1ch5Dka6M1f9iOG6XpDdDYv4RAxcvx-Qk&export=download"
+          },
+          {
+            "name": "preview/CAT_Vertical.png",
+            "url": "https://drive.google.com/uc?id=17cf5HlxqeQIK85sO5Hu39SR6M63TinKW&export=download"
+          },
+          {
+            "name": "preview/CAT_Horizontal.png",
+            "url": "https://drive.google.com/uc?id=1irtbyMZYjSjlf9SiRsWNuzaFgscav9tN&export=download"
+          }
+        ]
+      },
+      "smsAndWhatsApp": {
+        "es": [
+          {
+            "name": "SMS-&-WhatsApp/SMS-&-WhatsApp_Mensaje-1",
+            "copy": "Febrero trae novedades🔭 en nuestras REBAJAS UNLIMITED♾️\n\nSeguimos apostando por un cabello bonito, sin límites, y por eso te traemos novedades en nuestras rebajas❗❗:\n\n✅Nuestro bono de color UNLIMITED… a un precio de escándalo. Ahorra un X% más🤑.\n✅Bono especial para ellos, con nuestro bono de corte masculino. ♂️\n✅Especial 3x2 en servicios Balayage✨. Tu cabello estará espectacular hasta el próximo año.\n\n Corre a por tus REBAJAS UNLIMITED♾️ y que nada te detenga. Como siempre, puedes contactar con nuestro equipo para que resolvamos cualquier duda que tengas📞.",
+            "url": "https://drive.google.com/uc?id=1IZVVZWT46ZrXkFu1a4nYxRJfwkpGsxq5&export=download",
+            "order": 1
+          },
+          {
+            "name": "SMS-&-WhatsApp/SMS-&-WhatsApp_Mensaje-2",
+            "copy": "Este San Valentín🌹…REGALA BELLEZA\n\nSi estás buscando un regalo diferente para esa persona especial😍, apuesta por su belleza. puede ser la mejor SORPRESA para el #DíadelosEnamorados💕\n\n❤️ Le demostrarás que eres original.\n❤️ Podrá disfrutar de un regalo diferente.\n❤️ Sabrá que definitivamente le importas.\n\nY para hacerlo más fácil, ¡te regalamos 10€ por cada 100€ que consumas en nuestro salón hasta el 18 de febrero!💸\n\nPregunta a nuestro equipo💬 por todas las opciones que tenemos y crea un regalo a su medida. Porque demostrar que te preocupas por la persona querida, es tu mejor regalo🎁.",
+            "url": "https://drive.google.com/uc?id=1IZVVZWT46ZrXkFu1a4nYxRJfwkpGsxq5&export=download",
+            "order": 2
+          },
+          {
+            "name": "SMS-&-WhatsApp/SMS-&-WhatsApp_Mensaje-3",
+            "copy": "Últimos días de nuestras REBAJAS UNLIMITED♾️\n\nSi lo que quieres es tener un cabello bonito durante todo el año🗓️.. ¡Las Rebajas UNLIMITED son para ti!\n\nSeguimos apostando por un cabello bonito, sin límites, y por eso te traemos novedades en nuestras rebajas❗❗:\n\n✅Nuestro bono de color UNLIMITED… a un precio de escándalo. Ahorra un X% más🤑.\n✅Bono especial para ellos, con nuestro bono de corte masculino. ♂️\n✅Especial 3x2 en servicios Balayage✨. Tu cabello estará espectacular hasta el próximo año.\n\nCorre a por tus REBAJAS UNLIMITED♾️ y que nada te detenga. Como siempre, puedes contactar con nuestro equipo para que resolvamos cualquier duda que tengas📞.",
+            "url": "https://drive.google.com/uc?id=1IZVVZWT46ZrXkFu1a4nYxRJfwkpGsxq5&export=download",
+            "order": 3
+          }
+        ],
+        "ca": []
+      }
+    },
+    "repeats": {
+      "id": "repeats",
+      "name": "Repeticiones",
+      "order": 4,
+      "tabs": [
+        {
+          "id": "planningSession",
+          "title": "Sesiones de Planificación",
+          "type": "video",
+          "videos": [
+            {
+              "id": "planningSessionAinhoa",
+              "title": "Marketing Salon Nuevo - Planificación (Ainhoa)",
+              "url": "https://player.vimeo.com/video/904551885?h=beecfbaa5f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            },
+            {
+              "id": "planningSessionAinhoa2",
+              "title": "Marketing Salon Junior - Planificación (Ainhoa)",
+              "url": "https://player.vimeo.com/video/904547397?h=37bb51c060&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            },
+            {
+              "id": "planningSessionLorena",
+              "title": "Marketing Salon Avanzado - Planificación (Lorena)",
+              "url": "https://player.vimeo.com/video/904546961?h=639992e50d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            },
+            {
+              "id": "planningSessionPedro",
+              "title": "Marketing Salon Avanzado - Planificación (Pedro)",
+              "url": "https://player.vimeo.com/video/905894304?h=5ac6a12b1b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            }
+          ]
+        },
+        {
+          "id": "supervisionSession",
+          "title": "Sesiones de Supervisión",
+          "type": "video",
+          "videos": [
+            {
+              "id": "supervisionSessionAinhoa",
+              "title": "Marketing Salon Nuevo - Supervisión (Ainhoa)",
+              "url": "https://player.vimeo.com/video/906653920?h=209a18c350&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            },
+            {
+              "id": "supervisionSessionAinhoa2",
+              "title": "Marketing Salon Junior - Supervisión (Ainhoa)",
+              "url": "https://player.vimeo.com/video/906652465?h=3581e07bb4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            },
+            {
+              "id": "supervisionSessionLorena",
+              "title": "Marketing Salon Avanzado - Supervisión (Lorena)",
+              "url": "https://player.vimeo.com/video/904546961?h=639992e50d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            }
+          ]
+        },
+        {
+          "id": "implementationSession",
+          "title": "Sesiones de Implementación",
+          "type": "video",
+          "videos": [
+            {
+              "id": "implementationSessionLorenaPedro",
+              "title": "Marketing Salon - Implementación (Lorena & Pedro)",
+              "url": "https://player.vimeo.com/video/909078989?h=a0b24fb307&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            }
+          ]
+        },
+        {
+          "id": "launchSession",
+          "title": "Sesiones de Lanzamiento",
+          "type": "video",
+          "videos": [
+            {
+              "id": "launchSessionLorena",
+              "title": "Marketing Salon - Lanzamiento (Lorena)",
+              "url": "https://player.vimeo.com/video/911176845?h=dc57732f68&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            },
+            {
+              "id": "launchSessionPedro",
+              "title": "Marketing Salon - Lanzamiento (Pedro)",
+              "url": "https://player.vimeo.com/video/911176519?h=04099e64df&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "march": {
+    "marketingPlan": {
+      "id": "marketingPlan",
+      "name": "Plan de Marketing",
+      "order": 1,
+      "tabs": [
+        {
+          "id": "context",
+          "title": "Contexto",
+          "type": "video",
+          "url": "https://player.vimeo.com/video/908604315?h=73f82d9b20&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+          "id": "marketingPlan",
+          "title": "Plan de Marketing",
+          "type": "video",
+          "url": "https://player.vimeo.com/video/908604788?h=c2a22d6df8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+          "id": "posters",
+          "title": "Cartelería",
+          "type": "video",
+          "url": "https://player.vimeo.com/video/908605393?h=e61e5f564f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+          "id": "actions",
+          "title": "Acciones",
+          "type": "video",
+          "url": "https://player.vimeo.com/video/908605730?h=1d1aa7c2b3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        },
+        {
+          "id": "faqs",
+          "title": "Luminae FAQs",
+          "type": "video",
+          "url": "https://player.vimeo.com/video/912147606?h=62ec5cb080&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+        }
+      ],
+      "formButton": {
+        "title": "Enlace al formulario",
+        "active": false,
+        "url": ""
+      },
+      "slides": {
+        "url": "https://docs.google.com/presentation/d/e/2PACX-1vR0mzbkD3vhYv49VCcgzJZgXD1CTPIm7z1sZuPIqYrXDYzIWkiCgPV7lljMk4k2WnJV3-L4QInmm35n/embed?start=false&loop=false&delayms=3000",
+        "active": true
+      }
+    },
+    "digitalContent": {
+      "id": "",
+      "name": "",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": []
+      },
+      "actionPosts": {
+        "es": [],
+        "ca": []
+      },
+      "actionStories": {
+        "es": [],
+        "ca": []
+      },
+      "valueStories": {
+        "es": [],
+        "ca": []
+      },
+      "videos": {
+        "es": [],
+        "ca": []
+      },
+      "smsAndWhatsApp": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "physicalContent": {
+      "id": "",
+      "name": "",
+      "order": 2,
+      "posters": {
+        "es": [],
+        "ca": []
+      },
+      "stoppers": {
+        "es": [],
+        "ca": []
+      },
+      "tests": {
+        "es": [],
+        "ca": []
+      },
+      "cards": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "repeats": {
+      "id": "repeats",
+      "name": "Repeticiones",
+      "order": 4,
+      "tabs": [
+        {
+          "id": "planningSession",
+          "title": "Sesiones de Planificación",
+          "type": "video",
+          "videos": [
+            {
+              "id": "planningSessionAinhoa",
+              "title": "Marketing Salon Nuevo - Planificación (Ainhoa)",
+              "url": "https://player.vimeo.com/video/913045342?h=72a3c1e252"
+            },
+            {
+              "id": "planningSessionAinhoa2",
+              "title": "Marketing Salon Junior - Planificación (Ainhoa)",
+              "url": "https://player.vimeo.com/video/913047218?h=1c0b675eca&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            },
+            {
+              "id": "planningSessionLorena",
+              "title": "Marketing Salon Avanzado - Planificación (Lorena)",
+              "url": "https://player.vimeo.com/video/913037729?h=cd982d2d3b"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "april": {
+    "marketingPlan": {
+      "id": "",
+      "name": "",
+      "order": 1,
+      "tabs": [],
+      "formButton": {},
+      "slides": {}
+    },
+    "digitalContent": {
+      "id": "",
+      "name": "",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": []
+      },
+      "actionStories": {
+        "es": [],
+        "ca": []
+      },
+      "valueStories": {
+        "es": [],
+        "ca": []
+      },
+      "videos": {
+        "es": [],
+        "ca": []
+      },
+      "smsAndWhatsApp": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "physicalContent": {
+      "id": "",
+      "name": "",
+      "order": 2,
+      "posters": {
+        "es": [],
+        "ca": []
+      },
+      "stoppers": {
+        "es": [],
+        "ca": []
+      },
+      "tests": {
+        "es": [],
+        "ca": []
+      },
+      "cards": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "repeats": {
+      "id": "",
+      "name": "",
+      "order": 4,
+      "tabs": []
+    }
+  },
+  "may": {
+    "marketingPlan": {
+      "id": "",
+      "name": "",
+      "order": 1,
+      "tabs": [],
+      "formButton": {},
+      "slides": {}
+    },
+    "digitalContent": {
+      "id": "",
+      "name": "",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": []
+      },
+      "actionStories": {
+        "es": [],
+        "ca": []
+      },
+      "valueStories": {
+        "es": [],
+        "ca": []
+      },
+      "videos": {
+        "es": [],
+        "ca": []
+      },
+      "smsAndWhatsApp": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "physicalContent": {
+      "id": "",
+      "name": "",
+      "order": 2,
+      "posters": {
+        "es": [],
+        "ca": []
+      },
+      "stoppers": {
+        "es": [],
+        "ca": []
+      },
+      "tests": {
+        "es": [],
+        "ca": []
+      },
+      "cards": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "repeats": {
+      "id": "",
+      "name": "",
+      "order": 4,
+      "tabs": []
+    }
+  },
+  "june": {
+    "marketingPlan": {
+      "id": "",
+      "name": "",
+      "order": 1,
+      "tabs": [],
+      "formButton": {},
+      "slides": {}
+    },
+    "digitalContent": {
+      "id": "",
+      "name": "",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": []
+      },
+      "actionStories": {
+        "es": [],
+        "ca": []
+      },
+      "valueStories": {
+        "es": [],
+        "ca": []
+      },
+      "videos": {
+        "es": [],
+        "ca": []
+      },
+      "smsAndWhatsApp": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "physicalContent": {
+      "id": "",
+      "name": "",
+      "order": 2,
+      "posters": {
+        "es": [],
+        "ca": []
+      },
+      "stoppers": {
+        "es": [],
+        "ca": []
+      },
+      "tests": {
+        "es": [],
+        "ca": []
+      },
+      "cards": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "repeats": {
+      "id": "",
+      "name": "",
+      "order": 4,
+      "tabs": []
+    }
+  },
+  "july": {
+    "marketingPlan": {
+      "id": "",
+      "name": "",
+      "order": 1,
+      "tabs": [],
+      "formButton": {},
+      "slides": {}
+    },
+    "digitalContent": {
+      "id": "",
+      "name": "",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": []
+      },
+      "actionStories": {
+        "es": [],
+        "ca": []
+      },
+      "valueStories": {
+        "es": [],
+        "ca": []
+      },
+      "videos": {
+        "es": [],
+        "ca": []
+      },
+      "smsAndWhatsApp": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "physicalContent": {
+      "id": "",
+      "name": "",
+      "order": 2,
+      "posters": {
+        "es": [],
+        "ca": []
+      },
+      "stoppers": {
+        "es": [],
+        "ca": []
+      },
+      "tests": {
+        "es": [],
+        "ca": []
+      },
+      "cards": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "repeats": {
+      "id": "",
+      "name": "",
+      "order": 4,
+      "tabs": []
+    }
+  },
+  "august": {
+    "marketingPlan": {
+      "id": "",
+      "name": "",
+      "order": 1,
+      "tabs": [],
+      "formButton": {},
+      "slides": {}
+    },
+    "digitalContent": {
+      "id": "",
+      "name": "",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": []
+      },
+      "actionStories": {
+        "es": [],
+        "ca": []
+      },
+      "valueStories": {
+        "es": [],
+        "ca": []
+      },
+      "videos": {
+        "es": [],
+        "ca": []
+      },
+      "smsAndWhatsApp": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "physicalContent": {
+      "id": "",
+      "name": "",
+      "order": 2,
+      "posters": {
+        "es": [],
+        "ca": []
+      },
+      "stoppers": {
+        "es": [],
+        "ca": []
+      },
+      "tests": {
+        "es": [],
+        "ca": []
+      },
+      "cards": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "repeats": {
+      "id": "",
+      "name": "",
+      "order": 4,
+      "tabs": []
+    }
+  },
+  "september": {
+    "marketingPlan": {
+      "id": "",
+      "name": "",
+      "order": 1,
+      "tabs": [],
+      "formButton": {},
+      "slides": {}
+    },
+    "digitalContent": {
+      "id": "",
+      "name": "",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": []
+      },
+      "actionStories": {
+        "es": [],
+        "ca": []
+      },
+      "valueStories": {
+        "es": [],
+        "ca": []
+      },
+      "videos": {
+        "es": [],
+        "ca": []
+      },
+      "smsAndWhatsApp": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "physicalContent": {
+      "id": "",
+      "name": "",
+      "order": 2,
+      "posters": {
+        "es": [],
+        "ca": []
+      },
+      "stoppers": {
+        "es": [],
+        "ca": []
+      },
+      "tests": {
+        "es": [],
+        "ca": []
+      },
+      "cards": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "repeats": {
+      "id": "",
+      "name": "",
+      "order": 4,
+      "tabs": []
+    }
+  },
+  "october": {
+    "marketingPlan": {
+      "id": "",
+      "name": "",
+      "order": 1,
+      "tabs": [],
+      "formButton": {},
+      "slides": {}
+    },
+    "digitalContent": {
+      "id": "",
+      "name": "",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": []
+      },
+      "actionStories": {
+        "es": [],
+        "ca": []
+      },
+      "valueStories": {
+        "es": [],
+        "ca": []
+      },
+      "videos": {
+        "es": [],
+        "ca": []
+      },
+      "smsAndWhatsApp": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "physicalContent": {
+      "id": "",
+      "name": "",
+      "order": 2,
+      "posters": {
+        "es": [],
+        "ca": []
+      },
+      "stoppers": {
+        "es": [],
+        "ca": []
+      },
+      "tests": {
+        "es": [],
+        "ca": []
+      },
+      "cards": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "repeats": {
+      "id": "",
+      "name": "",
+      "order": 4,
+      "tabs": []
+    }
+  },
+  "november": {
+    "marketingPlan": {
+      "id": "",
+      "name": "",
+      "order": 1,
+      "tabs": [],
+      "formButton": {},
+      "slides": {}
+    },
+    "digitalContent": {
+      "id": "",
+      "name": "",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": []
+      },
+      "actionStories": {
+        "es": [],
+        "ca": []
+      },
+      "valueStories": {
+        "es": [],
+        "ca": []
+      },
+      "videos": {
+        "es": [],
+        "ca": []
+      },
+      "smsAndWhatsApp": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "physicalContent": {
+      "id": "",
+      "name": "",
+      "order": 2,
+      "posters": {
+        "es": [],
+        "ca": []
+      },
+      "stoppers": {
+        "es": [],
+        "ca": []
+      },
+      "tests": {
+        "es": [],
+        "ca": []
+      },
+      "cards": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "repeats": {
+      "id": "",
+      "name": "",
+      "order": 4,
+      "tabs": []
+    }
+  },
+  "december": {
+    "marketingPlan": {
+      "id": "",
+      "name": "",
+      "order": 1,
+      "tabs": [],
+      "formButton": {},
+      "slides": {}
+    },
+    "digitalContent": {
+      "id": "",
+      "name": "",
+      "order": 3,
+      "monthlyContentPlan": {
+        "es": []
+      },
+      "actionStories": {
+        "es": [],
+        "ca": []
+      },
+      "valueStories": {
+        "es": [],
+        "ca": []
+      },
+      "videos": {
+        "es": [],
+        "ca": []
+      },
+      "smsAndWhatsApp": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "physicalContent": {
+      "id": "",
+      "name": "",
+      "order": 2,
+      "posters": {
+        "es": [],
+        "ca": []
+      },
+      "stoppers": {
+        "es": [],
+        "ca": []
+      },
+      "tests": {
+        "es": [],
+        "ca": []
+      },
+      "cards": {
+        "es": [],
+        "ca": []
+      }
+    },
+    "repeats": {
+      "id": "",
+      "name": "",
+      "order": 4,
+      "tabs": []
+    }
+  }
+}

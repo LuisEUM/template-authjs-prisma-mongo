@@ -1,0 +1,13 @@
+{
+  "id": "video1",
+  "order": 1,
+  "type": "video",
+  "classType": "default",
+  "title": null,
+  "url": "",
+  "active": true,
+  "available": {
+    "startDateTime": null,
+    "endDateTime": null
+  }
+}
