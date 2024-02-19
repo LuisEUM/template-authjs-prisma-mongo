@@ -19,7 +19,7 @@ import SuccessMessageBox from "../share/MessageSuccessBox";
 
 import LoadingButton from "../share/LoadingButton";
 import { RegisterSchema } from "@/src/lib/types/zod-schemas";
-import { register } from "@/src/lib/actions/server-actions";
+import { register } from "@/src/lib/server-actions.ts/server-actions";
 
 type Props = {};
 

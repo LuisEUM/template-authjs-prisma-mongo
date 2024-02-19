@@ -4,7 +4,12 @@
  * logged-in user is also allowed to access /auth/new-verification to verify their email
  * @type {sting[]}
  */
-export const publicRoutes = ["/", "/auth/new-verification"];
+export const publicRoutes = [
+  "/", 
+  "/auth/new-verification",  
+  "/marketing-salon/campaign-test",
+  "/marketing-salon/campaign"
+];
 
 /**
  * An array of routes that are used for authentication.

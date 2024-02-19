@@ -20,7 +20,7 @@ import FormSuccess from "../share/MessageSuccessBox";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { CredentialSigninSchema } from "@/src/lib/types/zod-schemas";
-import { credentialsLogin } from "@/src/lib/actions/server-actions";
+import { credentialsLogin } from "@/src/lib/server-actions.ts/server-actions";
 import LoadingButton from "../share/LoadingButton";
 
 type Props = {};

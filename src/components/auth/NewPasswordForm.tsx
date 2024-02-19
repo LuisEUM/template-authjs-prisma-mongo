@@ -1,6 +1,6 @@
 "use client";
 
-import { newPassword } from "@/src/lib/actions/server-actions";
+import { newPassword } from "@/src/lib/server-actions.ts/server-actions";
 import { NewPasswordSchema } from "@/src/lib/types/zod-schemas";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useSearchParams } from "next/navigation";

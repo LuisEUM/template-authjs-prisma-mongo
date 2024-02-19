@@ -12,7 +12,7 @@ import { FaRegUser } from "react-icons/fa";
 import { useSession } from "next-auth/react";
 import { Settings, Users } from "lucide-react";
 import { useRouter } from "next/navigation";
-import { logout } from "@/src/lib/actions/server-actions";
+import { logout } from "@/src/lib/server-actions.ts/server-actions";
 
 type Props = {};
 

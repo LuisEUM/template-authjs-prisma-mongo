@@ -25,7 +25,7 @@ import {
 } from "@/src/components/ui/select";
 import { UserRole } from "@prisma/client";
 import { Switch } from "@/src/components/ui/switch";
-import { settings } from "@/src/lib/actions/server-actions";
+import { settings } from "@/src/lib/server-actions.ts/server-actions";
 import { SettingsUser } from "@/src/next-auth";
 import LoadingButton from "../share/LoadingButton";
 

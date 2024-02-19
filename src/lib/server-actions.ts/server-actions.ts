@@ -3,7 +3,7 @@
 import bcrypt from "bcryptjs";
 import * as z from "zod";
 
-import { auth, signIn, signOut, unstable_update as update } from "./auth/auth";
+import { auth, signIn, signOut, unstable_update as update } from "../actions/auth/auth";
 import {
   CredentialSigninSchema,
   EmailSchema,
@@ -17,12 +17,12 @@ import {
   generatePasswordResetToken,
   generateTwoFactorToken,
   generateVerificationToken,
-} from "./auth/tokens";
+} from "../actions/auth/tokens";
 import {
   sendPasswordResetEmail,
   sendTwoFactorTokenEmail,
   sendVerificationEmail,
-} from "./mailer/mailer";
+} from "../actions/mailer/mailer";
 import { AuthError } from "next-auth";
 import { DEFAULT_LOGIN_REDIRECT } from "../routes/routes";
 
@@ -34,7 +34,7 @@ export const register = async (values: z.infer<typeof RegisterSchema>) => {
   const validatedFields = RegisterSchema.safeParse(values);
 
   if (!validatedFields.success) {
-    return { error: "Invalid fields!" };
+    return { error: "Campos incorrectos." };
   }
 
   const { email, name, password } = validatedFields.data;
@@ -44,7 +44,7 @@ export const register = async (values: z.infer<typeof RegisterSchema>) => {
   const existingUser = await prisma.user.findUnique({ where: { email } });
 
   if (existingUser) {
-    return { error: "Email already in use!" };
+    return { error: "Email ya en uso." };
   }
 
   await prisma.user.create({
@@ -63,7 +63,7 @@ export const register = async (values: z.infer<typeof RegisterSchema>) => {
     verificationToken.token
   );
 
-  return { success: "Confirmation email sent!" };
+  return { success: "Emaild de confirmación enviado!" };
 };
 
 export const emailLogin = async (
@@ -73,7 +73,7 @@ export const emailLogin = async (
   const validatedFields = EmailSchema.safeParse(values);
 
   if (!validatedFields.success) {
-    return { error: "Invalid fields!" };
+    return { error: "Campos incorrectos!" };
   }
 
   const { email } = validatedFields.data;
@@ -91,14 +91,14 @@ export const emailLogin = async (
         case "EmailSignInError":
           return { error: `Email SignIn Error: ${error.message}` };
         default:
-          return { error: "Something went wrong!" };
+          return { error: "Algo salio mal." };
       }
     }
 
     throw error; // if not throw error, next-auth doesn't redirect
   }
 
-  return { success: "Email sent!" };
+  return { success: "Email enviado!" };
 };
 
 export const credentialsLogin = async (
@@ -108,7 +108,7 @@ export const credentialsLogin = async (
   const validatedFields = CredentialSigninSchema.safeParse(values);
 
   if (!validatedFields.success) {
-    return { error: "Invalid fields!" };
+    return { error: "Campos incorrectos." };
   }
 
   const { email, password, code } = validatedFields.data;
@@ -116,7 +116,7 @@ export const credentialsLogin = async (
   const existingUser = await prisma.user.findUnique({ where: { email } });
 
   if (!existingUser || !existingUser.email || !existingUser.password) {
-    return { error: "User with this email doesn't exist!" };
+    return { error: "Usuario con este correo no existe." };
   }
 
   if (!existingUser.emailVerified) {
@@ -127,7 +127,7 @@ export const credentialsLogin = async (
     // send email with verificationToken
     await sendVerificationEmail(email, verificationToken.token);
 
-    return { success: "Confirmation Email sent!" };
+    return { success: "Correo de confirmación enviado!" };
   }
 
   if (existingUser.isTwoFactorEnabled && existingUser.email) {
@@ -137,11 +137,11 @@ export const credentialsLogin = async (
       });
 
       if (!twoFactorToken) {
-        return { error: "Invalid code!" };
+        return { error: "Código incorrecto." };
       }
 
       if (twoFactorToken.token !== code) {
-        return { error: "Code mismatched!" };
+        return { error: "Código incorrecto." };
       }
 
       const hasExpired = new Date(twoFactorToken.expires) < new Date();
@@ -151,7 +151,7 @@ export const credentialsLogin = async (
           where: { id: twoFactorToken.id },
         });
 
-        return { error: "Code expired!" };
+        return { error: "Código expiradado." };
       }
 
       // when 2FA is valid, still remove twoFactorToken
@@ -194,16 +194,16 @@ export const credentialsLogin = async (
     if (error instanceof AuthError) {
       switch (error.type) {
         case "CredentialsSignin":
-          return { error: "Invalid credentials!" };
+          return { error: "Credenciales incorrectas." };
         default:
-          return { error: "Something went wrong!" };
+          return { error: "Algo salio mal." };
       }
     }
 
     throw error; // if not throw error, next-auth doesn't redirect
   }
 
-  return { success: "Email sent!" };
+  return { success: "Email enviado!" };
 };
 
 export const settings = async (values: z.infer<typeof SettingsSchema>) => {
@@ -211,12 +211,12 @@ export const settings = async (values: z.infer<typeof SettingsSchema>) => {
   const user = session?.user;
 
   if (!user) {
-    return { error: "Unauthorized!" };
+    return { error: "Sin autorización" };
   }
 
   if (user.id) {
     const dbUser = await prisma.user.findUnique({ where: { id: user.id } });
-    if (!dbUser) return { error: "Unauthorized!" };
+    if (!dbUser) return { error: "Sin autorización!" };
 
     // const account = await prisma.account.findFirst({
     //   where: { userId: dbUser.id },
@@ -234,7 +234,7 @@ export const settings = async (values: z.infer<typeof SettingsSchema>) => {
         where: { email: values.email },
       });
       if (existingUser && existingUser.id !== user.id) {
-        return { error: "Email already in use " };
+        return { error: "Este correo esta en uso." };
       }
 
       const verifiationToken = await generateVerificationToken(values.email);
@@ -243,7 +243,7 @@ export const settings = async (values: z.infer<typeof SettingsSchema>) => {
         verifiationToken.token
       );
 
-      return { success: "verification email sent! " };
+      return { success: "Email de verificación enviado!" };
     }
 
     if (values.password && values.newPassword && dbUser.password) {
@@ -253,7 +253,7 @@ export const settings = async (values: z.infer<typeof SettingsSchema>) => {
       );
 
       if (!passwordsMatch) {
-        return { error: "Incorrect password." };
+        return { error: "Contraseña incorrecta." };
       }
 
       const hashedPassword = await bcrypt.hash(values.newPassword, 10);
@@ -277,7 +277,7 @@ export const settings = async (values: z.infer<typeof SettingsSchema>) => {
       },
     });
 
-    return { success: "Settings updated!" };
+    return { success: "Ajustes actualizados!" };
   }
 };
 
@@ -285,14 +285,14 @@ export const reset = async (values: z.infer<typeof ResetSchema>) => {
   const validatedFields = ResetSchema.safeParse(values);
 
   if (!validatedFields.success) {
-    return { error: "Invalid email!" };
+    return { error: "Email incorrecto." };
   }
 
   const { email } = validatedFields.data;
 
   const existingUser = await prisma.user.findUnique({ where: { email } });
   if (!existingUser) {
-    return { error: "Email not found." };
+    return { error: "Email no encontrado." };
   }
 
   // generate token & send email
@@ -302,7 +302,7 @@ export const reset = async (values: z.infer<typeof ResetSchema>) => {
     passwordResetToken.token
   );
 
-  return { success: "Reset email sent!" };
+  return { success: "Correo para reestablecer la contraseña enviado!" };
 };
 
 export const newPassword = async (
@@ -310,12 +310,12 @@ export const newPassword = async (
   token?: string | null
 ) => {
   if (!token) {
-    return { error: "Missing token!" };
+    return { error: "Token perdido." };
   }
   const validatedFields = NewPasswordSchema.safeParse(values);
 
   if (!validatedFields.success) {
-    return { error: "Invalid password!" };
+    return { error: "Contraseña incorrecta." };
   }
 
   const { password } = validatedFields.data;
@@ -324,7 +324,7 @@ export const newPassword = async (
     where: { token },
   });
   if (!existingToken) {
-    return { error: "Invalid token!" };
+    return { error: "Token invalido." };
   }
 
   const hasExpired = new Date(existingToken.expires) < new Date();
@@ -334,14 +334,14 @@ export const newPassword = async (
       where: { id: existingToken.id },
     });
 
-    return { error: "Token has expired!" };
+    return { error: "Token expirado." };
   }
 
   const existingUser = await prisma.user.findUnique({
     where: { email: existingToken.email },
   });
   if (!existingUser) {
-    return { error: "Email does not exist!" };
+    return { error: "El email no existe." };
   }
 
   const hashedPassword = await bcrypt.hash(password, 10);
@@ -356,5 +356,5 @@ export const newPassword = async (
     where: { id: existingToken.id },
   });
 
-  return { success: "Password updated!" };
+  return { success: "Contraseña actualizada!" };
 };

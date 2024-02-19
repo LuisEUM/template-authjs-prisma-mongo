@@ -169,6 +169,11 @@ export const {
       if (token.role && session.user) {
         session.user.role = token.role;
       }
+      
+      if (token.image && session.user) {
+        session.user.image = token.image;
+      }
+
       if (session.user) {
         session.user.isTwoFactorEnabled = token.isTwoFactorEnabled;
         session.user.name = token.name;
