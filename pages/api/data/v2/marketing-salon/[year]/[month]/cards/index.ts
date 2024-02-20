@@ -1,4 +1,5 @@
 import fs from "fs/promises";
+import { NextApiRequest, NextApiResponse } from "next";
 import path from "path";
 
 interface GoogleDriveLinks {
@@ -205,7 +206,7 @@ function createMarketingCardsList(objects: BaseObject[]): TransformedObject[] {
 }
 
 // Función para crear una lista de agrupadas por categorias y lenguajes.
-function filterAndGroupByCategoriesAndLanguages(items, filesCodes, langCodes) {
+function filterAndGroupByCategoriesAndLanguages(items: any[], filesCodes: Record<string, string>, langCodes: Record<string, string>) {
   // Convertir el objeto filesCodes a un array de códigos de categoría válidos
   const categoryCodes = Object.keys(filesCodes);
 
@@ -238,7 +239,7 @@ function filterAndGroupByCategoriesAndLanguages(items, filesCodes, langCodes) {
   return groupedByCategoryAndLanguage;
 }
 
-export default async function handler(req, res) {
+export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   const { year, month } = req.query;
 
   try {
@@ -249,8 +250,8 @@ export default async function handler(req, res) {
     const data = await fs.readFile(filePath, "utf8");
     const jsonData = JSON.parse(data);
 
-    const fullMonthMarketingCards = await createMarketingCardsList(
-      jsonData[month]
+    const fullMonthMarketingCards = createMarketingCardsList(
+      jsonData[ month as string]
     );
     const groupedItemsByCategory = filterAndGroupByCategoriesAndLanguages(fullMonthMarketingCards, filesCodes, langCodes);
     //console.log(groupedItemsByCategory);
@@ -261,7 +262,7 @@ export default async function handler(req, res) {
       res.status(404).json({ message: "Something went wrong" });
     }
   } catch (error) {
-    if (error.code === "ENOENT") {
+    if ((error as NodeJS.ErrnoException).code === "ENOENT") {
       res.status(404).json({ message: "Year data not found." });
     } else {
       res.status(500).json({ message: "Error reading file." });
