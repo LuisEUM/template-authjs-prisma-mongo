@@ -6,7 +6,7 @@ type ComponentsProps = {
   dataMarketingCards: any;
   index: number;
   item: {
-    childrensCode: any;
+    childrensCode?: any;
     id?: string;
     order?: number;
     type:

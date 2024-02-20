@@ -1,6 +1,7 @@
 import { Tab, Tabs } from "@nextui-org/react";
 import ComponentSelector from "../components-selector/components-selector";
 
+
 type ComponentsProps = {
   index: number;
   item: {
@@ -15,9 +16,14 @@ type ComponentsProps = {
     available?: { startDateTime?: string; endDateTime?: string };
     content?: Array<any>;
   };
+  dataMarketingCards: any;
 };
 
-export default function TabsAnimated({ item, index }: ComponentsProps) {
+export default function TabsAnimated({
+  item,
+  index,
+  dataMarketingCards,
+}: ComponentsProps) {
   return (
     <div
       className="max-w-full w-full flex flex-col items-center justify-center content-center"
@@ -53,6 +59,7 @@ export default function TabsAnimated({ item, index }: ComponentsProps) {
                           item={{ ...item }}
                           index={index}
                           key={item.id}
+                          dataMarketingCards={dataMarketingCards}
                         />
                       ))}
                   </div>
