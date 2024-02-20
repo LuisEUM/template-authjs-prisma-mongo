@@ -6,7 +6,7 @@ import nodemailer from "nodemailer";
 //   secure: true,
 //   auth: {
 //     type: "OAuth2",
-//     user: process.env.GOOGLE_USER_EMAIL,
+//     user: process.env.GOOGLE_CLIENT_ID,
 //     clientId: process.env.GOOGLE_CLIENT_ID,
 //     clientSecret: process.env.GOOGLE_CLIENT_SECRET,
 //     accessToken: process.env.GOOGLE_ACCESS_TOKEN,
@@ -19,8 +19,8 @@ const transporter = nodemailer.createTransport({
   port: 465,
   secure: true,
   auth: {
-    user: process.env.GOOGLE_USER_EMAIL,
-    pass: process.env.GOOGLE_USER_APP_PASSWORD,
+    user: process.env.GOOGLE_CLIENT_ID,
+    pass: process.env.GOOGLE_CLIENT_SECRET,
   },
 });
 
@@ -32,7 +32,7 @@ export const sendVerificationEmail = async (email: string, token: string) => {
 
   // send email
   const mailOptions = {
-    from: process.env.GOOGLE_USER_EMAIL,
+    from: process.env.GOOGLE_CLIENT_ID,
     to: email,
     subject: "Confirm your email",
     html: htmlOne({
@@ -61,7 +61,7 @@ export const sendPasswordResetEmail = async (email: string, token: string) => {
 
   // send email
   const mailOptions = {
-    from: process.env.GOOGLE_USER_EMAIL,
+    from: process.env.GOOGLE_CLIENT_ID,
     to: email,
     subject: "Reset your password",
     html: htmlOne({
@@ -87,7 +87,7 @@ export const sendPasswordResetEmail = async (email: string, token: string) => {
 
 export const sendTwoFactorTokenEmail = async (email: string, token: string) => {
   const mailOptions = {
-    from: process.env.GOOGLE_USER_EMAIL,
+    from: process.env.GOOGLE_CLIENT_ID,
     to: email,
     subject: "2FA Code",
 
