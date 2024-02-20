@@ -63,6 +63,7 @@
                   "order": 1,
                   "type": "tabsCardsList",
                   "childrensType": "downloadImageCards",
+                  "childrensCode": ["0080", "0050", "0004", "0005"],
                   "title": "Cartelería",
                   "content": [
                     {
@@ -111,6 +112,7 @@
                   "order": 1,
                   "type": "tabsCardsList",
                   "childrensType": "downloadImageCards",
+                  "childrensCode": ["0000"],
                   "title": "Stoppers",
                   "content": [
                     {
@@ -159,6 +161,7 @@
                   "order": 1,
                   "type": "tabsCardsList",
                   "childrensType": "downloadImageCards",
+                  "childrensCode": ["0010"],
                   "title": "Tests",
                   "content": [
                     {
@@ -207,6 +210,7 @@
                   "order": 1,
                   "type": "tabsCardsList",
                   "childrensType": "downloadCarouselCards",
+                  "childrensCode": ["0085"],
                   "title": "Tarjetas",
                   "content": [
                     {
@@ -283,6 +287,7 @@
                   "order": 1,
                   "type": "tabsCardsList",
                   "childrensType": "downloadImageAndCopyTextCards",
+                  "childrensCode": ["1080"],
                   "title": "Posts de Acción",
                   "content": [
                     {
@@ -332,6 +337,7 @@
                   "type": "tabsCardsList",
                   "childrensType": "downloadImageCards",
                   "title": "Stories de Acción",
+                  "childrensCode": ["1920"],
                   "content": [
                     {
                       "id": null,
@@ -379,6 +385,7 @@
                   "order": 1,
                   "type": "tabsCardsList",
                   "childrensType": "downloadImageCards",
+                  "childrensCode": ["0216"],
                   "title": "Videos",
                   "content": [
                     {
@@ -423,58 +430,11 @@
               "classType": "default",
               "content": [
                 {
-                  "id": "tab1",
-                  "order": 1,
-                  "type": "tab",
-                  "title": "Posts de Acción",
-                  "classType": "default",
-                  "content": [
-                    {
-                      "id": "cardList1",
-                      "order": 1,
-                      "type": "tabsCardsList",
-                      "childrensType": "downloadImageAndCopyTextCards",
-                      "title": "Posts de Acción",
-                      "content": [
-                        {
-                          "id": null,
-                          "order": null,
-                          "title": "",
-                          "copy": "",
-                          "url": "#",
-                          "category": null,
-                          "lang": null,
-                          "groupTitle": null
-                        },
-                        {
-                          "title": "",
-                          "url": "#"
-                        },
-                        {
-                          "title": "",
-                          "url": "#"
-                        }
-                      ],
-                      "active": true,
-                      "available": {
-                        "startDateTime": null,
-                        "endDateTime": null
-                      },
-                      "auth": []
-                    }
-                  ],
-                  "active": true,
-                  "available": {
-                    "startDateTime": null,
-                    "endDateTime": null
-                  },
-                  "auth": []
-                },
-                {
                   "id": "tabsCardsList1",
                   "order": 1,
                   "type": "tabsCardsList",
                   "childrensType": "copyTextCards",
+                  "childrensCode": ["6969"],
                   "title": "SMS & WhatsApp",
                   "content": [
                     {
@@ -525,6 +485,7 @@
                   "order": 1,
                   "type": "tabsCardsList",
                   "childrensType": "downloadImageAndCopyTextCards",
+                  "childrensCode": ["0108"],
                   "title": "Posts Mensuales",
                   "content": [
                     {

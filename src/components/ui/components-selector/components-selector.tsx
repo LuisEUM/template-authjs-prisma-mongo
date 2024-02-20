@@ -2,13 +2,22 @@ import { Button } from "@nextui-org/react";
 import VideosPlayers from "../videos-players/videos-players";
 import Slides from "../slides/slides";
 import TabsAnimated from "../tabs/tabs-animated";
+import MarketingTabCardsList from "../../aaa/marketing-tab-cards-list";
 
 type ComponentsProps = {
   index: number;
+  dataMarketingCards: any;
   item: {
     id?: string;
     order?: number;
-    type: "slider" | "video" | "button" | "tabs" | "tab" | string;
+    type:
+      | "slider"
+      | "video"
+      | "button"
+      | "tabs"
+      | "tab"
+      | "tabsCardsList"
+      | string;
     title?: string;
     name?: string;
     classType?: string | "default";
@@ -18,7 +27,13 @@ type ComponentsProps = {
   };
 };
 
-export default function ComponentsSelector({ index, item }: ComponentsProps) {
+export default function ComponentsSelector({
+  index,
+  item,
+  dataMarketingCards,
+}: ComponentsProps) {
+  console.log(dataMarketingCards);
+
   return (
     <>
       {item.type === "video" && item.active === true && (
@@ -40,7 +55,19 @@ export default function ComponentsSelector({ index, item }: ComponentsProps) {
         <Slides item={{ ...item }} index={index}></Slides>
       )}
       {item.type === "tabs" && item.active === true && (
-        <TabsAnimated item={{ ...item }} index={index} />
+        <TabsAnimated
+          item={{ ...item }}
+          index={index}
+          dataMarketingCards={dataMarketingCards}
+        />
+      )}
+
+      {item.type === "tabsCardsList" && item.active === true && (
+        <MarketingTabCardsList
+          dataMarketingCards={dataMarketingCards}
+          item={{ ...item }}
+          index={index}
+        />
       )}
     </>
   );

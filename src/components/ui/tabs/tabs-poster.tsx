@@ -3,7 +3,6 @@ import ComponentSelector from "../components-selector/components-selector";
 
 type ComponentsProps = {
   index: number;
-  dataMarketingCards: any;
   item: {
     id?: string;
     order?: number;
@@ -18,11 +17,7 @@ type ComponentsProps = {
   };
 };
 
-export default function TabsAnimated({
-  item,
-  index,
-  dataMarketingCards,
-}: ComponentsProps) {
+export default function TabsAnimated({ item, index }: ComponentsProps) {
   return (
     <div
       className="max-w-full w-full flex flex-col items-center justify-center content-center"
@@ -58,7 +53,6 @@ export default function TabsAnimated({
                           item={{ ...item }}
                           index={index}
                           key={item.id}
-                          dataMarketingCards={dataMarketingCards}
                         />
                       ))}
                   </div>

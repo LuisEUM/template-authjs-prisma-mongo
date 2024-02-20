@@ -13,14 +13,16 @@ interface MonthlyData {
 function Page() {
   const searchParams = useSearchParams();
   const [tab, setTab] = useState(searchParams?.get("tab") ?? null);
-  const [data, setData] = useState<MonthlyData | null>(null);
+  const [dataStructure, setDataStructure] = useState<MonthlyData | null>(null);
+  const [dataMarketingCards, setDataMarketingCards] =
+    useState<MonthlyData | null>();
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<Error | null>(null);
   const [year, setYear] = useState<string>(
     (searchParams?.get("year") as string) ?? new Date().getFullYear().toString()
   );
   const [month, setMonth] = useState<string>(
-    (searchParams?.get("month") as string) ?? "january"
+    (searchParams?.get("month") as string) ?? "march"
   );
   const monthTranslations = dataMonths.months.find((item) => item.id === month);
   // Update the type of sideMenu state
@@ -30,17 +32,30 @@ function Page() {
     async function fetchData(year: string, month: string) {
       setLoading(true);
       try {
-        const response = await fetch(
-          `/api/data/salon-toro/marketing-salon/${year}/${month}`
+        const estructureData = await fetch(
+          `/api/data/v2/marketing-salon/${year}/${month}/estructure`
         );
-        if (!response.ok) {
-          throw new Error(`Data fetch failed: ${response.status}`);
-        }
-        const newData = await response.json();
-        console.log(newData);
+        const cardsData = await fetch(
+          `/api/data/v2/marketing-salon/${year}/${month}/cards`
+        );
 
-        setData(newData);
-        const menuItems = generateSideMenu(newData);
+        if (!estructureData.ok) {
+          throw new Error(
+            `Data Structure fetch failed: ${estructureData.status}`
+          );
+        }
+        if (!cardsData.ok) {
+          throw new Error(
+            `Data marketingCards fetch failed: ${estructureData.status}`
+          );
+        }
+        const newDataStructure = await estructureData.json();
+        setDataStructure(newDataStructure);
+
+        const newMarketingCards = await cardsData.json();
+        setDataMarketingCards(newMarketingCards);
+
+        const menuItems = generateSideMenu(newDataStructure);
         setSideMenu({ list: menuItems });
         setTab(menuItems[0].id);
       } catch (err) {
@@ -57,17 +72,17 @@ function Page() {
     return <p>Error: {error.message}</p>;
   }
 
-  console.log(data);
+  console.log(dataStructure);
   // Renderizado condicional basado en los datos
-  return data ? (
+  return dataStructure ? (
     <>
       <TailwindGrid fullSize>
         <div className="col-span-1 col-start-1 col-end-2 h-screen fixed w-2/12  top-0 z-30 border-r box-border border-zinc-500 bg-white-950/40 backdrop-blur-lg bg-clip-padding backdrop-filter opacity-75 hidden lg:block">
           <div className="mt-24 flex p-4">
             <ul
-              aria-label={`Plan de Marketing ${monthTranslations?.title + " "} ${
-                year ?? ""
-              }`}
+              aria-label={`Plan de Marketing ${
+                monthTranslations?.title + " "
+              } ${year ?? ""}`}
               className=" z-30 gap-y-0 self-center col-start-1 lg:col-start-3 col-end-5 md:col-end-9 lg:col-end-13 w-full flex flex-col bg-red-300/0 justify-center items-center overflow-hidden border-gray-700/30 border-4 rounded-2xl "
             >
               <strong className="font-bold py-2 bg-gray-900 text-white w-full text-center">
@@ -104,9 +119,9 @@ function Page() {
         <div className="relative col-span-full max-w-full  mt-10 gap-10">
           <TailwindGrid>
             <ul
-              aria-label={`Plan de Marketing ${monthTranslations?.title + " "} ${
-                year ?? ""
-              }`}
+              aria-label={`Plan de Marketing ${
+                monthTranslations?.title + " "
+              } ${year ?? ""}`}
               className="h-full lg:hidden z-30 gap-y-0 self-center col-start-1 lg:col-start-3 col-end-5 md:col-end-9 lg:col-end-13 w-full flex flex-col bg-red-300/0 justify-center items-center overflow-hidden border-gray-700/30 border-4 rounded-2xl "
             >
               <strong className="font-bold py-2 bg-gray-900 text-white w-full text-center">
@@ -150,8 +165,8 @@ function Page() {
                     )?.title}
                 </h3>
                 <Container>
-                  {data &&
-                    data.map(
+                  {dataStructure &&
+                    dataStructure.map(
                       (tabData: {
                         id?: string;
                         content: {
@@ -204,6 +219,7 @@ function Page() {
                               item={{ ...item }}
                               index={itemIndex}
                               key={item.order}
+                              dataMarketingCards={dataMarketingCards}
                             />
                           )
                         )
@@ -226,7 +242,7 @@ function Page() {
 
 export default Page;
 
-function generateSideMenu(data: {
+function generateSideMenu(dataStructure: {
   [x: string]: {
     id: any;
     title: any;
@@ -235,11 +251,11 @@ function generateSideMenu(data: {
 }) {
   let menuItems = [];
 
-  for (const key in data) {
-    if (data[key]) {
-      const id = data[key].id;
-      const title = data[key].title;
-      const order = data[key].order || 9999;
+  for (const key in dataStructure) {
+    if (dataStructure[key]) {
+      const id = dataStructure[key].id;
+      const title = dataStructure[key].title;
+      const order = dataStructure[key].order || 9999;
       menuItems.push({ title: title, id: id, order: order });
     } else {
       menuItems.push({ title: null, id: null, order: null });

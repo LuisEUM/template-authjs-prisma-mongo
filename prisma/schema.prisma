@@ -58,7 +58,7 @@ model Account {
 
   @@unique([provider, providerAccountId])
 }
-
+//TODO: REVISAR
 model TwoFactorConfirmation {
   id String @id @default(auto()) @map("_id") @db.ObjectId
 
@@ -76,6 +76,7 @@ model PasswordResetToken {
   @@unique([email, token])
 }
 
+//TODO: REVISAR
 model TwoFactorToken {
   id      String   @id @default(auto()) @map("_id") @db.ObjectId
   email   String
@@ -84,3 +85,4 @@ model TwoFactorToken {
 
   @@unique([email, token])
 }
+
