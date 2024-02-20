@@ -173,11 +173,7 @@ function createMarketingCardsList(objects: BaseObject[]): TransformedObject[] {
         transformedUrl: transformedUrl,
       };
 
-      try {
-        grouped[baseId].preview.push(previewItem);
-      } catch (error) {
-        return null
-      }
+      grouped[baseId]?.preview.push(previewItem);
     }
   });
 

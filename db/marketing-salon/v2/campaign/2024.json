@@ -607,13 +607,51 @@
               "classType": "default",
               "content": [
                 {
-                  "id": "content1",
                   "order": 1,
                   "type": "video",
-                  "classType": "default",
-                  "title": null,
-                  "url": null,
-                  "active": false,
+                  "id": "planningSessionAinhoa",
+                  "title": "Marketing Salon Nuevo - Planificación (Ainhoa)",
+                  "url": "https://player.vimeo.com/video/913045342?h=72a3c1e252",
+                  "active": true,
+                  "available": {
+                    "startDateTime": null,
+                    "endDateTime": null
+                  },
+                  "auth": []
+                },
+                {
+                  "order": 2,
+                  "type": "video",
+                  "id": "planningSessionAinhoa2",
+                  "title": "Marketing Salon Junior - Planificación (Ainhoa)",
+                  "url": "https://player.vimeo.com/video/913047218?h=1c0b675eca&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+                  "active": true,
+                  "available": {
+                    "startDateTime": null,
+                    "endDateTime": null
+                  },
+                  "auth": []
+                },
+                {
+                  "order": 3,
+                  "type": "video",
+                  "id": "planningSessionLorena",
+                  "title": "Marketing Salon Avanzado - Planificación (Lorena)",
+                  "url": "https://player.vimeo.com/video/913037729?h=cd982d2d3b",
+                  "active": true,
+                  "available": {
+                    "startDateTime": null,
+                    "endDateTime": null
+                  },
+                  "auth": []
+                },
+                {
+                  "order": 4,
+                  "type": "video",
+                  "id": "planningSessionPedr",
+                  "title": "Marketing Salon Junior - Planificación (Pedro)",
+                  "url": "https://player.vimeo.com/video/904546961?h=639992e50d",
+                  "active": true,
                   "available": {
                     "startDateTime": null,
                     "endDateTime": null
@@ -634,22 +672,7 @@
               "type": "tab",
               "title": "Sesiones de Supervisión",
               "classType": "default",
-              "content": [
-                {
-                  "id": "content1",
-                  "order": 1,
-                  "type": "video",
-                  "classType": "default",
-                  "title": null,
-                  "url": null,
-                  "active": false,
-                  "available": {
-                    "startDateTime": null,
-                    "endDateTime": null
-                  },
-                  "auth": []
-                }
-              ],
+              "content": [],
               "active": true,
               "available": {
                 "startDateTime": null,
@@ -663,22 +686,7 @@
               "type": "tab",
               "title": "Sesiones de Planificación",
               "classType": "default",
-              "content": [
-                {
-                  "id": "content1",
-                  "order": 1,
-                  "type": "video",
-                  "classType": "default",
-                  "title": null,
-                  "url": null,
-                  "active": false,
-                  "available": {
-                    "startDateTime": null,
-                    "endDateTime": null
-                  },
-                  "auth": []
-                }
-              ],
+              "content": [],
               "active": true,
               "available": {
                 "startDateTime": null,
