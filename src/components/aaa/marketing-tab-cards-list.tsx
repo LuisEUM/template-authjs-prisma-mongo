@@ -6,6 +6,7 @@ type ComponentsProps = {
   dataMarketingCards: any;
   index: number;
   item: {
+    childrensCode: any;
     id?: string;
     order?: number;
     type:
@@ -23,14 +24,13 @@ type ComponentsProps = {
     active: boolean | true;
     available?: { startDateTime?: string; endDateTime?: string };
     content?: Array<any>;
-    childrensType:
+    childrensType?:
       | "downloadCarouselCards"
       | "copyTextCards"
       | "downloadImageAndCopyTextCards"
       | "downloadImageCards"
       | string;
   };
-  childrensCode: string;
 };
 
 export default function MarketingTabCardsList({
@@ -44,12 +44,12 @@ export default function MarketingTabCardsList({
     setContent(item);
 
     // Filtrar el objeto para obtener solo las claves que están en el array de códigos
-    const filteredObject = Object.keys(dataMarketingCards)
+    const filteredObject: { [key: string]: any } = Object.keys(dataMarketingCards)
       .filter((key) => item.childrensCode.includes(key))
       .reduce((obj, key) => {
         obj[key] = dataMarketingCards[key];
         return obj;
-      }, {});
+      }, {} as { [key: string]: any });
 
     console.log("filteredObject", filteredObject);
 
@@ -105,7 +105,7 @@ export default function MarketingTabCardsList({
   }
 }
 
-const GenericContentTab = ({ list, lang }) => {
+const GenericContentTab = ({ list, lang }: { list: any[], lang: string }) => {
   // Renderiza tu contenido aquí, dependiendo del tipo de contenido que tengas
   return (
     <div>

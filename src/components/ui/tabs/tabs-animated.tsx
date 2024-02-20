@@ -15,7 +15,14 @@ type ComponentsProps = {
     active: boolean | true;
     available?: { startDateTime?: string; endDateTime?: string };
     content?: Array<any>;
+    childrensType?:
+      | "downloadCarouselCards"
+      | "copyTextCards"
+      | "downloadImageAndCopyTextCards"
+      | "downloadImageCards"
+      | string;
   };
+  childrensCode?: string;
 };
 
 export default function TabsAnimated({

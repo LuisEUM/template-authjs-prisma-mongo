@@ -8,6 +8,7 @@ type ComponentsProps = {
   index: number;
   dataMarketingCards: any;
   item: {
+    childrensCode?: string;
     id?: string;
     order?: number;
     type:
@@ -24,6 +25,12 @@ type ComponentsProps = {
     url: string;
     active: boolean | true;
     available?: { startDateTime?: string; endDateTime?: string };
+    childrensType?:
+      | "downloadCarouselCards"
+      | "copyTextCards"
+      | "downloadImageAndCopyTextCards"
+      | "downloadImageCards"
+      | string;
   };
 };
 
@@ -65,7 +72,7 @@ export default function ComponentsSelector({
       {item.type === "tabsCardsList" && item.active === true && (
         <MarketingTabCardsList
           dataMarketingCards={dataMarketingCards}
-          item={{ ...item }}
+          item={{ ...item, childrensCode: undefined }}
           index={index}
         />
       )}
