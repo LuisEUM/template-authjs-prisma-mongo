@@ -7,26 +7,27 @@ interface GoogleDriveLinks {
   download: string;
 }
 
-interface BaseObject {
-  title: string;
-  url: string; 
-  copy?: string;
-  groupTitle?: string;
-  preview?: PreviewItem[]; 
-}
-
 interface PreviewItem {
   id: string;
   order: number;
   title: string;
-  url: string; 
-  transformedUrl: GoogleDriveLinks; 
+  url: string;
+  transformedUrl: GoogleDriveLinks;
+  preview?: PreviewItem[]; // Esta línea es opcional, dependiendo de si PreviewItem realmente necesita contener otros PreviewItems.
+}
+
+interface BaseObject {
+  title: string;
+  url: string;
+  copy?: string;
+  groupTitle?: string;
+  preview: PreviewItem[];
 }
 
 interface TransformedObject extends BaseObject {
   id: string;
   order: number;
-  transformedUrl: GoogleDriveLinks;
+  transformedUrl: GoogleDriveLinks; // Asegura que esta propiedad es del tipo correcto.
   category: string;
   lang: string;
   downloadName: string;
@@ -165,15 +166,38 @@ function createMarketingCardsList(objects: BaseObject[]): TransformedObject[] {
     if (obj.title.includes("-P")) {
       const orderMatch = obj.title.split("-P")[1].match(/\d+/);
       const order = orderMatch ? Number(orderMatch[0]) : 0;
-      const previewItem: PreviewItem = {
+      
+      let previewItem: PreviewItem = {
         id: obj.title.substring(0, 25),
         order: order,
         title: `${category}-${version?.substring(0, 2)}: P-${order}`,
         url: obj.url,
         transformedUrl: transformedUrl,
       };
+      
 
-      grouped[baseId]?.preview.push(previewItem);
+      if (grouped[baseId]) {
+        grouped[baseId].preview.push(previewItem);
+      } else {
+        grouped[baseId] = {
+          id: baseId,
+          order: Number(version?.substring(0, 2)) || Number(version),
+          title: `${category}: ${lang}-${version?.substring(0, 2)}`,
+          url: obj.url,
+          copy: obj.copy || "",
+          transformedUrl: transformedUrl,
+          category: category,
+          lang: lang,
+          downloadName: downloadName,
+          business: business,
+          campaign: campaign,
+          year: Number(yearAndMonth?.substring(0, 2)),
+          month: Number(yearAndMonth?.substring(2, 4)),
+          groupOrder: Number(family),
+          groupTitle: obj.groupTitle || "",
+          preview: [previewItem],
+        };
+      }
     }
   });
 
